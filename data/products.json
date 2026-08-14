@@ -1,5 +1,19 @@
 [
   {
+    "id": "akikoma",
+    "name": "AkiKoma",
+    "url": "https://akikoma-omega.vercel.app/",
+    "icon": "icons/akikoma.png",
+    "tagline": "空きコマ・ランチを一緒に過ごす仲間が見つかる大学生限定マッチング",
+    "description": "大学生活の「3限だけポッカリ空いた」「学食で1人飯が気まずい」を解決する、大学生・大学院生限定のスキマ時間マッチングアプリの事前登録LP。時間割の空きマスをタップするだけで、同じキャンパスや近隣他大学のタイミングが合う学生とマッチし、学食や駅前カフェで合流できる。「学食でサクッと20分」「図書館で無言作業」などの目的タグで気まずさゼロ、急な休講には「今ヒマ！」ボタンで即マッチ。学生証・ac.jpメール認証のクローズドコミュニティ設計。LINE友だち追加で先行リリース枠の事前登録を受付中。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "matching",
+      "lifestyle"
+    ]
+  },
+  {
     "id": "lastre",
     "name": "Lastre",
     "url": "https://lastre.vercel.app/",
