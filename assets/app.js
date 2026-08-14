@@ -66,7 +66,8 @@
       });
   };
 
-  fetch("data/products.json")
+  // GitHub Pagesは10分キャッシュ(max-age=600)のため、登録直後でも常に最新を取る
+  fetch(`data/products.json?t=${Date.now()}`)
     .then((r) => r.json())
     .then(render)
     .catch(() => {
