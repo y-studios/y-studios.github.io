@@ -19,6 +19,7 @@ body {
   color: var(--ink);
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
 }
 
 /* ---------- header ---------- */
@@ -67,19 +68,6 @@ body {
 
 .site-nav a:hover { border-bottom-color: var(--accent); }
 
-.site-nav .nav-x {
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
-.site-nav .nav-x svg {
-  width: 16px;
-  height: 16px;
-  display: block;
-}
-
-.site-nav .nav-x:hover { opacity: 0.55; }
-
 /* ---------- hero ---------- */
 .hero {
   display: grid;
@@ -91,19 +79,68 @@ body {
   margin: 0 auto;
 }
 
+/* ---------- hero figure ---------- */
 .hero-figure {
+  position: relative;
   margin: 0;
   justify-self: end;
 }
 
-/* 元画像は白背景JPEG。ページ背景と完全一致しないため multiply で白を透過させて馴染ませる */
+/* 透過PNG(外側のみ透過・胴体は不透明のステッカー状)なので図形を背後に重ねても色が濁らない */
 .hero-figure img {
+  position: relative;
+  z-index: 1;
   display: block;
-  width: clamp(180px, 26vw, 300px);
+  width: clamp(210px, 29vw, 340px);
   height: auto;
-  mix-blend-mode: multiply;
   image-rendering: pixelated;
   animation: hero-float 4.5s ease-in-out infinite;
+}
+
+.shape { position: absolute; z-index: 0; }
+
+.shape-tri {
+  top: -5%;
+  right: -3%;
+  width: clamp(34px, 3.6vw, 52px);
+  height: clamp(34px, 3.6vw, 52px);
+  background: var(--accent);
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.shape-tri2 {
+  top: -5%;
+  right: calc(-3% - clamp(38px, 4vw, 58px));
+  width: clamp(34px, 3.6vw, 52px);
+  height: clamp(34px, 3.6vw, 52px);
+  background: var(--ink);
+  clip-path: polygon(100% 0, 100% 100%, 0 0);
+}
+
+.shape-square {
+  right: -11%;
+  top: 47%;
+  width: clamp(30px, 3.2vw, 46px);
+  height: clamp(30px, 3.2vw, 46px);
+  background: var(--accent);
+}
+
+.shape-circle {
+  left: -9%;
+  bottom: 3%;
+  width: clamp(52px, 5.6vw, 80px);
+  height: clamp(52px, 5.6vw, 80px);
+  border-radius: 50%;
+  background: var(--ink);
+}
+
+.shape-dot {
+  left: 3%;
+  bottom: 0;
+  width: clamp(24px, 2.5vw, 36px);
+  height: clamp(24px, 2.5vw, 36px);
+  border-radius: 50%;
+  background: var(--accent);
 }
 
 @keyframes hero-float {
@@ -118,7 +155,7 @@ body {
 @media (max-width: 680px) {
   .hero { grid-template-columns: 1fr; }
   .hero-figure { justify-self: center; }
-  .hero-figure img { width: clamp(160px, 45vw, 220px); }
+  .hero-figure img { width: clamp(170px, 46vw, 230px); }
 }
 
 .hero-eyebrow {
@@ -143,6 +180,51 @@ body {
   font-size: clamp(0.95rem, 1.6vw, 1.05rem);
   color: var(--muted);
 }
+
+/* 見出しのマーカー風ハイライト */
+.hl {
+  background: linear-gradient(transparent 62%, var(--accent) 62%, var(--accent) 94%, transparent 94%);
+  padding: 0 0.06em;
+}
+
+/* ---------- hero actions ---------- */
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 36px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  padding: 12px 26px;
+  border-radius: 999px;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.btn:hover { transform: translateY(-2px); }
+
+.btn svg { width: 14px; height: 14px; }
+
+.btn-primary {
+  background: var(--accent);
+  color: var(--ink);
+}
+
+.btn-ghost {
+  border: 1.5px solid var(--ink);
+  color: var(--ink);
+  background: transparent;
+}
+
+.btn-ghost:hover { background: #f2f0ea; }
 
 /* ---------- products ---------- */
 .products {
