@@ -2,7 +2,7 @@
 
 自分がつくったプロダクトを静かに並べておく場所。
 
-**URL**: https://yama227.github.io/y-studio/
+**URL**: https://y-studios.github.io/
 
 ## プロダクト登録の流れ
 
