@@ -1,5 +1,25 @@
 [
   {
+    "id": "tennis-gut-antenna",
+    "name": "テニスガット張り替えナビ",
+    "url": "https://tennis-gut-antenna.com/",
+    "icon": "icons/tennis-gut-antenna.svg",
+    "tagline": "全国のテニスガット張り替え店を探せる検索サイト",
+    "description": "全国のテニスガット張り替え店を都道府県別に探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件で絞り込みができ、テニス愛好家が地元の張り替え店を効率よく見つけられる。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "tennis", "search"]
+  },
+  {
+    "id": "badminton-gut-antenna",
+    "name": "バドミントンガットナビ",
+    "url": "https://badminton-gut-antenna.com/",
+    "icon": "icons/badminton-gut-antenna.svg",
+    "tagline": "全国のバドミントンガット張り替え店を探せる検索サイト",
+    "description": "全国のバドミントンガット張り替え店を47都道府県から探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件検索に対応し、ラケットのガットを張り替えたいプレイヤーと店舗をつなぐ。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "badminton", "search"]
+  },
+  {
     "id": "supervisor-seo",
     "name": "SEO監修者マッチ",
     "url": "https://supervisor-seo.com/",
