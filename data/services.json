@@ -1,5 +1,65 @@
 [
   {
+    "id": "insta-baikyaku",
+    "name": "インスタ売却パートナーズ",
+    "url": "https://spiffy-cactus-2fcc10.netlify.app/",
+    "icon": "icons/insta-baikyaku.svg",
+    "tagline": "そのアカウント、売るという選択肢。",
+    "description": "Instagramアカウントの売却をまるごと代行するサービス。アカウント査定・買い手のマッチング・価格交渉から、譲渡契約書の作成・NDA締結、ログイン情報の安全な受け渡しまで一括サポート。相談・査定は無料で、料金は売却成立時のみの完全成果報酬型(売却額の10%)。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "instagram", "m-and-a"]
+  },
+  {
+    "id": "amazon-baikyaku",
+    "name": "Amazonアカウント売却代行.com",
+    "url": "https://stunning-torrone-b45b36.netlify.app/",
+    "icon": "icons/amazon-baikyaku.svg",
+    "tagline": "そのAmazonアカウント、売るという選択肢。",
+    "description": "Amazonセラーアカウントの売却を代行するサービス。アカウント査定・買い手とのマッチング・交渉代行から、契約書作成・アカウント引き継ぎ・受け渡し完了確認までサポートする。初期費用・着手金ゼロ、売却成立時のみ売却額の10%の完全成果報酬型。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "amazon", "m-and-a"]
+  },
+  {
+    "id": "website-baikyaku",
+    "name": "Webサイト売却代行.com",
+    "url": "https://ma.alphalinkpartners.com/",
+    "icon": "icons/website-baikyaku.svg",
+    "tagline": "そのサイト、売るという選択肢。",
+    "description": "Webサイトの売却をまるごと代行するサービス。サイト査定・売却価格の算出、買い手候補の開拓・マッチング、匿名での交渉・秘密保持から、契約書作成・ドメイン移管などの引き継ぎまでサポート。着手金・初期費用ゼロ、売却成立時のみ売却額の10%の完全成果報酬型。運営はデジタルアセットパートナーズ。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "web", "m-and-a"]
+  },
+  {
+    "id": "amazon-shingan-sodan",
+    "name": "Amazon真贋調査 再起相談窓口",
+    "url": "https://celadon-monstera-668e8f.netlify.app/",
+    "icon": "icons/amazon-shingan-sodan.svg",
+    "tagline": "諦める前に、もう一度だけ話を聞かせてください",
+    "description": "Amazonの真贋調査で差し戻し・アカウント閉鎖に直面した出品者のための診断・再起支援サービス。提出物や差し戻し理由の再診断、書類・反論文の立て直し、閉鎖後の選択肢整理(新規開設・他モール展開)までサポートする。着手金49,800円+出品再開時のみの成功報酬49,800円。対応成功率88%を掲げつつ、再挑戦が難しい場合は正直に伝える方針。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "amazon", "consulting"]
+  },
+  {
+    "id": "menta-yayakoma",
+    "name": "ややこま / MENTAメンター",
+    "url": "https://menta.work/user/97911",
+    "icon": "icons/menta-yayakoma.svg",
+    "tagline": "SEO・副業の収入化を支援するメンタリング",
+    "description": "メンターサービスMENTAで提供している、Webマーケティング・副業収入化のメンタリング。SEOコンサルティングを軸に、せどり・動画編集・広告運用など複数分野の収益化経験をもとに相談に乗る。フリーランスとして100件超のクライアントワーク、副業で月80〜100万円の収入実績。初回無料相談あり、副業相談プランは3,980円〜(無制限チャット)。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "mentoring", "side-business"]
+  },
+  {
+    "id": "yes-my-seo",
+    "name": "Yes my SEO",
+    "url": "https://startling-zuccutto-45eb9d.netlify.app/",
+    "icon": "icons/yes-my-seo.svg",
+    "tagline": "月額数万円のSEOツール、まだ払い続けますか?",
+    "description": "既製品のSEOツールの代わりに「自社専用ツール」を開発するサービス。順位下落キャッチ&リライト指示、競合URL分析&記事構成案生成、社長も分かる「3行SEOレポート」などを専用開発し、月額費用内で追加ツール開発・保守運用にも対応する。初期着手金49,800円+月額29,800円(税別)。",
+    "registeredAt": "2026-08-15",
+    "tags": ["service", "seo", "tool-dev"]
+  },
+  {
     "id": "youtube-baikyaku-daiko",
     "name": "YouTubeチャンネル売却代行.com",
     "url": "https://gleeful-profiterole-3d6791.netlify.app/",

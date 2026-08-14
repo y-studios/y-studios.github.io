@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- 検索順位の上昇チャート -->
+  <rect x="118" y="288" width="56" height="106" rx="14" fill="#ffffff" opacity="0.45"/>
+  <rect x="196" y="240" width="56" height="154" rx="14" fill="#ffffff" opacity="0.7"/>
+  <rect x="274" y="184" width="56" height="210" rx="14" fill="#ffffff"/>
+  <!-- 上昇矢印 -->
+  <path d="M140 226 L262 156 L330 190 L400 118" fill="none" stroke="#f2b705" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 118 L398 168 M400 118 L352 112" fill="none" stroke="#f2b705" stroke-width="24" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#155e75"/>
+      <stop offset="1" stop-color="#0c3b4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- 救命浮き輪(再起サポート) -->
+  <circle cx="256" cy="256" r="140" fill="#ffffff"/>
+  <circle cx="256" cy="256" r="72" fill="#155e75"/>
+  <g fill="#ff7043">
+    <path d="M256 116 A140 140 0 0 1 355 157 L304 208 A72 72 0 0 0 256 184 Z"/>
+    <path d="M396 256 A140 140 0 0 1 355 355 L304 304 A72 72 0 0 0 328 256 Z"/>
+    <path d="M256 396 A140 140 0 0 1 157 355 L208 304 A72 72 0 0 0 256 328 Z"/>
+    <path d="M116 256 A140 140 0 0 1 157 157 L208 208 A72 72 0 0 0 184 256 Z"/>
+  </g>
+  <circle cx="256" cy="256" r="140" fill="none" stroke="#0c3b4a" stroke-width="6"/>
+  <circle cx="256" cy="256" r="72" fill="none" stroke="#0c3b4a" stroke-width="6"/>
+</svg>
