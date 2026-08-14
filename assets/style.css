@@ -47,6 +47,12 @@ body {
 
 .logo-dot { color: var(--accent); }
 
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
 .site-nav a {
   font-family: "Inter", var(--font);
   font-weight: 600;
@@ -56,16 +62,63 @@ body {
   text-decoration: none;
   padding-bottom: 4px;
   border-bottom: 2px solid transparent;
-  transition: border-color 0.2s;
+  transition: border-color 0.2s, opacity 0.2s;
 }
 
 .site-nav a:hover { border-bottom-color: var(--accent); }
 
+.site-nav .nav-x {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.site-nav .nav-x svg {
+  width: 16px;
+  height: 16px;
+  display: block;
+}
+
+.site-nav .nav-x:hover { opacity: 0.55; }
+
 /* ---------- hero ---------- */
 .hero {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: clamp(28px, 5vw, 72px);
   padding: clamp(72px, 12vw, 140px) clamp(20px, 5vw, 56px) clamp(56px, 8vw, 100px);
   max-width: 1080px;
   margin: 0 auto;
+}
+
+.hero-figure {
+  margin: 0;
+  justify-self: end;
+}
+
+/* 元画像は白背景JPEG。ページ背景と完全一致しないため multiply で白を透過させて馴染ませる */
+.hero-figure img {
+  display: block;
+  width: clamp(180px, 26vw, 300px);
+  height: auto;
+  mix-blend-mode: multiply;
+  image-rendering: pixelated;
+  animation: hero-float 4.5s ease-in-out infinite;
+}
+
+@keyframes hero-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-figure img { animation: none; }
+}
+
+@media (max-width: 680px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero-figure { justify-self: center; }
+  .hero-figure img { width: clamp(160px, 45vw, 220px); }
 }
 
 .hero-eyebrow {
@@ -89,45 +142,6 @@ body {
   margin-top: 28px;
   font-size: clamp(0.95rem, 1.6vw, 1.05rem);
   color: var(--muted);
-}
-
-/* ---------- marquee ---------- */
-.marquee {
-  overflow: hidden;
-  background: var(--accent);
-  border-top: 1px solid var(--ink);
-  border-bottom: 1px solid var(--ink);
-  padding: 12px 0;
-}
-
-.marquee-track {
-  display: flex;
-  width: max-content;
-  animation: marquee-scroll 36s linear infinite;
-}
-
-.marquee-group {
-  display: flex;
-  align-items: center;
-  gap: 28px;
-  padding-right: 28px;
-  white-space: nowrap;
-  font-family: "Inter", var(--font);
-  font-weight: 800;
-  font-size: 0.85rem;
-  letter-spacing: 0.18em;
-  color: var(--ink);
-}
-
-.marquee-group i {
-  font-style: normal;
-  font-size: 0.5rem;
-  opacity: 0.55;
-}
-
-@keyframes marquee-scroll {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-50%); }
 }
 
 /* ---------- products ---------- */

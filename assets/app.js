@@ -10,10 +10,6 @@
   const modalTags = document.getElementById("modal-tags");
   const modalLink = document.getElementById("modal-link");
 
-  // マーキーをループさせるために内容を複製(track = 同一グループ2つで translateX(-50%) が繋がる)
-  const track = document.getElementById("marquee-track");
-  track.appendChild(track.firstElementChild.cloneNode(true));
-
   const formatDate = (iso) => iso.replaceAll("-", ".");
 
   const openModal = (p) => {
