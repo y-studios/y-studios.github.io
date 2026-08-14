@@ -1,5 +1,19 @@
 [
   {
+    "id": "checkdt",
+    "name": "CheckDT",
+    "url": "https://checkdt.vercel.app/",
+    "icon": "icons/checkdt.png",
+    "tagline": "整形ダウンタイムの腫れが正常経過かを即セルフチェック",
+    "description": "美容整形・美容医療のダウンタイム中の「腫れ・左右差、これ正常?」を、施術メニュー×術後日数×症状の選択でその場でチェックできるWebアプリ。腫れのピークと回復予測をグラフで可視化し、経過写真とスコアを端末内だけに記録するMyカルテ機能つき。膿・激痛などの危険サイン検知時はチェックを止めて受診案内に切り替える。完全無料・登録不要のクライアント完結設計。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "beauty",
+      "healthcare"
+    ]
+  },
+  {
     "id": "mirra",
     "name": "Mirra",
     "url": "https://mirra-beauty.vercel.app/",
