@@ -261,6 +261,9 @@ body {
 }
 
 .card {
+  /* buttonは高さが余ると内容が縦中央に寄るため、flex縦積みで上詰めにする */
+  display: flex;
+  flex-direction: column;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -271,6 +274,8 @@ body {
   padding: 0;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
+
+.card-visual { flex-shrink: 0; }
 
 .card:hover {
   transform: translateY(-4px);

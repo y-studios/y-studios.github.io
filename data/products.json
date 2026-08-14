@@ -1,5 +1,45 @@
 [
   {
+    "id": "correlation-diagram",
+    "name": "相関図鑑",
+    "url": "https://correlation-diagram.com/",
+    "icon": "icons/correlation-diagram.png",
+    "tagline": "アニメ・ドラマ・映画の相関図まとめ",
+    "description": "作品の登場人物の人間関係を、顔アバター付きの相関図で整理して紹介するサイト。アニメ・ドラマ・映画・漫画を横断して、複雑な関係性をひと目で理解できる。SPY×FAMILYや鬼滅の刃など話題作を随時追加中。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "anime", "media"]
+  },
+  {
+    "id": "yaritai-list-kit",
+    "name": "死ぬまでにやりたいことリスト作成キット",
+    "url": "https://yaritai-list-kit.vercel.app/",
+    "icon": "icons/yaritai-list-kit.png",
+    "tagline": "5つの質問で、やりたいことリスト10個を自動生成",
+    "description": "5つの質問に答えるだけで、自分だけの「死ぬまでにやりたいことリスト」を10個お届けするキット。旅する・学ぶ・つながる・創る・挑む・味わうなどのカテゴリで整理され、みんなの作ったリストを眺めることもできる。会員登録不要・完全無料・所要約1分。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "lifestyle", "generator"]
+  },
+  {
+    "id": "kamitsunagi",
+    "name": "かみつなぎ",
+    "url": "https://kamitsunagi.com/",
+    "icon": "icons/kamitsunagi.png",
+    "tagline": "あなたの髪が、誰かの必要なものになる。",
+    "description": "髪を提供したい人と必要とする人をつなぐ、髪の毛のC to Cマッチングプラットフォーム。長さ・太さ・カラー履歴などの詳細情報で出品・購入でき、匿名配送にも対応。ヘアドネーションやウィッグ制作の情報も届ける。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "marketplace", "c2c"]
+  },
+  {
+    "id": "jibun-migaki",
+    "name": "ジブン磨き",
+    "url": "https://mens.alphalinkpartners.com/",
+    "icon": "icons/jibun-migaki.svg",
+    "tagline": "人生は、攻略できる。レベル制の自分磨きプログラム",
+    "description": "「半年後の自分は、別人でいい。」マインドセット・清潔感・コミュニケーション・恋愛・収入・人間関係の6分野を、ゲームのようなレベル制ミッションで進める自己改善プログラム。1本約10分の教材を積み上げて5段階のステージを攻略していく。現在は全機能無料開放中。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "self-improvement", "education"]
+  },
+  {
     "id": "pin-pon",
     "name": "Pinpon",
     "url": "https://pin-pon.net/",
