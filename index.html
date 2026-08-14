@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Y STUDIO</title>
+<meta name="description" content="思いつきを、かたちに。つくったプロダクトを静かに並べておく場所。">
+<meta property="og:title" content="Y STUDIO">
+<meta property="og:description" content="思いつきを、かたちに。つくったプロダクトを静かに並べておく場所。">
+<meta property="og:type" content="website">
+<link rel="icon" href="icons/y-studio.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a class="logo" href="#top">Y STUDIO<span class="logo-dot">.</span></a>
+  <nav class="site-nav">
+    <a href="#products">Products</a>
+  </nav>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <p class="hero-eyebrow">Personal Product Shelf</p>
+    <h1 class="hero-title">思いつきを、<br>かたちに。</h1>
+    <p class="hero-lead">ここは、自分がつくったプロダクトを静かに並べておく場所。<br>眺めて、思い出して、また次をつくるための棚。</p>
+  </section>
+
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track" id="marquee-track">
+      <div class="marquee-group">
+        <span>WEB SERVICE</span><i>●</i>
+        <span>AI CODING</span><i>●</i>
+        <span>PRODUCT</span><i>●</i>
+        <span>EXPERIMENT</span><i>●</i>
+        <span>DESIGN</span><i>●</i>
+        <span>IDEA</span><i>●</i>
+        <span>WEB SERVICE</span><i>●</i>
+        <span>AI CODING</span><i>●</i>
+        <span>PRODUCT</span><i>●</i>
+        <span>EXPERIMENT</span><i>●</i>
+        <span>DESIGN</span><i>●</i>
+        <span>IDEA</span><i>●</i>
+      </div>
+    </div>
+  </div>
+
+  <section class="products" id="products">
+    <div class="section-head">
+      <h2>Products</h2>
+      <span class="count" id="product-count"></span>
+    </div>
+    <div class="grid" id="product-grid"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>© 2026 Y STUDIO</p>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-overlay" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+    <button class="modal-close" data-close aria-label="閉じる">&times;</button>
+    <img class="modal-icon" id="modal-icon" alt="" width="96" height="96">
+    <h2 class="modal-name" id="modal-name"></h2>
+    <p class="modal-tagline" id="modal-tagline"></p>
+    <p class="modal-desc" id="modal-desc"></p>
+    <div class="modal-meta">
+      <span class="modal-date" id="modal-date"></span>
+      <span class="modal-tags" id="modal-tags"></span>
+    </div>
+    <a class="modal-link" id="modal-link" target="_blank" rel="noopener">サイトを見る ↗</a>
+  </div>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

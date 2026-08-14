@@ -1,0 +1,12 @@
+[
+  {
+    "id": "y-studio",
+    "name": "Y STUDIO",
+    "url": "https://yama227.github.io/y-studio/",
+    "icon": "icons/y-studio.svg",
+    "tagline": "つくったものを並べておく、自分だけの棚",
+    "description": "自分がつくったプロダクトやサービスを一箇所に集めて眺めるための場所。URLを渡すだけで登録され、アイコンも自動で生成される。この場所そのものが、最初のプロダクト。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "portfolio"]
+  }
+]
