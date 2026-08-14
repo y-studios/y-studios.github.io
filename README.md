@@ -12,6 +12,13 @@
    - アイコンは **サイトにファビコンがあればそれを採用**(512pxの `icon.png` 等を `icons/<id>.png` に保存)。無い場合のみ、プロダクトの雰囲気に合わせた SVG を `icons/<id>.svg` に生成
 3. `main` に push すると GitHub Pages に自動反映
 
+## キャッシュ対策
+
+GitHub Pages は全ファイル `max-age=600`(10分キャッシュ)。
+
+- `data/products.json` は取得時に `?t=Date.now()` を付けて常に最新を読む
+- `assets/style.css` / `assets/app.js` を編集したら、`index.html` 内の `?v=N` を必ず1つ上げる(古いCSS/JSで新しいHTMLが描画されるのを防ぐ)
+
 ## products.json のスキーマ
 
 ```json
