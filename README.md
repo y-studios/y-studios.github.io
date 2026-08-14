@@ -8,8 +8,8 @@
 
 1. 登録したいプロダクトの URL を Claude に渡す
 2. Claude が URL の中身を確認して、以下を行う
-   - `data/products.json` にエントリを追加(名前・タグライン・詳細・登録日・タグ)
-   - `icons/<id>.svg` にプロダクトの雰囲気に合わせたアイコンを生成
+   - `data/products.json` の配列の先頭にエントリを追加(名前・タグライン・詳細・登録日・タグ)
+   - アイコンは **サイトにファビコンがあればそれを採用**(512pxの `icon.png` 等を `icons/<id>.png` に保存)。無い場合のみ、プロダクトの雰囲気に合わせた SVG を `icons/<id>.svg` に生成
 3. `main` に push すると GitHub Pages に自動反映
 
 ## products.json のスキーマ

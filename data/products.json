@@ -1,5 +1,45 @@
 [
   {
+    "id": "pin-pon",
+    "name": "Pinpon",
+    "url": "https://pin-pon.net/",
+    "icon": "icons/pin-pon.svg",
+    "tagline": "卓球の大会・練習会を探してエントリーできるポータル",
+    "description": "「次の一球が、ここで見つかる。」全国の卓球大会・イベントを都道府県・種目・レベル・開催日で絞り込んで検索し、そのままWebエントリーできる。公式大会だけでなく、練習会や練習相手の募集も無料で主催できる、卓球プレイヤーのためのポータルサイト。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "table-tennis", "event"]
+  },
+  {
+    "id": "spoiler-magna",
+    "name": "ネタバレ漫画サイト",
+    "url": "https://spoiler-magna.com/",
+    "icon": "icons/spoiler-magna.png",
+    "tagline": "漫画の結末・ネタバレを最速でまとめてお届け",
+    "description": "気になる漫画の結末やネタバレをまとめた辞典型サイト。作品ごとにあらすじ・最終回の解説・考察ポイントを整理し、恋愛からホラー・ミステリー、バトル・アクションまでジャンル別に探せる。読む前に結末を知りたい漫画ファンのための情報サイト。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "manga", "media"]
+  },
+  {
+    "id": "saishukai-net",
+    "name": "最終回まとめサイト",
+    "url": "https://xn--zbs588aoyq.net/",
+    "tagline": "アニメ・ドラマ・映画の最終回ネタバレ辞典",
+    "icon": "icons/saishukai-net.png",
+    "description": "気になるアニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典型サイト。作品ごとにあらすじ・結末・考察ポイントを解説し、視聴前に終わり方を確かめたい人に応える。ドメインは日本語の「最終回.net」。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "anime", "media"]
+  },
+  {
+    "id": "comics-finish",
+    "name": "完結漫画まとめサイト",
+    "url": "https://comics-finish.com/",
+    "icon": "icons/comics-finish.png",
+    "tagline": "完結済み漫画の最終回ネタバレまとめ",
+    "description": "完結済みの漫画に特化したまとめサイト。作品情報・あらすじ・最終回のネタバレを整理し、話題作の終わり方を検索して確かめられる。ヒロアカや呪術廻戦、Dr.STONEなど人気作の完結情報を網羅していく。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "manga", "media"]
+  },
+  {
     "id": "tennis-gut-antenna",
     "name": "テニスガット張り替えナビ",
     "url": "https://tennis-gut-antenna.com/",
