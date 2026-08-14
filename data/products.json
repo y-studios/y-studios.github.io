@@ -1,5 +1,15 @@
 [
   {
+    "id": "supervisor-seo",
+    "name": "SEO監修者マッチ",
+    "url": "https://supervisor-seo.com/",
+    "icon": "icons/supervisor-seo.svg",
+    "tagline": "専門家に記事監修を依頼できるマッチングサービス",
+    "description": "「SEO記事の信頼は、専門家の名前から。」本人確認済みの医師・弁護士などの専門家データベースから、カテゴリや資格・対応業務で絞り込んで記事の監修・執筆を依頼できる。E-E-A-Tが問われる時代のコンテンツに、名前を出せる信頼を届けるサービス。",
+    "registeredAt": "2026-08-14",
+    "tags": ["web", "seo", "matching"]
+  },
+  {
     "id": "y-studio",
     "name": "Y STUDIO",
     "url": "https://y-studios.github.io/",
