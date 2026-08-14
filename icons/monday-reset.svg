@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="26" fill="#e3edf6"/>
+  <!-- 耳 -->
+  <path d="M33 52 Q25 26 30 23 Q34 21 49 37" fill="#fff" stroke="#3d5a99" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M87 52 Q95 26 90 23 Q86 21 71 37" fill="#fff" stroke="#3d5a99" stroke-width="4" stroke-linejoin="round"/>
+  <!-- 顔 -->
+  <ellipse cx="60" cy="72" rx="40" ry="34" fill="#fff" stroke="#3d5a99" stroke-width="4"/>
+  <!-- 閉じた目 -->
+  <path d="M40 69 Q46 75 52 69" fill="none" stroke="#3d5a99" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M68 69 Q74 75 80 69" fill="none" stroke="#3d5a99" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- ωの口 -->
+  <path d="M55 82 Q57.5 85.5 60 82 Q62.5 85.5 65 82" fill="none" stroke="#3d5a99" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ほっぺ -->
+  <ellipse cx="35" cy="80" rx="6" ry="4" fill="#cfe0f1"/>
+  <ellipse cx="85" cy="80" rx="6" ry="4" fill="#cfe0f1"/>
+  <!-- zzz -->
+  <g fill="none" stroke="#3d5a99" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 34 h9 l-9 8 h9"/>
+    <path d="M103 18 h7 l-7 6 h7"/>
+  </g>
+</svg>

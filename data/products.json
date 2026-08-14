@@ -1,5 +1,19 @@
 [
   {
+    "id": "monday-reset",
+    "name": "Monday Reset",
+    "url": "https://monday-reset.vercel.app/",
+    "icon": "icons/monday-reset.svg",
+    "tagline": "サザエさん症候群の原因診断&リセットアクション",
+    "description": "日曜の夜になると憂鬱になる「サザエさん症候群」の原因を3問で診断し、「日曜夜の前夜祭」「月曜朝のご褒美」の2つの作戦で充実アクションを提案する無料Webアプリ。気になったアクションはワンタップでGoogleカレンダーに登録でき、月曜をもう少しラクに始められる。登録不要・約30秒。",
+    "registeredAt": "2026-08-14",
+    "tags": [
+      "web",
+      "mental-care",
+      "lifestyle"
+    ]
+  },
+  {
     "id": "correlation-diagram",
     "name": "相関図鑑",
     "url": "https://correlation-diagram.com/",
@@ -7,7 +21,11 @@
     "tagline": "アニメ・ドラマ・映画の相関図まとめ",
     "description": "作品の登場人物の人間関係を、顔アバター付きの相関図で整理して紹介するサイト。アニメ・ドラマ・映画・漫画を横断して、複雑な関係性をひと目で理解できる。SPY×FAMILYや鬼滅の刃など話題作を随時追加中。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "anime", "media"]
+    "tags": [
+      "web",
+      "anime",
+      "media"
+    ]
   },
   {
     "id": "yaritai-list-kit",
@@ -17,7 +35,11 @@
     "tagline": "5つの質問で、やりたいことリスト10個を自動生成",
     "description": "5つの質問に答えるだけで、自分だけの「死ぬまでにやりたいことリスト」を10個お届けするキット。旅する・学ぶ・つながる・創る・挑む・味わうなどのカテゴリで整理され、みんなの作ったリストを眺めることもできる。会員登録不要・完全無料・所要約1分。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "lifestyle", "generator"]
+    "tags": [
+      "web",
+      "lifestyle",
+      "generator"
+    ]
   },
   {
     "id": "kamitsunagi",
@@ -27,7 +49,11 @@
     "tagline": "あなたの髪が、誰かの必要なものになる。",
     "description": "髪を提供したい人と必要とする人をつなぐ、髪の毛のC to Cマッチングプラットフォーム。長さ・太さ・カラー履歴などの詳細情報で出品・購入でき、匿名配送にも対応。ヘアドネーションやウィッグ制作の情報も届ける。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "marketplace", "c2c"]
+    "tags": [
+      "web",
+      "marketplace",
+      "c2c"
+    ]
   },
   {
     "id": "jibun-migaki",
@@ -37,7 +63,11 @@
     "tagline": "人生は、攻略できる。レベル制の自分磨きプログラム",
     "description": "「半年後の自分は、別人でいい。」マインドセット・清潔感・コミュニケーション・恋愛・収入・人間関係の6分野を、ゲームのようなレベル制ミッションで進める自己改善プログラム。1本約10分の教材を積み上げて5段階のステージを攻略していく。現在は全機能無料開放中。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "self-improvement", "education"]
+    "tags": [
+      "web",
+      "self-improvement",
+      "education"
+    ]
   },
   {
     "id": "pin-pon",
@@ -47,7 +77,11 @@
     "tagline": "卓球の大会・練習会を探してエントリーできるポータル",
     "description": "「次の一球が、ここで見つかる。」全国の卓球大会・イベントを都道府県・種目・レベル・開催日で絞り込んで検索し、そのままWebエントリーできる。公式大会だけでなく、練習会や練習相手の募集も無料で主催できる、卓球プレイヤーのためのポータルサイト。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "table-tennis", "event"]
+    "tags": [
+      "web",
+      "table-tennis",
+      "event"
+    ]
   },
   {
     "id": "spoiler-magna",
@@ -57,7 +91,11 @@
     "tagline": "漫画の結末・ネタバレを最速でまとめてお届け",
     "description": "気になる漫画の結末やネタバレをまとめた辞典型サイト。作品ごとにあらすじ・最終回の解説・考察ポイントを整理し、恋愛からホラー・ミステリー、バトル・アクションまでジャンル別に探せる。読む前に結末を知りたい漫画ファンのための情報サイト。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "manga", "media"]
+    "tags": [
+      "web",
+      "manga",
+      "media"
+    ]
   },
   {
     "id": "saishukai-net",
@@ -67,7 +105,11 @@
     "icon": "icons/saishukai-net.png",
     "description": "気になるアニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典型サイト。作品ごとにあらすじ・結末・考察ポイントを解説し、視聴前に終わり方を確かめたい人に応える。ドメインは日本語の「最終回.net」。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "anime", "media"]
+    "tags": [
+      "web",
+      "anime",
+      "media"
+    ]
   },
   {
     "id": "comics-finish",
@@ -77,7 +119,11 @@
     "tagline": "完結済み漫画の最終回ネタバレまとめ",
     "description": "完結済みの漫画に特化したまとめサイト。作品情報・あらすじ・最終回のネタバレを整理し、話題作の終わり方を検索して確かめられる。ヒロアカや呪術廻戦、Dr.STONEなど人気作の完結情報を網羅していく。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "manga", "media"]
+    "tags": [
+      "web",
+      "manga",
+      "media"
+    ]
   },
   {
     "id": "tennis-gut-antenna",
@@ -87,7 +133,11 @@
     "tagline": "全国のテニスガット張り替え店を探せる検索サイト",
     "description": "全国のテニスガット張り替え店を都道府県別に探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件で絞り込みができ、テニス愛好家が地元の張り替え店を効率よく見つけられる。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "tennis", "search"]
+    "tags": [
+      "web",
+      "tennis",
+      "search"
+    ]
   },
   {
     "id": "badminton-gut-antenna",
@@ -97,7 +147,11 @@
     "tagline": "全国のバドミントンガット張り替え店を探せる検索サイト",
     "description": "全国のバドミントンガット張り替え店を47都道府県から探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件検索に対応し、ラケットのガットを張り替えたいプレイヤーと店舗をつなぐ。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "badminton", "search"]
+    "tags": [
+      "web",
+      "badminton",
+      "search"
+    ]
   },
   {
     "id": "supervisor-seo",
@@ -107,7 +161,11 @@
     "tagline": "専門家に記事監修を依頼できるマッチングサービス",
     "description": "「SEO記事の信頼は、専門家の名前から。」本人確認済みの医師・弁護士などの専門家データベースから、カテゴリや資格・対応業務で絞り込んで記事の監修・執筆を依頼できる。E-E-A-Tが問われる時代のコンテンツに、名前を出せる信頼を届けるサービス。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "seo", "matching"]
+    "tags": [
+      "web",
+      "seo",
+      "matching"
+    ]
   },
   {
     "id": "y-studio",
@@ -117,6 +175,9 @@
     "tagline": "つくったものを並べておく、自分だけの棚",
     "description": "自分がつくったプロダクトやサービスを一箇所に集めて眺めるための場所。URLを渡すだけで登録され、アイコンも自動で生成される。この場所そのものが、最初のプロダクト。",
     "registeredAt": "2026-08-14",
-    "tags": ["web", "portfolio"]
+    "tags": [
+      "web",
+      "portfolio"
+    ]
   }
 ]
