@@ -322,6 +322,9 @@ body {
   color: #b1ada3;
 }
 
+/* Products直下に続くセクションは上を詰める */
+.products.services { padding-top: 0; }
+
 /* ---------- empty state ---------- */
 .empty {
   grid-column: 1 / -1;

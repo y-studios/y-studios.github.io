@@ -37,15 +37,15 @@
     if (e.key === "Escape" && !modal.hidden) closeModal();
   });
 
-  const render = (products) => {
-    countEl.textContent = `(${products.length})`;
+  const renderInto = (list, gridEl, countEl2) => {
+    countEl2.textContent = `(${list.length})`;
 
-    if (products.length === 0) {
-      grid.innerHTML = `<div class="empty">まだ何も置かれていません。<br>URL を渡してもらえれば、ここに並んでいきます。</div>`;
+    if (list.length === 0) {
+      gridEl.innerHTML = `<div class="empty">まだ何も置かれていません。<br>URL を渡してもらえれば、ここに並んでいきます。</div>`;
       return;
     }
 
-    products
+    list
       .slice()
       .sort((a, b) => b.registeredAt.localeCompare(a.registeredAt))
       .forEach((p) => {
@@ -62,15 +62,20 @@
         card.querySelector(".card-name").textContent = p.name;
         card.querySelector(".card-tagline").textContent = p.tagline || "";
         card.addEventListener("click", () => openModal(p));
-        grid.appendChild(card);
+        gridEl.appendChild(card);
       });
   };
 
   // GitHub Pagesは10分キャッシュ(max-age=600)のため、登録直後でも常に最新を取る
-  fetch(`data/products.json?t=${Date.now()}`)
-    .then((r) => r.json())
-    .then(render)
-    .catch(() => {
-      grid.innerHTML = `<div class="empty">プロダクト一覧を読み込めませんでした。</div>`;
-    });
+  const load = (path, gridEl, countEl2) => {
+    fetch(`${path}?t=${Date.now()}`)
+      .then((r) => r.json())
+      .then((list) => renderInto(list, gridEl, countEl2))
+      .catch(() => {
+        gridEl.innerHTML = `<div class="empty">一覧を読み込めませんでした。</div>`;
+      });
+  };
+
+  load("data/products.json", grid, countEl);
+  load("data/services.json", document.getElementById("service-grid"), document.getElementById("service-count"));
 })();
