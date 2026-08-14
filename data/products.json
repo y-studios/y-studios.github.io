@@ -1,5 +1,19 @@
 [
   {
+    "id": "narashi-gohan",
+    "name": "ならしごはん",
+    "url": "https://narashi-gohan.vercel.app/",
+    "icon": "icons/narashi-gohan.svg",
+    "tagline": "会食恐怖症の仲間と外食の練習ができるピアマッチング",
+    "description": "人前での食事に強い不安を感じる「会食恐怖症」の当事者同士が、安心して会食の練習をするためのピアマッチングサービス。「残してもいい」「話さなくてもいい」など不安を手放せる3つの約束を掲げ、LINEの30秒診断でドリンクレベル・軽食レベル・定食チャレンジレベルの3段階から自分に合った練習会を案内する。少人数(2〜3人)開催、ドタキャン可、割り勘なし。",
+    "registeredAt": "2026-08-14",
+    "tags": [
+      "web",
+      "mental-care",
+      "lifestyle"
+    ]
+  },
+  {
     "id": "monday-reset",
     "name": "Monday Reset",
     "url": "https://monday-reset.vercel.app/",
