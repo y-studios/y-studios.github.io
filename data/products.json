@@ -1,5 +1,19 @@
 [
   {
+    "id": "viewpay",
+    "name": "VIEWPAY",
+    "url": "https://viewpay-gamma.vercel.app/",
+    "icon": "icons/viewpay.png",
+    "tagline": "TikTokの再生数がそのまま賞金になるUGCマーケット",
+    "description": "TikTok特化のUGC動画賞金獲得プラットフォーム。D2Cブランドが賞金プールを事前デポジットし、クリエイターは再生数マイルストーンとランキングで賞金を獲得。#PR自動チェックでステマ規制に対応し、賞金は確定後30日以内にPayPay・銀行振込で出金できる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "tiktok",
+      "creator"
+    ]
+  },
+  {
     "id": "checkdt",
     "name": "CheckDT",
     "url": "https://checkdt.vercel.app/",
