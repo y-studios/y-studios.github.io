@@ -1,5 +1,19 @@
 [
   {
+    "id": "prizeprice",
+    "name": "PrizePrice（プライズ相場スキャナー）",
+    "url": "https://prizeprice.vercel.app",
+    "icon": "icons/prizeprice.png",
+    "tagline": "クレーンゲームの景品を撮るだけで、相場と買取価格TOP3を判定",
+    "description": "クレーンゲームのガラス越しにカメラを向けるだけで、景品と背後のポスターをまとめてAIが解析するプライズ特化型の相場スキャナー。認識のブレを防ぐため候補を3〜4件提示してワンタップで確定し、フリマの取引相場と主要買取店の価格TOP3、投資してよい上限額を1つの画面に並べて表示する。料金は月額ではなくスキャン回数のチケット制で、初回5回は無料。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "ai",
+      "tool"
+    ]
+  },
+  {
     "id": "solosurvival",
     "name": "SoloSurvival（ソロサバイバル）",
     "url": "https://solosurvival.vercel.app",
