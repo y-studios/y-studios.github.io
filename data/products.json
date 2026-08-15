@@ -1,5 +1,19 @@
 [
   {
+    "id": "clawagent",
+    "name": "ClawAgent（クローエージェント）",
+    "url": "https://clawagent-tau.vercel.app",
+    "icon": "icons/clawagent.png",
+    "tagline": "欲しい限定プライズを、クレーンゲームの猛者に代理獲得してもらう",
+    "description": "欲しい景品と「ここまでなら出せる」上限予算を掲載すると、クレーンゲームのプロが立候補し、代わりに獲りに行くオンデマンドマーケット。獲得成功率・得意台（橋渡し／確率機）・SNSを見比べて指名し、上限金額はエスクローで一時預かり。獲れたら写真付きで報告が届きヤマトの匿名配送で発送、獲れなければ全額返金でプレイ代はプロの自己負担。安く獲れた差額はプロの報酬になる。会員登録なしで掲載でき、リリース記念として手数料は0円。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "matching",
+      "game"
+    ]
+  },
+  {
     "id": "prizeprice",
     "name": "PrizePrice（プライズ相場スキャナー）",
     "url": "https://prizeprice.vercel.app",
