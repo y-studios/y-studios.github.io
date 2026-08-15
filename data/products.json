@@ -1,5 +1,19 @@
 [
   {
+    "id": "bidcall",
+    "name": "BIDCALL（ビッドコール）",
+    "url": "https://bidcall.vercel.app/",
+    "icon": "icons/bidcall.png",
+    "tagline": "推しとの10分間を競り落とす1on1ビデオ通話オークション",
+    "description": "1on1ビデオ通話の枠を先着順ではなくオークションで販売するプレミアム通話アプリ。VTuber・ライバー・コスプレイヤー・専門家が出す10分間の枠に入札し、締切時点で最高額だった人が落札する。入札時にクレジットカードの与信枠を仮押さえする事前デポジット制でいたずら入札を排除し、本人確認(eKYC)必須でアカウントごとの転売を防止。通話後は日付とシリアルナンバー入りの通話証明デジタルカードを発行する。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "auction",
+      "creator"
+    ]
+  },
+  {
     "id": "offroom",
     "name": "オフルム（OFFROOM）",
     "url": "https://offroom.vercel.app/",
