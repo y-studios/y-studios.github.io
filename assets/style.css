@@ -86,14 +86,18 @@ body {
   justify-self: end;
 }
 
-/* 透過PNG(外側のみ透過・胴体は不透明のステッカー状)なので図形を背後に重ねても色が濁らない */
+/* 円形イラスト(透過PNG)。ページ背景色の隙間+インクのリングで、彩度の高いイラストをY STUDIOの配色に馴染ませる */
 .hero-figure img {
   position: relative;
   z-index: 1;
   display: block;
-  width: clamp(210px, 29vw, 340px);
+  width: clamp(220px, 30vw, 360px);
   height: auto;
-  image-rendering: pixelated;
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 6px var(--bg),
+    0 0 0 9px var(--ink),
+    0 24px 48px rgba(16, 16, 16, 0.18);
   animation: hero-float 4.5s ease-in-out infinite;
 }
 
@@ -155,7 +159,7 @@ body {
 @media (max-width: 680px) {
   .hero { grid-template-columns: 1fr; }
   .hero-figure { justify-self: center; }
-  .hero-figure img { width: clamp(170px, 46vw, 230px); }
+  .hero-figure img { width: clamp(180px, 48vw, 240px); }
 }
 
 .hero-eyebrow {
