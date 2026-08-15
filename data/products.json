@@ -1,5 +1,19 @@
 [
   {
+    "id": "solosurvival",
+    "name": "SoloSurvival（ソロサバイバル）",
+    "url": "https://solosurvival.vercel.app",
+    "icon": "icons/solosurvival.png",
+    "tagline": "1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
+    "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチング。日時とフィールドを送れば募集が配信され、届いた募集にはワンタップでエントリーできる。募集もエントリーも無料で、当日はセーフティエリアの指定テーブルで合流する。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "matching",
+      "airsoft"
+    ]
+  },
+  {
     "id": "battingdb",
     "name": "BattingDB（バッティングDB）",
     "url": "https://battingdb.vercel.app",
