@@ -1,5 +1,19 @@
 [
   {
+    "id": "datingroster",
+    "name": "DatingRoster（デイティングロスター）",
+    "url": "https://datingroster.vercel.app",
+    "icon": "icons/datingroster.png",
+    "tagline": "同時並行の会話ログとNG話題を、相手ごとのカルテで管理する恋愛CRM",
+    "description": "マッチングアプリの同時並行専用の管理ツール。相手ごとに会話タグ・触れてはいけないNG話題・デート費用を1枚のカルテに残し、マッチング中から本命までの進捗をカンバンで並べ替える。電車やデート中に見られても困らないよう、ワンタップで仕事のタスク管理画面に切り替わるステルス表示を備える。記録は端末の中だけに保存され、相手やアプリ側に通知は届かない。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "crm",
+      "dating"
+    ]
+  },
+  {
     "id": "oshikura",
     "name": "オシクラ",
     "url": "https://oshikura.vercel.app",
