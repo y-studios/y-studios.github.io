@@ -1,5 +1,19 @@
 [
   {
+    "id": "battingdb",
+    "name": "BattingDB（バッティングDB）",
+    "url": "https://battingdb.vercel.app",
+    "icon": "icons/battingdb.png",
+    "tagline": "球速・球種・看板で探す全国バッセン図鑑",
+    "description": "160km/hの豪速球、変化球、硬式打席、ホームラン看板。全国38店舗のバッティングセンターをスペックで絞り込める検索データベース。確認できた公開情報だけを掲載し、未確認の項目は会員登録不要のタレコミで埋めていく。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "database",
+      "sports"
+    ]
+  },
+  {
     "id": "datingroster",
     "name": "DatingRoster（デイティングロスター）",
     "url": "https://datingroster.vercel.app",
