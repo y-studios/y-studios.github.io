@@ -1,5 +1,21 @@
 [
   {
+    "id": "buddyworks",
+    "name": "BuddyWorks（バディワークス）",
+    "url": "https://buddyworks-one.vercel.app",
+    "icon": "icons/buddyworks.png",
+    "tagline": "相棒と組んで受ける、フリーランスユニット専門の案件紹介",
+    "description": "すでに組んでいる2名以上のフリーランスユニット向けの案件紹介エージェント。個人では受けにくい大型案件をユニット丸ごと準委任契約でアサインし、営業・単価交渉・契約・請求をまとめて代行する。ページ内のフォームから登録でき、掲載単価は保証ではなく想定レンジ。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "lp",
+      "freelance",
+      "agent",
+      "form"
+    ]
+  },
+  {
     "id": "safetyschool",
     "name": "SafetySchool（セーフティスクール）",
     "url": "https://safetyschool-jade.vercel.app",
