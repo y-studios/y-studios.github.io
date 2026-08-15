@@ -1,5 +1,19 @@
 [
   {
+    "id": "oshikura",
+    "name": "オシクラ",
+    "url": "https://oshikura.vercel.app",
+    "icon": "icons/oshikura.png",
+    "tagline": "10人そろえば、推しへのお願いが正式な依頼になる",
+    "description": "ファン同士で軍資金を出し合い、推しに撮影やボイス制作を共同発注するクラウドファンディング。目標人数に達して本人の承諾が取れたときだけ成立し、人数が届かなければ請求は発生しない。完成した成果物は参加したメンバーだけが受け取れる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "crowdfunding",
+      "creator"
+    ]
+  },
+  {
     "id": "traindrift",
     "name": "TrainDrift（トレインドリフト）",
     "url": "https://traindrift.vercel.app",
