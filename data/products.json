@@ -1,5 +1,19 @@
 [
   {
+    "id": "drop-pass",
+    "name": "DROP PASS",
+    "url": "https://drop-pass-pearl.vercel.app/",
+    "icon": "icons/drop-pass.png",
+    "tagline": "位置情報×合言葉で解錠するゲリラ限定ドロップアプリ",
+    "description": "位置情報とシークレット合言葉でアンロックする新世代ストリートドロップアプリ。SNKRS STASHやCorteizのゲリラ熱狂を全ブランドへ。街のスポットや暗号を辿った者だけが数分で完売する限定アイテムを入手できる。ブランドは0円・成果報酬10%で即日ゲリラ販売を開始可能。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "streetwear",
+      "geolocation"
+    ]
+  },
+  {
     "id": "micro-gallery",
     "name": "MICRO GALLERY",
     "url": "https://micro-gallery-five.vercel.app/",
