@@ -1,5 +1,19 @@
 [
   {
+    "id": "next-buyer",
+    "name": "NEXT BUYER",
+    "url": "https://next-buyer.vercel.app/",
+    "icon": "icons/next-buyer.png",
+    "tagline": "私服スナップをタップして売る新世代リセール",
+    "description": "私服スナップ特化のCtoCリセール「NEXT BUYER」の先行登録LP。Instagramの着画をタップするだけで出品でき、購入オファーがLINE/メールに届く。撮影・採寸・値下げ交渉なしの3秒出品を、LP上のインタラクティブデモでそのまま疑似体験できる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "fashion",
+      "resale"
+    ]
+  },
+  {
     "id": "viewpay",
     "name": "VIEWPAY",
     "url": "https://viewpay-gamma.vercel.app/",
