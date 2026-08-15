@@ -1,5 +1,21 @@
 [
   {
+    "id": "safetyschool",
+    "name": "SafetySchool（セーフティスクール）",
+    "url": "https://safetyschool-jade.vercel.app",
+    "icon": "icons/safetyschool.png",
+    "tagline": "いじめの記録を、LINEに送るだけで日時つきに残す",
+    "description": "いじめに関する出来事を、LINEのトークに送るだけで受信日時つきに保管していくセーフティツール。被害のメモ、トークのスクリーンショット、写真、音声をそのまま送れば、専用アプリを入れなくても記録がたまっていく。たまった記録は本人だけが見られるページで時系列に並び、場所や相手をあとから追記できる。話し合いが必要になった日には、学校・教育委員会・弁護士にそのまま渡せる「事実経過報告書」としてPDFに書き出せる。法律事務所ではなく記録を整えるツールで、公的な相談窓口の案内も掲載している。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "line",
+      "safety",
+      "education",
+      "tool"
+    ]
+  },
+  {
     "id": "tricktube",
     "name": "TrickTube（トリックチューブ）",
     "url": "https://tricktube.vercel.app",
