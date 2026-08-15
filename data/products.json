@@ -1,5 +1,19 @@
 [
   {
+    "id": "offroom",
+    "name": "オフルム（OFFROOM）",
+    "url": "https://offroom.vercel.app/",
+    "icon": "icons/offroom.png",
+    "tagline": "退去前の生写真が、そのまま部屋図鑑になる",
+    "description": "SUUMOに載っていない、住人が退去前に撮ったリアルな部屋写真が見られる部屋図鑑。「敷金自衛ミッション」に沿って撮るだけで日時付きの証拠アルバムが手元に残り、その写真がそのまま次に住む人のための物件DBになる。家具の配置・生活感・傷や設備の状態まで無料で閲覧できる写真アーカイブメディア。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "realestate",
+      "cgm"
+    ]
+  },
+  {
     "id": "clip-pass",
     "name": "YouTuber CLIP PASS",
     "url": "https://clip-pass.vercel.app",
@@ -333,20 +347,6 @@
       "web",
       "seo",
       "matching"
-    ]
-  },
-  {
-    "id": "offroom",
-    "name": "オフルム（OFFROOM）",
-    "url": "https://offroom.vercel.app/",
-    "icon": "icons/offroom.png",
-    "tagline": "退去前の生写真が、そのまま部屋図鑑になる",
-    "description": "SUUMOに載っていない、住人が退去前に撮ったリアルな部屋写真が見られる部屋図鑑。「敷金自衛ミッション」に沿って撮るだけで日時付きの証拠アルバムが手元に残り、その写真がそのまま次に住む人のための物件DBになる。家具の配置・生活感・傷や設備の状態まで無料で閲覧できる写真アーカイブメディア。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "realestate",
-      "cgm"
     ]
   },
   {
