@@ -1,5 +1,19 @@
 [
   {
+    "id": "traindrift",
+    "name": "TrainDrift（トレインドリフト）",
+    "url": "https://traindrift.vercel.app",
+    "icon": "icons/traindrift.png",
+    "tagline": "時速30km以上でしか起動しない、乗車中専用のポイ活共闘RPG",
+    "description": "満員電車のデッドタイムを、同じ路線の乗客との無言の共闘に変える乗車中専用RPG。GPSと加速度センサーで時速30kmを超えたときだけ自動起動し、つり革を持った親指1本のタップとエモートだけで巨大怪獣を討伐する。移動距離がそのまま攻撃力になり、討伐報酬は動画リワード広告を原資にPayPay・えらべるPayなどのポイントへ交換できる。ブラウザ上で速度連動バトルをそのまま体験できる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "game",
+      "point"
+    ]
+  },
+  {
     "id": "riflog",
     "name": "リフログ（RIFLOG）",
     "url": "https://riflog.vercel.app",
