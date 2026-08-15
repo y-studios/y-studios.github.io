@@ -1,5 +1,19 @@
 [
   {
+    "id": "last-canvas",
+    "name": "LAST CANVAS（ラストキャンバス）",
+    "url": "https://last-canvas.vercel.app",
+    "icon": "icons/last-canvas.png",
+    "tagline": "取り壊す前のビルを、巨大なキャンバスに",
+    "description": "解体が決まったビルの外壁・屋内フロア・工事仮囲いを1日単位で借りられるスペースマッチング。取り壊す建物だから原状回復は不要で、スプレー塗装も巨大QRの掲出も自由。申請や施工はDIYか外部プロへの委託かを選べる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "matching",
+      "art"
+    ]
+  },
+  {
     "id": "bidcall",
     "name": "BIDCALL（ビッドコール）",
     "url": "https://bidcall.vercel.app/",
