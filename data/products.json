@@ -1,5 +1,19 @@
 [
   {
+    "id": "tricktube",
+    "name": "TrickTube（トリックチューブ）",
+    "url": "https://tricktube.vercel.app",
+    "icon": "icons/tricktube.png",
+    "tagline": "神業の決定的瞬間から、直接再生する技図鑑",
+    "description": "橋渡しの縦ハメ・横ハメ、確率機、ペラ輪などクレーンゲームの技と台設定でしぼり込める攻略動画DB。収録した51カットは投稿者本人がつけたチャプターの位置から再生するので、長い解説動画を頭から探し直す必要がない。技ごとの3ステップ解説つき。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "game",
+      "video"
+    ]
+  },
+  {
     "id": "prizemap",
     "name": "PrizeMap（プライズマップ）",
     "url": "https://prizemap.vercel.app",
