@@ -1,5 +1,19 @@
 [
   {
+    "id": "riflog",
+    "name": "リフログ（RIFLOG）",
+    "url": "https://riflog.vercel.app",
+    "icon": "icons/riflog.png",
+    "tagline": "今日の理不尽を親指3タップで記録するキャリア脱出ログ",
+    "description": "無駄会議・理不尽な指示・サービス残業。帰りの電車でその日のストレスをタップするだけで、奪われている時間と金額が試算される働き方の記録ツール。1週間分のデータから、その不満が起きにくい環境の条件と求人票で確認すべきポイントをまとめた「脱出カルテ」を発行する。記録は匿名、利用は無料。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "career",
+      "stress"
+    ]
+  },
+  {
     "id": "last-canvas",
     "name": "LAST CANVAS（ラストキャンバス）",
     "url": "https://last-canvas.vercel.app",
