@@ -1,5 +1,19 @@
 [
   {
+    "id": "clip-pass",
+    "name": "YouTuber CLIP PASS",
+    "url": "https://clip-pass.vercel.app",
+    "icon": "icons/clip-pass.png",
+    "tagline": "配信者公認の切り抜きマッチング＆素材ハブ",
+    "description": "YouTube配信者が公式素材(高画質アーカイブ・透過立ち絵・音声)を無料開放し、切り抜きクリエイターを公認制でマッチングするプラットフォーム。チャンネルURL提出でバッジが発行され、素材DLがアンロックされる。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "youtube",
+      "creator"
+    ]
+  },
+  {
     "id": "drop-pass",
     "name": "DROP PASS",
     "url": "https://drop-pass-pearl.vercel.app/",
