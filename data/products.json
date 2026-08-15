@@ -1,5 +1,19 @@
 [
   {
+    "id": "micro-gallery",
+    "name": "MICRO GALLERY",
+    "url": "https://micro-gallery-five.vercel.app/",
+    "icon": "icons/micro-gallery.png",
+    "tagline": "カフェ・美容室の空き壁を借りる壁面ギャラリー",
+    "description": "カフェ・美容室・アパレルの“空き壁”を月単位でレンタルできる店舗壁面特化型のマイクロギャラリーシェア。店舗は空き壁を出品して毎月の固定収入に、アーティストは画廊より身近な人が集まる空間で展示できる。オファーから決済までサイト内チャットで完結。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "art",
+      "marketplace"
+    ]
+  },
+  {
     "id": "next-buyer",
     "name": "NEXT BUYER",
     "url": "https://next-buyer.vercel.app/",
