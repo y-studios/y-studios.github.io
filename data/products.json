@@ -1,5 +1,20 @@
 [
   {
+    "id": "kyonen",
+    "name": "Kyonen（キョネン）",
+    "url": "https://kyonen.vercel.app",
+    "icon": "icons/kyonen.png",
+    "tagline": "去年の今日と、今日の気温をくらべる",
+    "description": "東京・大阪・京都・名古屋・福岡・札幌・那覇と現在地について、今日の気温を去年・2年前・3年前の同じ日と並べて見られるサイト。今日は1時間ごと、今週・今月は日ごとのグラフで比較でき、服装のめやすとXへのシェア画像も出せる。気温はOpen-Meteoの実測・再解析値。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "weather",
+      "chart",
+      "tool"
+    ]
+  },
+  {
     "id": "testdrive-ai",
     "name": "TestDrive AI（テストドライブ エーアイ）",
     "url": "https://testdrive-ai.vercel.app",
