@@ -1,5 +1,21 @@
 [
   {
+    "id": "wideroute",
+    "name": "WideRoute（ワイドルート）",
+    "url": "https://wideroute-jp.vercel.app",
+    "icon": "icons/wideroute.png",
+    "tagline": "狭い道を避けて、広い道で行く",
+    "description": "出発地・目的地・車種を入れると、最短ルート沿いの狭い区間をOpenStreetMapの道路データから検出。幹線道路を通る経由地を算出し、そのままGoogleマップで案内を開始できる。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "map",
+      "car",
+      "navigation",
+      "tool"
+    ]
+  },
+  {
     "id": "kagulog",
     "name": "KaguLog（カグログ）",
     "url": "https://kagulog.vercel.app",
