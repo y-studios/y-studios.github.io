@@ -1,5 +1,21 @@
 [
   {
+    "id": "skiptown",
+    "name": "SkipTown（スキップタウン）",
+    "url": "https://skiptown.vercel.app",
+    "icon": "icons/skiptown.png",
+    "tagline": "通勤ストレスから逆算して、住む街を決める",
+    "description": "勤務先・朝のつらさ・いまの家賃の3つを選ぶと、当駅始発の有無と朝の混み方の目安、SUUMOが公開している駅別の家賃相場を突き合わせて、通勤がラクになる街をスコア順に提案する住み替え診断。結果のボタンからは「その駅」と「あなたの家賃レンジ」で絞り込み済みのSUUMOの検索結果がそのまま開く。首都圏5エリアと梅田の計6オフィス街・29駅に対応。スコアはSkipTown独自の指標で、実測されたストレス削減率ではないことを明記している。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "tool",
+      "commute",
+      "housing",
+      "diagnosis"
+    ]
+  },
+  {
     "id": "kaotsukare",
     "name": "カオツカレ（KaoTsukare）",
     "url": "https://kaotsukare.vercel.app",
