@@ -1,5 +1,21 @@
 [
   {
+    "id": "kagulog",
+    "name": "KaguLog（カグログ）",
+    "url": "https://kagulog.vercel.app",
+    "icon": "icons/kagulog.png",
+    "tagline": "家具の購入先と値段を、一枚のカタログに",
+    "description": "自宅の家具のブランド・購入価格・購入先URLを記録すると、総額とブランド構成比つきの公開カタログになるWebアプリ。買い替えた家具はアーカイブに残り、部屋の遍歴も辿れる。データは端末内に保存し、共有はリンクに埋め込む方式。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "tool",
+      "interior",
+      "catalog",
+      "share"
+    ]
+  },
+  {
     "id": "kyonen",
     "name": "Kyonen（キョネン）",
     "url": "https://kyonen.vercel.app",
