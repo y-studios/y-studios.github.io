@@ -1,5 +1,21 @@
 [
   {
+    "id": "antipay",
+    "name": "アンチペイ（AntiPay）",
+    "url": "https://antipay-iota.vercel.app",
+    "icon": "icons/antipay.png",
+    "tagline": "誹謗中傷の慰謝料、回収できるか30秒で試算",
+    "description": "投稿された媒体・内容・件数・証拠と相手の見当から、慰謝料の目安と弁護士費用を差し引いた最終収支を試算する誹謗中傷シミュレーター。黒字か費用倒れかを判定し、使った係数はすべて画面で開示します。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "tool",
+      "simulation",
+      "legal",
+      "sns"
+    ]
+  },
+  {
     "id": "skiptown",
     "name": "SkipTown（スキップタウン）",
     "url": "https://skiptown.vercel.app",
