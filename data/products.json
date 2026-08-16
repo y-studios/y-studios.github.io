@@ -1,5 +1,21 @@
 [
   {
+    "id": "kaotsukare",
+    "name": "カオツカレ（KaoTsukare）",
+    "url": "https://kaotsukare.vercel.app",
+    "icon": "icons/kaotsukare.png",
+    "tagline": "インカメラ3秒で、顔の疲れ印象をスキャン",
+    "description": "インカメラを3秒見るだけで、まぶたの開き・目の下の影・頬の明るさ・口角の角度を解析し、いまの顔がどう見えるかを100点満点で可視化する顔疲労印象スキャナー。解析はすべてブラウザ内で完結し、映像も計測値も端末の外に出ません。シャッター音や通知音は一切鳴らさず、暗所では画面枠が白く光る簡易リングライトが働くので、電車内・オフィス・車内でもそのまま使えます。スコアの根拠になった生の実測値も全公開。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "tool",
+      "camera",
+      "ai",
+      "health"
+    ]
+  },
+  {
     "id": "wideroute",
     "name": "WideRoute（ワイドルート）",
     "url": "https://wideroute-jp.vercel.app",
