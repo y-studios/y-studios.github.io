@@ -365,11 +365,11 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   width: min(520px, calc(100vw - 40px));
-  max-height: calc(100vh - 80px);
+  max-height: calc(100vh - 48px);
   overflow-y: auto;
   background: var(--panel);
   border-radius: 22px;
-  padding: clamp(28px, 5vw, 40px);
+  padding: clamp(22px, 5vw, 40px);
   box-shadow: 0 30px 80px rgba(16, 16, 16, 0.25);
   animation: pop-in 0.25s cubic-bezier(0.2, 0.9, 0.3, 1.15);
 }
@@ -399,14 +399,14 @@ body {
 .modal-close:hover { background: var(--line); }
 
 .modal-icon {
-  width: 96px;
-  height: 96px;
-  border-radius: 24px;
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
   box-shadow: 0 10px 26px rgba(16, 16, 16, 0.16);
 }
 
 .modal-name {
-  margin-top: 20px;
+  margin-top: 14px;
   font-size: 1.5rem;
   font-weight: 900;
   letter-spacing: 0.03em;
@@ -419,9 +419,9 @@ body {
 }
 
 .modal-desc {
-  margin-top: 18px;
+  margin-top: 14px;
   font-size: 0.94rem;
-  line-height: 1.9;
+  line-height: 1.72;
 }
 
 .modal-meta {
@@ -429,7 +429,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   gap: 10px;
-  margin-top: 22px;
+  margin-top: 16px;
 }
 
 .modal-date {
@@ -454,14 +454,14 @@ body {
 
 .modal-link {
   display: inline-block;
-  margin-top: 26px;
+  margin-top: 18px;
   background: var(--ink);
   color: #fff;
   text-decoration: none;
   font-weight: 700;
   font-size: 0.9rem;
   letter-spacing: 0.05em;
-  padding: 12px 26px;
+  padding: 11px 24px;
   border-radius: 999px;
   transition: transform 0.2s, background 0.2s;
 }

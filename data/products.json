@@ -5,7 +5,7 @@
     "url": "https://kyonen.vercel.app",
     "icon": "icons/kyonen.png",
     "tagline": "去年の今日と、今日の気温をくらべる",
-    "description": "今日と去年・2年前・3年前の気温をグラフで比較。実測値と服装めやす付き。",
+    "description": "東京・大阪・福岡など主要都市と現在地で、今日の気温を去年・2年前・3年前と比較。時間ごと・日ごとのグラフとXシェア画像も出せる、Open-Meteo実測データ。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -20,7 +20,7 @@
     "url": "https://testdrive-ai.vercel.app",
     "icon": "icons/testdrive-ai.png",
     "tagline": "AIが実際に登録して採点する、忖度ゼロのE2E実測レビュー",
-    "description": "AIが登録フォームを実際に操作し採点。止まった位置もそのまま公開する。",
+    "description": "AIエージェントがサービスの登録フォームを実際に操作し、表示速度・入力項目数・UIのストレス度を100点満点で採点するレビューメディア。止まった位置と理由もそのまま公開する。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -36,7 +36,7 @@
     "url": "https://gendermirror.vercel.app",
     "icon": "icons/gendermirror.png",
     "tagline": "その文章、男女を入れ替えて読み直す",
-    "description": "貼った文章の性別だけ反転。X風カードで比較しPNG保存・投稿もできる。",
+    "description": "貼った文章の主客関係とトーンはそのまま、性別だけを反転させるツール。元の文と逆転後をX風カードで並べ、比較画像のPNG保存とXへの投稿ができる。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -52,7 +52,7 @@
     "url": "https://buddyworks-one.vercel.app",
     "icon": "icons/buddyworks.png",
     "tagline": "相棒と組んで受ける、フリーランスユニット専門の案件紹介",
-    "description": "2名以上のフリーランスユニット向け案件紹介。契約・請求もまとめて代行。",
+    "description": "すでに組んでいる2名以上のフリーランスユニット向けの案件紹介エージェント。個人では受けにくい大型案件をユニット丸ごとアサインし、契約・請求も代行する。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -68,7 +68,7 @@
     "url": "https://safetyschool-jade.vercel.app",
     "icon": "icons/safetyschool.png",
     "tagline": "いじめの記録を、LINEに送るだけで日時つきに残す",
-    "description": "いじめの記録をLINEに送るだけで保存。証拠はPDFの報告書に書き出せる。",
+    "description": "いじめに関する出来事を、LINEのトークに送るだけで受信日時つきに保管するセーフティツール。たまった記録は学校や弁護士に渡せる報告書としてPDF化できる。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -84,7 +84,7 @@
     "url": "https://tricktube.vercel.app",
     "icon": "icons/tricktube.png",
     "tagline": "神業の決定的瞬間から、直接再生する技図鑑",
-    "description": "クレーンゲームの神業を、投稿者本人のチャプター位置から直接再生できる。",
+    "description": "橋渡し・確率機・ペラ輪などクレーンゲームの技と台設定でしぼり込める攻略動画DB。投稿者本人がつけたチャプターの位置から再生でき、探し直す必要がない。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -98,7 +98,7 @@
     "url": "https://prizemap-puce.vercel.app",
     "icon": "icons/prizemap.png",
     "tagline": "行く前に知る、獲れる店。全国533店舗の獲れやすさ地図",
-    "description": "全国533店舗の獲れやすさを、利用者の★投稿だけで可視化する攻略マップ。",
+    "description": "全国533店舗のアームの強さ・店員アシスト度・橋渡しの幅を利用者のタレコミだけで可視化する攻略マップ。現在地や主要駅から近い順に並べ替えられる。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -112,7 +112,7 @@
     "url": "https://clawagent-tau.vercel.app",
     "icon": "icons/clawagent.png",
     "tagline": "欲しい限定プライズを、クレーンゲームの猛者に代理獲得してもらう",
-    "description": "欲しい景品と予算を出せば、クレーンゲームのプロが代理で獲得してくれる。",
+    "description": "欲しい景品と上限予算を掲載すると、クレーンゲームのプロが立候補して代わりに獲りに行くオンデマンドマーケット。上限金額はエスクロー預かり、全額返金保証。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -126,7 +126,7 @@
     "url": "https://prizeprice.vercel.app",
     "icon": "icons/prizeprice.png",
     "tagline": "クレーンゲームの景品を撮るだけで、相場と買取価格TOP3を判定",
-    "description": "景品を撮るだけでAIが相場と買取価格TOP3を判定するスキャナー。",
+    "description": "クレーンゲームのガラス越しに撮るだけで、景品と背後のポスターをAIが解析するプライズ特化型スキャナー。フリマ相場と主要買取店の価格TOP3を表示する。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -140,7 +140,7 @@
     "url": "https://solosurvival.vercel.app",
     "icon": "icons/solosurvival.png",
     "tagline": "1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
-    "description": "サバゲーに1人で行く人だけを集める、LINE完結の即席部隊マッチング。",
+    "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチング。日時とフィールドを送れば募集が配信され、ワンタップでエントリー。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -154,7 +154,7 @@
     "url": "https://battingdb.vercel.app",
     "icon": "icons/battingdb.png",
     "tagline": "球速・看板で探す、みんなで書く全国バッセン図鑑",
-    "description": "球速・看板でバッセンを検索。みんなで書き足せる全国81店舗の図鑑。",
+    "description": "160km/hの豪速球や変化球、硬式打席など全国81店舗のバッティングセンターをスペックで絞り込める検索DB。確認できた項目だけ掲載し、残りは誰でも書き足せる。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
@@ -168,7 +168,7 @@
     "url": "https://datingroster.vercel.app",
     "icon": "icons/datingroster.png",
     "tagline": "同時並行の会話ログとNG話題を、相手ごとのカルテで管理する恋愛CRM",
-    "description": "同時並行の相手を会話ログ付きカルテで管理。ワンタップでステルス表示。",
+    "description": "マッチングアプリの同時並行専用の管理ツール。相手ごとに会話タグ・NG話題・デート費用をカルテに残し、進捗をカンバンで管理。ステルス表示機能付き。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -182,7 +182,7 @@
     "url": "https://oshikura.vercel.app",
     "icon": "icons/oshikura.png",
     "tagline": "10人そろえば、推しへのお願いが正式な依頼になる",
-    "description": "ファンが軍資金を出し合い、推しに撮影やボイスを共同発注できる。",
+    "description": "ファン同士で軍資金を出し合い、推しに撮影やボイス制作を共同発注するクラウドファンディング。目標人数に達して本人の承諾が取れたときだけ成立する。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -196,7 +196,7 @@
     "url": "https://traindrift.vercel.app",
     "icon": "icons/traindrift.png",
     "tagline": "時速30km以上でしか起動しない、乗車中専用のポイ活共闘RPG",
-    "description": "時速30km超で起動する乗車中専用RPG。移動距離が攻撃力になる。",
+    "description": "満員電車のデッドタイムを乗客との共闘に変える乗車中専用RPG。時速30kmを超えると自動起動し、移動距離が攻撃力になる。討伐報酬はポイントに交換できる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -210,7 +210,7 @@
     "url": "https://riflog.vercel.app",
     "icon": "icons/riflog.png",
     "tagline": "今日の理不尽を親指3タップで記録するキャリア脱出ログ",
-    "description": "その日の理不尽を3タップで記録。1週間分から脱出カルテを発行する。",
+    "description": "無駄会議や理不尽な指示など、その日のストレスをタップで記録する働き方の記録ツール。奪われた時間と金額を試算し、1週間分から「脱出カルテ」を発行する。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -224,7 +224,7 @@
     "url": "https://last-canvas.vercel.app",
     "icon": "icons/last-canvas.png",
     "tagline": "取り壊す前のビルを、巨大なキャンバスに",
-    "description": "解体前のビルの壁を1日単位でレンタル。塗装もQR掲出も自由。",
+    "description": "解体が決まったビルの外壁・屋内フロア・工事仮囲いを1日単位で借りられるスペースマッチング。取り壊す建物だから原状回復は不要で、塗装もQR掲出も自由。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -238,7 +238,7 @@
     "url": "https://bidcall.vercel.app/",
     "icon": "icons/bidcall.png",
     "tagline": "推しとの10分間を競り落とす1on1ビデオ通話オークション",
-    "description": "推しとの通話枠をオークションで落札。デポジット制でいたずら排除。",
+    "description": "1on1ビデオ通話の枠を先着順ではなくオークションで販売するプレミアム通話アプリ。締切時点で最高額の入札者が落札し、事前デポジット制でいたずら入札を排除。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -252,7 +252,7 @@
     "url": "https://offroom.vercel.app/",
     "icon": "icons/offroom.png",
     "tagline": "退去前の生写真が、そのまま部屋図鑑になる",
-    "description": "住人が退去前に撮った部屋写真を見られる、証拠アルバム兼物件図鑑。",
+    "description": "SUUMOに載っていない、住人が退去前に撮ったリアルな部屋写真が見られる部屋図鑑。「敷金自衛ミッション」で撮った写真が、次に住む人のための物件DBになる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -266,7 +266,7 @@
     "url": "https://clip-pass.vercel.app",
     "icon": "icons/clip-pass.png",
     "tagline": "配信者公認の切り抜きマッチング＆素材ハブ",
-    "description": "配信者が公式素材を開放し、切り抜き師と公認マッチングするハブ。",
+    "description": "YouTube配信者が公式素材(高画質アーカイブ・透過立ち絵・音声)を無料開放し、切り抜きクリエイターを公認制でマッチングするプラットフォーム。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -280,7 +280,7 @@
     "url": "https://drop-pass-pearl.vercel.app/",
     "icon": "icons/drop-pass.png",
     "tagline": "位置情報×合言葉で解錠するゲリラ限定ドロップアプリ",
-    "description": "位置情報と合言葉で解錠するゲリラ限定ドロップ。数分で完売の熱狂を。",
+    "description": "位置情報とシークレット合言葉でアンロックする新世代ストリートドロップアプリ。街のスポットや暗号を辿った者だけが、数分で完売する限定アイテムを入手できる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -294,7 +294,7 @@
     "url": "https://micro-gallery-five.vercel.app/",
     "icon": "icons/micro-gallery.png",
     "tagline": "カフェ・美容室の空き壁を借りる壁面ギャラリー",
-    "description": "カフェや美容室の空き壁を月単位でレンタルできるギャラリーシェア。",
+    "description": "カフェ・美容室・アパレルの空き壁を月単位でレンタルできる店舗壁面特化型のギャラリーシェア。店舗は固定収入に、アーティストは身近な空間で展示できる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -308,7 +308,7 @@
     "url": "https://next-buyer.vercel.app/",
     "icon": "icons/next-buyer.png",
     "tagline": "私服スナップをタップして売る新世代リセール",
-    "description": "私服スナップをタップするだけで出品できる、新世代のリセール。",
+    "description": "私服スナップ特化のCtoCリセール。Instagramの着画をタップするだけで出品でき、「売ってください」の購入オファーがLINEやメールに届く3秒出品。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -322,7 +322,7 @@
     "url": "https://viewpay-gamma.vercel.app/",
     "icon": "icons/viewpay.png",
     "tagline": "TikTokの再生数がそのまま賞金になるUGCマーケット",
-    "description": "TikTokの再生数がそのまま賞金になるUGC動画マーケット。",
+    "description": "TikTok特化のUGC動画賞金プラットフォーム。D2Cブランドの賞金プールをかけて再生数ランキングを競い、最終順位に応じて賞金を獲得できる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -336,7 +336,7 @@
     "url": "https://checkdt.vercel.app/",
     "icon": "icons/checkdt.png",
     "tagline": "整形ダウンタイムの腫れが正常経過かを即セルフチェック",
-    "description": "整形ダウンタイムの腫れが正常か、施術×日数×症状でセルフチェック。",
+    "description": "美容整形・美容医療のダウンタイム中の腫れや左右差が正常経過かを、施術×術後日数×症状の選択でその場でチェックできるアプリ。回復予測グラフつき。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -350,7 +350,7 @@
     "url": "https://mirra-beauty.vercel.app/",
     "icon": "icons/mirra.png",
     "tagline": "自撮り1枚で似合う髪型をAIが即時診断",
-    "description": "自撮り1枚で似合う髪型をAIが即時診断するビューティーテック。",
+    "description": "自撮り1枚でAIが顔タイプ×骨格×パーソナルカラーを即時診断するビューティーテックアプリ。似合うヘアスタイルの候補やスタイリスト・サロンまで一括提案する。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -364,7 +364,7 @@
     "url": "https://roomie-jp.vercel.app/",
     "icon": "icons/roomie.svg",
     "tagline": "家賃を半分に。20代限定の同性ルームメイト探し",
-    "description": "家賃を半分に。20代限定の同性ルームメイトマッチング。",
+    "description": "20代限定・同性同士のルームメイトマッチングサービス。1人暮らしの1Kに対し、2LDKをシェアすれば家賃を抑えて広い部屋に住める比較を提示。LINEから探せる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -378,7 +378,7 @@
     "url": "https://akikoma-omega.vercel.app/",
     "icon": "icons/akikoma.png",
     "tagline": "空きコマ・ランチの仲間が見つかる大学生マッチング",
-    "description": "時間割の空きコマをタップして、近くの大学生とすぐ合流できる。",
+    "description": "大学生・大学院生限定のスキマ時間マッチングアプリ。時間割の空きマスをタップすると、同じキャンパスや近隣大学の学生とマッチし、学食やカフェで合流できる。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -392,7 +392,7 @@
     "url": "https://lastre.vercel.app/",
     "icon": "icons/lastre.png",
     "tagline": "終電を逃した夜を安全に乗り切る深夜レスキュー",
-    "description": "終電を逃した夜、1km以内の仲間と安全に合流する深夜レスキュー。",
+    "description": "深夜23:00〜05:30限定で、終電を逃した1km以内の仲間とマッチングするレスキューアプリ。目的別にワンタップで合流でき、安全スポットを自動指定する。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -406,7 +406,7 @@
     "url": "https://2on-six.vercel.app/",
     "icon": "icons/2on.png",
     "tagline": "友達と2人1組で他大学ペアと出会う、大学生限定マッチング",
-    "description": "友達と2人1組のペアで、他大学のペアと気軽に出会えるLINEマッチング。",
+    "description": "仲のいい友達と2人1組の「ペア」を組んで、他大学・他学部のペアと気軽に出会って飲みに行けるLINEベースのマッチングサービス。現役大学生・大学院生限定。",
     "registeredAt": "2026-08-15",
     "tags": [
       "web",
@@ -420,7 +420,7 @@
     "url": "https://narashi-gohan.vercel.app/",
     "icon": "icons/narashi-gohan.svg",
     "tagline": "会食恐怖症の仲間と練習できるピアマッチング",
-    "description": "会食恐怖症の当事者同士で、安心して食事の練習をするピアマッチング。",
+    "description": "「会食恐怖症」の当事者同士が安心して会食の練習をするピアマッチングサービス。「残してもいい」など不安を手放せる3つの約束を掲げ、少人数開催・割り勘なし。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -434,7 +434,7 @@
     "url": "https://monday-reset.vercel.app/",
     "icon": "icons/monday-reset.svg",
     "tagline": "サザエさん症候群の原因診断&リセットアクション",
-    "description": "サザエさん症候群の原因を3問で診断し、リセットアクションを提案。",
+    "description": "日曜の夜になると憂鬱になる「サザエさん症候群」の原因を3問で診断し、「前夜祭」「月曜のご褒美」の2つの作戦で充実アクションを提案する無料アプリ。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -448,7 +448,7 @@
     "url": "https://correlation-diagram.com/",
     "icon": "icons/correlation-diagram.png",
     "tagline": "アニメ・ドラマ・映画の相関図まとめ",
-    "description": "作品の人間関係を、顔アバター付きの相関図でひと目で整理できる。",
+    "description": "作品の登場人物の人間関係を、顔アバター付きの相関図で整理して紹介するサイト。アニメ・ドラマ・映画・漫画を横断して、複雑な関係性をひと目で理解できる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -462,7 +462,7 @@
     "url": "https://yaritai-list-kit.vercel.app/",
     "icon": "icons/yaritai-list-kit.png",
     "tagline": "5つの質問でやりたいことリストを自動生成",
-    "description": "5つの質問に答えるだけで、やりたいことリストを10個生成する。",
+    "description": "5つの質問に答えるだけで、自分だけの「死ぬまでにやりたいことリスト」を10個お届けするキット。会員登録不要・完全無料で、みんなの作ったリストも眺められる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -476,7 +476,7 @@
     "url": "https://kamitsunagi.com/",
     "icon": "icons/kamitsunagi.png",
     "tagline": "あなたの髪が、誰かの必要なものになる。",
-    "description": "髪を提供したい人と必要な人をつなぐ、髪の毛のC to Cマーケット。",
+    "description": "髪を提供したい人と必要とする人をつなぐ、髪の毛のC to Cマッチングプラットフォーム。長さ・太さ・カラー履歴などの詳細情報で出品・購入でき、匿名配送も対応。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -490,7 +490,7 @@
     "url": "https://mens.alphalinkpartners.com/",
     "icon": "icons/jibun-migaki.svg",
     "tagline": "人生は、攻略できる。レベル制の自分磨き",
-    "description": "6分野をレベル制ミッションで進める、ゲーム感覚の自分磨きプログラム。",
+    "description": "マインドセット・清潔感・恋愛・収入など6分野を、ゲームのようなレベル制ミッションで進める自己改善プログラム。1本約10分の教材で5段階のステージを攻略する。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -504,7 +504,7 @@
     "url": "https://pin-pon.net/",
     "icon": "icons/pin-pon.svg",
     "tagline": "卓球の大会・練習会を探してエントリー",
-    "description": "全国の卓球大会・練習会を検索し、そのままWebエントリーできる。",
+    "description": "全国の卓球大会・イベントを都道府県・種目・レベル・開催日で絞り込んで検索し、そのままWebエントリーできるポータル。練習会や練習相手の募集も無料で主催できる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -518,7 +518,7 @@
     "url": "https://spoiler-magna.com/",
     "icon": "icons/spoiler-magna.png",
     "tagline": "漫画の結末・ネタバレを最速でまとめてお届け",
-    "description": "気になる漫画の結末やネタバレを、作品ごとに整理してまとめる辞典。",
+    "description": "気になる漫画の結末やネタバレをまとめた辞典型サイト。作品ごとにあらすじ・最終回の解説・考察ポイントを整理し、ジャンル別に探せる情報サイト。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -532,7 +532,7 @@
     "url": "https://xn--zbs588aoyq.net/",
     "tagline": "アニメ・ドラマ・映画の最終回ネタバレ辞典",
     "icon": "icons/saishukai-net.png",
-    "description": "アニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典サイト。",
+    "description": "気になるアニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典型サイト。作品ごとにあらすじ・結末・考察ポイントを解説し、視聴前に確かめられる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -546,7 +546,7 @@
     "url": "https://comics-finish.com/",
     "icon": "icons/comics-finish.png",
     "tagline": "完結済み漫画の最終回ネタバレまとめ",
-    "description": "完結済み漫画の最終回ネタバレとあらすじを整理したまとめサイト。",
+    "description": "完結済みの漫画に特化したまとめサイト。作品情報・あらすじ・最終回のネタバレを整理し、ヒロアカや呪術廻戦など話題作の完結情報を検索して確かめられる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -560,7 +560,7 @@
     "url": "https://tennis-gut-antenna.com/",
     "icon": "icons/tennis-gut-antenna.svg",
     "tagline": "全国のテニスガット張り替え店を探せる",
-    "description": "全国のテニスガット張り替え店を条件で絞り込んで探せる検索ナビ。",
+    "description": "全国のテニスガット張り替え店を都道府県別に探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件で絞り込み、地元の店を効率よく見つけられる。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -574,7 +574,7 @@
     "url": "https://badminton-gut-antenna.com/",
     "icon": "icons/badminton-gut-antenna.svg",
     "tagline": "全国のバドミントンガット張り替え店を探せる",
-    "description": "全国のバドミントンガット張り替え店を条件で絞り込んで探せる。",
+    "description": "全国のバドミントンガット張り替え店を47都道府県から探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件検索で、店舗とプレイヤーをつなぐ。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -588,7 +588,7 @@
     "url": "https://supervisor-seo.com/",
     "icon": "icons/supervisor-seo.svg",
     "tagline": "専門家に記事監修を依頼できるサービス",
-    "description": "本人確認済みの専門家に、記事の監修・執筆を依頼できるマッチング。",
+    "description": "本人確認済みの医師・弁護士などの専門家データベースから、カテゴリや資格・対応業務で絞り込んで記事の監修・執筆を依頼できるマッチングサービス。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
@@ -602,7 +602,7 @@
     "url": "https://y-studios.github.io/",
     "icon": "icons/y-studio.svg",
     "tagline": "つくったものを並べておく、自分だけの棚",
-    "description": "つくったプロダクトやサービスを一箇所に集めて眺めるための場所。",
+    "description": "自分がつくったプロダクトやサービスを一箇所に集めて眺めるための場所。URLを渡すだけで登録され、アイコンも自動で生成される。この場所自体が最初のプロダクト。",
     "registeredAt": "2026-08-14",
     "tags": [
       "web",
