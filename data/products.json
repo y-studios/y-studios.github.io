@@ -1,5 +1,21 @@
 [
   {
+    "id": "testdrive-ai",
+    "name": "TestDrive AI（テストドライブ エーアイ）",
+    "url": "https://testdrive-ai.vercel.app",
+    "icon": "icons/testdrive-ai.png",
+    "tagline": "AIが実際に登録して採点する、忖度ゼロのE2E実測レビュー",
+    "description": "AIエージェントがサービスの登録フォームを実際に操作し、表示速度・入力項目数・UIのストレス度を100点満点で採点するレビューメディア。SMS認証やファイル添付など、AI単独で突破できない工程で止まった場合は「AI到達度：Step 3で停止」として止まった位置と理由をそのまま公開する。記事にはスコアのレーダーチャート、ステップごとの操作ログと画面イメージ、向いている人／向いていない人の対比を掲載。掲載中のスコアは採点フォーマット確認用のサンプル計測データで、その旨をサイト内に明示している。",
+    "registeredAt": "2026-08-16",
+    "tags": [
+      "web",
+      "media",
+      "ai",
+      "review",
+      "affiliate"
+    ]
+  },
+  {
     "id": "gendermirror",
     "name": "GenderMirror（ジェンダーミラー）",
     "url": "https://gendermirror.vercel.app",
