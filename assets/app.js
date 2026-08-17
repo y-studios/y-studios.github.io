@@ -45,10 +45,10 @@
       return;
     }
 
-    // 登録日の新しい順。同じ日なら後から足したもの(配列の後ろ)を先に出す
+    // 登録日の新しい順。同じ日なら後から足したもの(配列の先頭に近いもの)を先に出す
     list
       .map((p, i) => ({ p, i }))
-      .sort((a, b) => b.p.registeredAt.localeCompare(a.p.registeredAt) || b.i - a.i)
+      .sort((a, b) => b.p.registeredAt.localeCompare(a.p.registeredAt) || a.i - b.i)
       .map(({ p }) => p)
       .forEach((p) => {
         const card = document.createElement("button");
