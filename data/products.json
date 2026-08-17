@@ -1,5 +1,21 @@
 [
   {
+    "id": "myspec",
+    "name": "MySpec（マイスペック）",
+    "url": "https://myspec-three.vercel.app",
+    "icon": "icons/myspec.png",
+    "tagline": "スペックとアイコンで作る自己紹介カード",
+    "description": "MBTI・骨格・パーソナルカラー・顔タイプ・身長を選び、髪型や表情を組んだアイコンと一緒にトレカ風カードを生成。9:16と1:1のPNGで保存でき、診断はせず選んだ内容だけを載せます。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "tool",
+      "sns",
+      "avatar",
+      "generator"
+    ]
+  },
+  {
     "id": "stepato",
     "name": "ステパト（StePato）",
     "url": "https://stepato.vercel.app",
