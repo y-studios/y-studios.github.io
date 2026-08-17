@@ -1,5 +1,21 @@
 [
   {
+    "id": "stepato",
+    "name": "ステパト（StePato）",
+    "url": "https://stepato.vercel.app",
+    "icon": "icons/stepato.png",
+    "tagline": "そのインフルエンサー、起用して大丈夫？",
+    "description": "XのプロフィールURLを入れるだけで、インフルエンサーの過去ポストを巡回し、PR表記の透明度を4つの指標で採点する企業向けの事前監査ツール。PR表記が本文の何文字目にあるか、ハッシュタグ何個中の何番目に埋もれているか、収益リンクに表記が伴っているかを機械的に測り、「起用おすすめ／条件付き／要警戒」の3段階で判定します。疑義ポストは該当箇所をハイライトして一覧化。判定はあくまでリスクの推定値で、法令違反の認定ではないことを画面に明記しています。",
+    "registeredAt": "2026-08-17",
+    "tags": [
+      "web",
+      "tool",
+      "marketing",
+      "compliance",
+      "sns"
+    ]
+  },
+  {
     "id": "antipay",
     "name": "アンチペイ（AntiPay）",
     "url": "https://antipay-iota.vercel.app",
