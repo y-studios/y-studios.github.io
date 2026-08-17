@@ -1,10 +1,12 @@
 :root {
-  --bg: #fdfdfb;
+  --bg: #f6f8fb;
   --panel: #ffffff;
-  --ink: #101010;
-  --muted: #74716a;
-  --line: #ebe9e3;
-  --accent: #f2b705;
+  --ink: #10182b;
+  --muted: #5b6472;
+  --line: #e1e6f0;
+  --accent: #1e40c4;
+  --accent-light: #eaf1fd;
+  --cta: #f2701f;
   --radius: 18px;
   --font: "Zen Kaku Gothic New", "Inter", "Hiragino Kaku Gothic ProN", sans-serif;
 }
@@ -31,7 +33,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 18px clamp(20px, 5vw, 56px);
-  background: rgba(253, 253, 251, 0.85);
+  background: rgba(246, 248, 251, 0.85);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
@@ -126,7 +128,7 @@ body {
   top: 47%;
   width: clamp(30px, 3.2vw, 46px);
   height: clamp(30px, 3.2vw, 46px);
-  background: var(--accent);
+  background: var(--cta);
 }
 
 .shape-circle {
@@ -145,6 +147,16 @@ body {
   height: clamp(24px, 2.5vw, 36px);
   border-radius: 50%;
   background: var(--accent);
+}
+
+/* Qujiraのくじらモチーフ。Loglassの青いブランドマークと被らないよう黒基調で */
+.shape-whale {
+  left: -10%;
+  top: -6%;
+  width: clamp(52px, 5.6vw, 78px);
+  height: auto;
+  color: var(--ink);
+  opacity: 0.92;
 }
 
 @keyframes hero-float {
@@ -187,7 +199,7 @@ body {
 
 /* 見出しのマーカー風ハイライト */
 .hl {
-  background: linear-gradient(transparent 62%, var(--accent) 62%, var(--accent) 94%, transparent 94%);
+  background: linear-gradient(transparent 62%, var(--accent-light) 62%, var(--accent-light) 94%, transparent 94%);
   padding: 0 0.06em;
 }
 
@@ -218,9 +230,11 @@ body {
 .btn svg { width: 14px; height: 14px; }
 
 .btn-primary {
-  background: var(--accent);
-  color: var(--ink);
+  background: var(--cta);
+  color: #ffffff;
 }
+
+.btn-primary:hover { background: #d95f11; }
 
 .btn-ghost {
   border: 1.5px solid var(--ink);
@@ -228,7 +242,7 @@ body {
   background: transparent;
 }
 
-.btn-ghost:hover { background: #f2f0ea; }
+.btn-ghost:hover { background: var(--accent-light); border-color: var(--accent); }
 
 /* ---------- products ---------- */
 .products {
@@ -245,10 +259,24 @@ body {
 }
 
 .section-head h2 {
+  position: relative;
   font-family: "Inter", var(--font);
   font-weight: 800;
   font-size: clamp(1.6rem, 3.5vw, 2.2rem);
   letter-spacing: 0.06em;
+  padding-bottom: 14px;
+}
+
+/* Loglassの見出し下の短いアンダーラインを踏襲 */
+.section-head h2::after {
+  content: "";
+  position: absolute;
+  left: 1px;
+  bottom: 0;
+  width: 36px;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--accent);
 }
 
 .count {
@@ -290,7 +318,7 @@ body {
   aspect-ratio: 16 / 10;
   display: grid;
   place-items: center;
-  background: #f6f5f1;
+  background: var(--accent-light);
   border-bottom: 1px solid var(--line);
 }
 
@@ -328,7 +356,7 @@ body {
   font-weight: 600;
   font-size: 0.72rem;
   letter-spacing: 0.1em;
-  color: #b1ada3;
+  color: #9aa3b5;
 }
 
 /* Products直下に続くセクションは上を詰める */
@@ -388,7 +416,7 @@ body {
   height: 36px;
   border: none;
   border-radius: 50%;
-  background: #f2f0ea;
+  background: #eef1f6;
   color: var(--ink);
   font-size: 1.2rem;
   line-height: 1;
@@ -437,8 +465,8 @@ body {
   font-weight: 600;
   font-size: 0.75rem;
   letter-spacing: 0.08em;
-  color: var(--ink);
-  background: #f6f5f1;
+  color: var(--accent);
+  background: var(--accent-light);
   border: 1px solid var(--line);
   border-radius: 999px;
   padding: 5px 14px;
@@ -455,7 +483,7 @@ body {
 .modal-link {
   display: inline-block;
   margin-top: 18px;
-  background: var(--ink);
+  background: var(--cta);
   color: #fff;
   text-decoration: none;
   font-weight: 700;
@@ -467,7 +495,7 @@ body {
 }
 
 .modal-link:hover {
-  background: #2a2a2a;
+  background: #d95f11;
   transform: translateY(-2px);
 }
 
@@ -475,6 +503,10 @@ body.modal-open { overflow: hidden; }
 
 /* ---------- footer ---------- */
 .site-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
   border-top: 1px solid var(--line);
   padding: 32px clamp(20px, 5vw, 56px);
   text-align: center;
@@ -483,4 +515,11 @@ body.modal-open { overflow: hidden; }
   font-size: 0.78rem;
   letter-spacing: 0.12em;
   color: var(--muted);
+}
+
+.footer-whale {
+  width: 22px;
+  height: auto;
+  color: var(--ink);
+  opacity: 0.7;
 }
