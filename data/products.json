@@ -1,5 +1,37 @@
 [
   {
+    "id": "netai-timeline",
+    "name": "熱愛タイムライン（NetaiTimeline）",
+    "url": "https://netai-timeline.pages.dev",
+    "icon": "icons/netai-timeline.png",
+    "tagline": "熱愛スクープ速報まとめメディア",
+    "description": "熱愛スクープを3行まとめ・匂わせ検証タイムライン・ファン感情メーター・相関図の順で読める速報メディア。記事・人物・数値はすべて架空のサンプルデータです。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "media",
+      "entertainment",
+      "scoop",
+      "timeline"
+    ]
+  },
+  {
+    "id": "shirohako",
+    "name": "シロハコ（ShiroHako）",
+    "url": "https://shirohako.pages.dev",
+    "icon": "icons/shirohako.png",
+    "tagline": "引越しを清潔スペックで選ぶ",
+    "description": "女性スタッフ・新品靴下の履き替え・室内の養生など、引越し会社が公式サイトに書いている清潔まわりの記載だけを集めた比較サイト。架空のプランや口コミ、推定料金は載せていません。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "tool",
+      "hikkoshi",
+      "comparison",
+      "clean"
+    ]
+  },
+  {
     "id": "myspec",
     "name": "MySpec（マイスペック）",
     "url": "https://myspec.shindan.biz",
