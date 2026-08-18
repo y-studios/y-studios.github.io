@@ -145,7 +145,7 @@
   {
     "id": "gendermirror",
     "name": "GenderMirror（ジェンダーミラー）",
-    "url": "https://gendermirror.vercel.app",
+    "url": "https://gendermirror.shindan.biz",
     "icon": "icons/gendermirror.png",
     "tagline": "その文章、男女を入れ替えて読み直す",
     "description": "貼った文章の主客関係とトーンはそのまま、性別だけを反転させるツール。元の文と逆転後をX風カードで並べ、比較画像のPNG保存とXへの投稿ができる。",
