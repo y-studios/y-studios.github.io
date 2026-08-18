@@ -1,6 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <rect width="512" height="512" rx="112" fill="#101010"/>
-  <rect x="96" y="128" width="80" height="256" rx="40" fill="#f2b705"/>
-  <rect x="216" y="128" width="80" height="176" rx="40" fill="#4dab6d"/>
-  <rect x="336" y="128" width="80" height="112" rx="40" fill="#6ba5d9"/>
+  <!-- Y STUDIO と同じくじら（240x170）を中央に、白のシルエットで -->
+  <g transform="translate(56 106) scale(1.667)">
+    <path d="M18 100 C 6 76 18 46 60 37 C 96 29 138 34 166 54 C 186 68 198 78 216 68 C 210 94 190 108 170 104 C 174 114 164 120 150 116 C 112 124 58 121 32 108 C 21 103 14 105 18 100 Z" fill="#ffffff"/>
+    <path d="M68 64 C 56 71 49 85 53 99 C 65 92 77 78 79 68 Z" fill="#ffffff"/>
+    <circle cx="50" cy="58" r="5.5" fill="#101010"/>
+    <circle cx="190" cy="28" r="7" fill="#f2b705"/>
+    <circle cx="204" cy="14" r="5" fill="#f2b705"/>
+    <circle cx="214" cy="4" r="3.5" fill="#f2b705"/>
+  </g>
 </svg>
