@@ -1,5 +1,21 @@
 [
   {
+    "id": "launchguard",
+    "name": "ローンチガード（LaunchGuard）",
+    "url": "https://launchguard.pages.dev",
+    "icon": "icons/launchguard.png",
+    "tagline": "リリース前の法令＆UX総点検",
+    "description": "URLを入れるとAI監査キャラが回遊し、プラポリ・特商法・ステマ規制などの法令表記とOGP・動線の抜けを点検。判定は独自基準で法的助言ではありません。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "tool",
+      "legal",
+      "ux",
+      "audit"
+    ]
+  },
+  {
     "id": "netai-timeline",
     "name": "熱愛タイムライン（NetaiTimeline）",
     "url": "https://netai-timeline.pages.dev",
