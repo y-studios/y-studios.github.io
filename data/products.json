@@ -1,5 +1,21 @@
 [
   {
+    "id": "conveni-ticket-bot",
+    "name": "コンビニ引換券忘れ防止LINE Bot（ひきかえBot）",
+    "url": "https://conveni-ticket-bot.pages.dev",
+    "icon": "icons/conveni-ticket-bot.png",
+    "tagline": "コンビニ引換券の期限をLINE通知",
+    "description": "コンビニでもらう無料引換券のレシート写真をLINEに送ると、商品名と有効期限を読み取って7日前・3日前・前日にお知らせ。掲載中の画面やレシートはLP用の見本です。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "lp",
+      "line",
+      "bot",
+      "coupon"
+    ]
+  },
+  {
     "id": "launchguard",
     "name": "ローンチガード（LaunchGuard）",
     "url": "https://launchguard.pages.dev",
