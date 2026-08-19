@@ -1,5 +1,21 @@
 [
   {
+    "id": "fatigue-detective",
+    "name": "疲労の真犯人（FatigueDetective）",
+    "url": "https://fatigue-detective.pages.dev",
+    "icon": "icons/fatigue-detective.png",
+    "tagline": "睡眠不足以外の隠れた疲労原因を検証",
+    "description": "「睡眠不足」「ストレス」は禁止ワード。CO2換気不足・血糖値スパイク・食いしばり・深部体温など見落とされがちな疲労原因を、my-best風の検証スコアと出典付きで9件データベース化。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "media",
+      "healthcare",
+      "database",
+      "ranking"
+    ]
+  },
+  {
     "id": "aspboard",
     "name": "ASPボード（ASPBoard）",
     "url": "https://aspboard.vercel.app",
