@@ -5,7 +5,7 @@
     "url": "https://y-studios.github.io/market-research-kun/",
     "icon": "icons/market-research-kun.png",
     "tagline": "アイデア1行で競合・収益性・ピボット案をAI分析",
-    "description": "個人開発のサービス案を1行入れるだけ。Claude AIが国内外の競合・マネタイズ実現性・ポジショニングの空白地帯を実況付きで調査し、成功可能性スコアとピボット案をBentoレポートで返す。初回1回無料のチケット制。",
+    "description": "サービス案を1行入れるだけ。Claude AIが国内外の競合・マネタイズ実現性・ポジショニングの空白地帯を実況付きで調査し、成功可能性スコアとピボット案を返す。初回1回無料のチケット制。",
     "registeredAt": "2026-08-19",
     "tags": [
       "web",
