@@ -1,5 +1,22 @@
 [
   {
+    "id": "sales-ai-agent",
+    "name": "AI営業エージェント（企業リスト×メール/フォーム自動送信）",
+    "url": "https://sales-ai-agent-4ijg.onrender.com",
+    "icon": "icons/sales-ai-agent.svg",
+    "tagline": "企業リストへのメール/フォーム営業をAIが自動化",
+    "description": "企業リストをサービスごとに登録し、メール送信やPlaywright+Claude AIのフォーム自動入力で営業をかける社内専用ツール。外部アクセスはBasic Authで遮断。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "tool",
+      "ai",
+      "internal",
+      "sales",
+      "automation"
+    ]
+  },
+  {
     "id": "market-research-kun",
     "name": "個人開発前の市場調査くん（個人開発アイデア市場調査AI）",
     "url": "https://market-research-kun.pages.dev/",
