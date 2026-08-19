@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#10182b"/>
+  <!-- envelope (outbound sales) -->
+  <g>
+    <rect x="120" y="176" width="272" height="192" rx="20" fill="#ffffff"/>
+    <path d="M120 196 L256 288 L392 196" fill="none" stroke="#10182b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- AI spark -->
+  <g fill="#f2701f">
+    <path d="M372 92 C 376 112 380 116 400 120 C 380 124 376 128 372 148 C 368 128 364 124 344 120 C 364 116 368 112 372 92 Z"/>
+  </g>
+</svg>
