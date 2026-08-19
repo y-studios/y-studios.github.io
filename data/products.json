@@ -2,7 +2,7 @@
   {
     "id": "aspboard",
     "name": "ASPボード（ASPBoard）",
-    "url": "https://aspboard.pages.dev",
+    "url": "https://aspboard.vercel.app",
     "icon": "icons/aspboard.png",
     "tagline": "ASPの特単・掲載枠交渉をカンバン管理",
     "description": "Chatworkに埋もれがちなASPとの順位固定・特単・掲載期限をBacklog風カンバンと種別バッジで一元管理。期限アラートと収益分析つき。カードはサンプルです。",
