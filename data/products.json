@@ -1,5 +1,21 @@
 [
   {
+    "id": "claudecode-tracker",
+    "name": "Claudecodeの使い手（ClaudeCode Tracker）",
+    "url": "https://y-studios.github.io/claudecode-tracker/",
+    "icon": "icons/claudecode-tracker.png",
+    "tagline": "Claude Codeの5時間枠消費を日次で可視化",
+    "description": "5時間枠・トークン上限を使い倒すヘビーユーザー向け。今日の消費ゲージ、稼働推移グラフ、草ヒートマップ、使い手ランクと実績バッジ、Xシェア。LocalStorage保存の完全無料ツール。",
+    "registeredAt": "2026-08-19",
+    "tags": [
+      "web",
+      "tool",
+      "ai",
+      "dashboard",
+      "claude-code"
+    ]
+  },
+  {
     "id": "fatigue-detective",
     "name": "疲労の真犯人（FatigueDetective）",
     "url": "https://fatigue-detective.vercel.app",
