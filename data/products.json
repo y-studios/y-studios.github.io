@@ -34,7 +34,7 @@
   {
     "id": "launchguard",
     "name": "ローンチガード（LaunchGuard）",
-    "url": "https://launchguard.pages.dev",
+    "url": "https://launchguard-dd2.pages.dev",
     "icon": "icons/launchguard.png",
     "tagline": "リリース前の法令＆UX総点検",
     "description": "URLを入れるとAI監査キャラが回遊し、プラポリ・特商法・ステマ規制などの法令表記とOGP・動線の抜けを点検。判定は独自基準で法的助言ではありません。",
