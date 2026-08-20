@@ -1,5 +1,20 @@
 [
   {
+    "id": "adsboard",
+    "name": "AdsBoard（Google広告キャンペーンダッシュボード）",
+    "url": "https://adsboard-79a.pages.dev/",
+    "icon": "icons/adsboard.svg",
+    "tagline": "Google広告のキャンペーン別数値を毎日1画面で確認",
+    "description": "Google Ads APIから毎日、キャンペーン別の費用・クリック・CV・CPAを取得し、昨日/7日平均比較と14日間の推移グラフでまとめる自分専用ダッシュボード。Cloudflare Accessで本人メール限定。",
+    "registeredAt": "2026-08-21",
+    "tags": [
+      "web",
+      "tool",
+      "marketing",
+      "private"
+    ]
+  },
+  {
     "id": "asatane",
     "name": "アサタネ（毎朝7時の事業アイデア自動生成ダッシュボード）",
     "url": "https://asatane.vercel.app/",
