@@ -37,11 +37,11 @@
     if (e.key === "Escape" && !modal.hidden) closeModal();
   });
 
-  const renderInto = (list, gridEl, countEl2) => {
-    countEl2.textContent = `(${list.length})`;
+  const renderCards = (list, gridEl, emptyMessage) => {
+    gridEl.innerHTML = "";
 
     if (list.length === 0) {
-      gridEl.innerHTML = `<div class="empty">まだ何も置かれていません。<br>URL を渡してもらえれば、ここに並んでいきます。</div>`;
+      gridEl.innerHTML = `<div class="empty">${emptyMessage}</div>`;
       return;
     }
 
@@ -68,16 +68,72 @@
       });
   };
 
-  // GitHub Pagesは10分キャッシュ(max-age=600)のため、登録直後でも常に最新を取る
-  const load = (path, gridEl, countEl2) => {
+  // タグの出現数が少ない(1件だけ)ものは一覧が長くなりすぎるので、
+  // ある程度母数があるセクションでは2件以上のタグだけをフィルタ候補にする
+  const buildFilterTags = (list) => {
+    const counts = {};
+    list.forEach((p) => (p.tags || []).forEach((t) => { counts[t] = (counts[t] || 0) + 1; }));
+    const all = Object.keys(counts);
+    const frequent = all.filter((t) => counts[t] >= 2);
+    return (frequent.length >= 4 ? frequent : all).sort(
+      (a, b) => counts[b] - counts[a] || a.localeCompare(b)
+    );
+  };
+
+  const setupSection = (path, gridEl, countEl2, tagsEl) => {
     fetch(`${path}?t=${Date.now()}`)
       .then((r) => r.json())
-      .then((list) => renderInto(list, gridEl, countEl2))
+      .then((list) => {
+        if (list.length === 0) {
+          countEl2.textContent = "(0)";
+          renderCards([], gridEl, "まだ何も置かれていません。<br>URL を渡してもらえれば、ここに並んでいきます。");
+          return;
+        }
+
+        let activeTag = null;
+
+        const applyFilter = () => {
+          const filtered = activeTag
+            ? list.filter((p) => (p.tags || []).includes(activeTag))
+            : list;
+          countEl2.textContent = `(${filtered.length})`;
+          renderCards(filtered, gridEl, "該当するタグのプロダクトはありません。");
+        };
+
+        const tags = buildFilterTags(list);
+        if (tags.length > 0) {
+          const pills = [{ label: "すべて", tag: null }, ...tags.map((t) => ({ label: `#${t}`, tag: t }))];
+          pills.forEach(({ label, tag }) => {
+            const btn = document.createElement("button");
+            btn.type = "button";
+            btn.className = "tag-pill";
+            btn.textContent = label;
+            if (tag === null) btn.classList.add("active");
+            btn.addEventListener("click", () => {
+              // 同じタグをもう一度押したら解除して「すべて」に戻す
+              activeTag = activeTag === tag ? null : tag;
+              tagsEl.querySelectorAll(".tag-pill").forEach((b) => b.classList.remove("active"));
+              const active = activeTag === null ? tagsEl.querySelector(".tag-pill") : btn;
+              active.classList.add("active");
+              applyFilter();
+            });
+            tagsEl.appendChild(btn);
+          });
+        }
+
+        applyFilter();
+      })
       .catch(() => {
-        gridEl.innerHTML = `<div class="empty">一覧を読み込めませんでした。</div>`;
+        renderCards([], gridEl, "一覧を読み込めませんでした。");
       });
   };
 
-  load("data/products.json", grid, countEl);
-  load("data/services.json", document.getElementById("service-grid"), document.getElementById("service-count"));
+  // GitHub Pagesは10分キャッシュ(max-age=600)のため、登録直後でも常に最新を取る
+  setupSection("data/products.json", grid, countEl, document.getElementById("product-tags"));
+  setupSection(
+    "data/services.json",
+    document.getElementById("service-grid"),
+    document.getElementById("service-count"),
+    document.getElementById("service-tags")
+  );
 })();

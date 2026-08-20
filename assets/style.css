@@ -334,6 +334,39 @@ body {
   color: var(--muted);
 }
 
+/* ---------- tag filter ---------- */
+.tag-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.tag-pill {
+  font-family: "Inter", var(--font);
+  font-weight: 600;
+  font-size: 0.76rem;
+  letter-spacing: 0.03em;
+  padding: 6px 15px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.tag-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.tag-pill.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
