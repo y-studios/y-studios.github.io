@@ -2,7 +2,7 @@
   {
     "id": "gmo-auto-trader",
     "name": "GMOコイン自動売買AI（自分専用暗号資産自動トレード）",
-    "url": "https://y-studios.github.io/gmo-auto-trader/",
+    "url": "https://gmo-auto-trader.pages.dev/",
     "icon": "icons/gmo-auto-trader.png",
     "tagline": "10万円をRSI/MACD/BBで24h自動運用・監視",
     "description": "GMOコイン公式APIで元手10万円をRSI・MACD・BB×3%損切り/5%利確で3ヶ月自動運用。資産推移・勝率・保有ポジション・AIの売買理由を監視する自分専用ダッシュボード。",
