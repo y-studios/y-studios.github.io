@@ -1,5 +1,21 @@
 [
   {
+    "id": "asatane",
+    "name": "アサタネ（毎朝7時の事業アイデア自動生成ダッシュボード）",
+    "url": "https://asatane.vercel.app/",
+    "icon": "icons/asatane.png",
+    "tagline": "毎朝7時、市場トレンドから15個の事業アイデアを自動生成",
+    "description": "Claude Codeのクラウドルーティンが毎朝WebSearchで市場調査し、個人開発向けの事業アイデアを15件・7要素(ペイン/コア機能/競合/差別化/リピート性/マネタイズ)付きで自動生成。日付ごとにアーカイブされ過去分も見返せる。Basic認証で本人限定。",
+    "registeredAt": "2026-08-21",
+    "tags": [
+      "web",
+      "tool",
+      "ai",
+      "business",
+      "private"
+    ]
+  },
+  {
     "id": "gmo-auto-trader",
     "name": "GMOコイン自動売買AI（自分専用暗号資産自動トレード）",
     "url": "https://gmo-auto-trader.pages.dev/",
