@@ -901,7 +901,7 @@
   {
     "id": "incomeboard",
     "name": "IncomeBoard",
-    "url": "https://incomeboard.pages.dev",
+    "url": "https://incomeboard.vercel.app",
     "icon": "icons/incomeboard.svg",
     "tagline": "固定給と時給をまとめて見る、フリーランスの収入ダッシュボード",
     "description": "複数クライアントの固定給（毎月1日に反映）と時給（稼働時間シート連携で毎日自動集計）を1画面にまとめ、月次推移をグラフで確認できるダッシュボード。GitHub Actionsで毎日自動同期し、Cloudflare Pagesで運用。",
