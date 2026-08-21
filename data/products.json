@@ -1,5 +1,19 @@
 [
   {
+    "id": "devsetup",
+    "name": "DevSetup（開発環境・デスク1コマンド共有Web）",
+    "url": "https://devsetup-seven.vercel.app/",
+    "icon": "icons/devsetup.png",
+    "tagline": "強いエンジニアの開発環境を1コマンドで完コピ",
+    "description": "VSCode拡張・ターミナル設定・Homebrewツール・デスク環境をmicroCMS風マイページで公開。チェックしたツール群を一発インストールできるワンライナーシェルスクリプトを1タップでコピーできる開発環境共有プラットフォーム。",
+    "registeredAt": "2026-08-21",
+    "tags": [
+      "web",
+      "tool",
+      "dev"
+    ]
+  },
+  {
     "id": "adsboard",
     "name": "AdsBoard（Google広告キャンペーンダッシュボード）",
     "url": "https://adsboard-79a.pages.dev/",
