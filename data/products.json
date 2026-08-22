@@ -1,5 +1,19 @@
 [
   {
+    "id": "dr-growth-hack",
+    "name": "DRグロースハック（自演リンクDRトラッカー）",
+    "url": "https://dr-growth-hack.netlify.app/",
+    "icon": "icons/dr-growth-hack.svg",
+    "tagline": "毎日送るURLとDRをそのまま一覧化",
+    "description": "チャットで日々送る被リンクURLとドメインレーティング(DR)を記録していくだけのシンプルなトラッカー。登録数・平均DR・最高DR・直近登録日を上部に表示し、一覧はDR値で色分けバッジ表示。ビルド不要の静的サイトで運用。",
+    "registeredAt": "2026-08-22",
+    "tags": [
+      "web",
+      "tool",
+      "seo"
+    ]
+  },
+  {
     "id": "stackcost",
     "name": "StackCost（個人開発スタック×月間コスト公開DB）",
     "url": "https://stackcost.vercel.app/",
