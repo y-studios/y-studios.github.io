@@ -986,5 +986,19 @@
       "tool",
       "private"
     ]
+  },
+  {
+    "id": "release-desk",
+    "name": "Release Desk（Qiita/Zenn下書き公開管理）",
+    "url": "https://release-desk.pages.dev/",
+    "icon": "icons/release-desk.svg",
+    "tagline": "プロダクトのリリース記事、下書きを確認してワンクリックで公開",
+    "description": "Qiita/Zennに書いたリリース告知記事の下書きを一覧で確認し、OKなら公開ボタン一つで本公開まで行える管理画面。Basic認証で本人限定。",
+    "registeredAt": "2026-08-22",
+    "tags": [
+      "web",
+      "tool",
+      "dev"
+    ]
   }
 ]
