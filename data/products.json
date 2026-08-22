@@ -1,5 +1,21 @@
 [
   {
+    "id": "internet-media",
+    "name": "インターネットメディア（光回線比較SEOメディア）",
+    "url": "https://internet-media.biz/",
+    "icon": "icons/internet-media.png",
+    "tagline": "光回線・ネット回線の評判をグレー基調でわかりやすく",
+    "description": "光回線・インターネット回線の比較SEOメディア。manablog.org参考の自作テーマでグレー基調に刷新、商材ごとの評判・口コミ記事をクラウドルーティンで毎日自動投稿。ASPアフィリエイト連携済み。",
+    "registeredAt": "2026-08-23",
+    "tags": [
+      "web",
+      "media",
+      "seo",
+      "comparison",
+      "affiliate"
+    ]
+  },
+  {
     "id": "dr-growth-hack",
     "name": "DRグロースハック（自演リンクDRトラッカー）",
     "url": "https://dr-growth-hack.netlify.app/",
