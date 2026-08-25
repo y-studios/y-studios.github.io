@@ -1,17 +1,16 @@
 [
   {
     "id": "nanpun-db",
-    "name": "何分DB（Nanpun.DB）",
+    "name": "何分DB（Nanpun.DB）【サービス終了】",
     "url": "https://okanext.net/",
     "icon": "icons/nanpun-db.png",
-    "tagline": "あのシーン、何分から？を一発特定する逆引きWiki",
-    "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベース。YouTube風のビジュアルチャプターバーで見どころ区間を可視化し、ユーザー投稿でタイムスタンプを追記できるCGM設計。画像・動画は一切ホスティングせず、秒数とシーン名のテキストデータのみで構成。",
+    "tagline": "【サービス終了】動画秒数・チャプター逆引きWiki",
+    "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベースとして開発したが、2026-08-25にサービス終了。跡地では終了案内のみ表示。",
     "registeredAt": "2026-08-25",
     "tags": [
       "web",
       "wiki",
-      "cgm",
-      "affiliate"
+      "closed"
     ]
   },
   {
