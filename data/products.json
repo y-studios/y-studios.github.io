@@ -737,6 +737,21 @@
     ]
   },
   {
+    "id": "akikoma",
+    "name": "AkiKoma",
+    "url": "https://akikoma-omega.vercel.app/",
+    "icon": "icons/akikoma.png",
+    "tagline": "空きコマ・ランチの仲間が見つかる大学生マッチング（サービス終了）",
+    "description": "大学生・大学院生限定のスキマ時間マッチングアプリ。時間割の空きマスをタップすると、同じキャンパスや近隣大学の学生とマッチし、学食やカフェで合流できる。※サービス終了しました。",
+    "registeredAt": "2026-08-15",
+    "tags": [
+      "web",
+      "matching",
+      "lifestyle",
+      "closed"
+    ]
+  },
+  {
     "id": "lastre",
     "name": "Lastre（サービス終了）",
     "url": "https://lastre.vercel.app/",
