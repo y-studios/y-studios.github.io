@@ -1,5 +1,20 @@
 [
   {
+    "id": "situsearch",
+    "name": "シチュサーチ（SituSearch）",
+    "url": "https://situsearch.vercel.app/",
+    "icon": "icons/situsearch.svg",
+    "tagline": "自然言語シチュエーション特化 作品＆秒数AIソムリエ",
+    "description": "「あのシチュエーション」を文章で伝えるだけで、該当作品と何分何秒から見るべきかを秒単位でAIが逆引き提案する自然言語検索Web。FANZA連携用プレースホルダー構造とコミュニティ投稿(CGM)を実装。",
+    "registeredAt": "2026-08-25",
+    "tags": [
+      "web",
+      "ai",
+      "search",
+      "entertainment"
+    ]
+  },
+  {
     "id": "nanpun-db",
     "name": "何分DB（Nanpun.DB）【サービス終了】",
     "url": "https://okanext.net/",
