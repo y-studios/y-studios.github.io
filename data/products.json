@@ -17,10 +17,10 @@
   {
     "id": "situsearch",
     "name": "シチュサーチ（SituSearch）",
-    "url": "https://situsearch.vercel.app/",
+    "url": "https://okanext.net/",
     "icon": "icons/situsearch.svg",
     "tagline": "自然言語シチュエーション特化 作品＆秒数AIソムリエ",
-    "description": "「あのシチュエーション」を文章で伝えるだけで、該当作品と何分何秒から見るべきかを秒単位でAIが逆引き提案する自然言語検索Web。FANZA連携用プレースホルダー構造とコミュニティ投稿(CGM)を実装。",
+    "description": "「あのシチュエーション」を文章で伝えるだけで、該当作品と何分何秒から見るべきかを秒単位でAIが逆引き提案する自然言語検索Web。FANZA Web Service API連携前提の構成で、一般ユーザー投稿機能はなし。",
     "registeredAt": "2026-08-25",
     "tags": [
       "web",
@@ -32,10 +32,10 @@
   {
     "id": "nanpun-db",
     "name": "何分DB（Nanpun.DB）【サービス終了】",
-    "url": "https://okanext.net/",
+    "url": "https://nanpun-db.vercel.app/",
     "icon": "icons/nanpun-db.png",
     "tagline": "【サービス終了】動画秒数・チャプター逆引きWiki",
-    "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベースとして開発したが、2026-08-25にサービス終了。跡地では終了案内のみ表示。",
+    "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベースとして開発したが、2026-08-25にサービス終了。独自ドメイン(okanext.net)はシチュサーチに引き継ぎ済み。跡地では終了案内のみ表示。",
     "registeredAt": "2026-08-25",
     "tags": [
       "web",
