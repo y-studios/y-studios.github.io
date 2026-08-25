@@ -503,13 +503,14 @@
     "name": "SoloSurvival（ソロサバイバル）",
     "url": "https://solosurvival.vercel.app",
     "icon": "icons/solosurvival.png",
-    "tagline": "1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
-    "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチング。日時とフィールドを送れば募集が配信され、ワンタップでエントリー。",
+    "tagline": "【サービス終了】1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
+    "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチングでしたが、2026年8月22日にサービスを終了しました。",
     "registeredAt": "2026-08-16",
     "tags": [
       "web",
       "matching",
-      "airsoft"
+      "airsoft",
+      "closed"
     ]
   },
   {
