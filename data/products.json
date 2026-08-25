@@ -1,5 +1,20 @@
 [
   {
+    "id": "earlycore",
+    "name": "EarlyCore（初期フェーズ実務経験者特化スポット相談）",
+    "url": "https://earlycore.pages.dev/",
+    "icon": "icons/earlycore.png",
+    "tagline": "急成長ベンチャーの初期カオス期経験者に60分相談",
+    "description": "大企業の元役員ではなく、社員5〜30名期の初期カオスを泥臭く突破した実務者(人事/マーケ/セールス/情シス/エンジニア)にNDA完備で60分スポット相談できるBtoB LP。1回29,800円、3回パック79,800円、Stripe決済導線とLINE無料相談導線を実装。",
+    "registeredAt": "2026-08-25",
+    "tags": [
+      "web",
+      "lp",
+      "btob",
+      "consulting"
+    ]
+  },
+  {
     "id": "internet-media",
     "name": "インターネットメディア（光回線比較SEOメディア）",
     "url": "https://internet-media.biz/",
