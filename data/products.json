@@ -237,10 +237,10 @@
   {
     "id": "netai-timeline",
     "name": "熱愛タイムライン（NetaiTimeline）",
-    "url": "https://netai-timeline.pages.dev",
+    "url": "https://affislot.com",
     "icon": "icons/netai-timeline.png",
     "tagline": "熱愛スクープ速報まとめメディア",
-    "description": "熱愛スクープを3行まとめ・匂わせ検証タイムライン・ファン感情メーター・相関図の順で読める速報メディア。記事・人物・数値はすべて架空のサンプルデータです。",
+    "description": "熱愛スクープを3行まとめ・匂わせ検証タイムライン・ファン感情メーター・相関図の順で読める速報メディア。記事は出典を明記した実際の報道・本人発表をもとに構成しています。",
     "registeredAt": "2026-08-19",
     "tags": [
       "web",
