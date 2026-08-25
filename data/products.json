@@ -1,5 +1,20 @@
 [
   {
+    "id": "motoneta",
+    "name": "モトネタ（MotoNeta.ai）",
+    "url": "https://motoneta-six.vercel.app/",
+    "icon": "icons/motoneta.png",
+    "tagline": "SNS動画URL・スクショから公式品番＆該当秒数を一発特定",
+    "description": "XやSNSで流れてきたバズ動画・切り抜きのURLやスクショを貼るだけで、公式品番・タイトル・本編の該当秒数をAIが逆引き特定するスキャン特化Web。ビジュアルチャプターバーとFANZA連携用送客ボタン、特定履歴(LocalStorage)、コミュニティ掲示板を実装。",
+    "registeredAt": "2026-08-25",
+    "tags": [
+      "web",
+      "ai",
+      "search",
+      "entertainment"
+    ]
+  },
+  {
     "id": "situsearch",
     "name": "シチュサーチ（SituSearch）",
     "url": "https://situsearch.vercel.app/",
