@@ -1,5 +1,19 @@
 [
   {
+    "id": "aio-agent",
+    "name": "AIOエージェント",
+    "url": "https://aio-agent-beta.vercel.app/",
+    "icon": "icons/aio-agent.png",
+    "tagline": "AI検索時代の最適AIO対策会社を無料マッチング",
+    "description": "ChatGPTやAI Overviewsで自社が引用されない悩みを無料AI露出診断で可視化し、技術力・実績を審査した中立な立場でAIO/GEO対策会社を完全無料でマッチングするエージェントサービス。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "lp",
+      "affiliate"
+    ]
+  },
+  {
     "id": "furugi-sedori-lp",
     "name": "古着せどり完全攻略",
     "url": "https://furugi-sedori-lp.vercel.app/",
