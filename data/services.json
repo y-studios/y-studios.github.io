@@ -1,5 +1,15 @@
 [
   {
+    "id": "get-hit-by-update",
+    "name": "アプデ被弾救急隊",
+    "url": "https://get-hit-by-update.alphalinkpartners.com/",
+    "icon": "icons/get-hit-by-update.svg",
+    "tagline": "被弾したサイトの順位回復を丸ごと代行する救急サービス",
+    "description": "Googleコアアップデートで順位が落ちたサイトの復活を代行するサービス。被弾原因の診断、コンテンツリライト、内部改善、外部リンク整備までまとめて対応する成果報酬型。",
+    "registeredAt": "2026-08-27",
+    "tags": ["service", "seo", "consulting"]
+  },
+  {
     "id": "insta-baikyaku",
     "name": "インスタ売却パートナーズ",
     "url": "https://spiffy-cactus-2fcc10.netlify.app/",
