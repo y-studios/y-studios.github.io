@@ -1,5 +1,19 @@
 [
   {
+    "id": "online-sedori-lp",
+    "name": "電脳せどり完全攻略",
+    "url": "https://online-sedori-lp.vercel.app/",
+    "icon": "icons/online-sedori-lp.png",
+    "tagline": "9/25特典解禁！電脳せどり先行登録LP",
+    "description": "完全在宅・PC1台で完結する電脳せどりの先行登録LP。楽天・ヤフショ・Amazon・フリマから利益商品を抽出して月利20万〜50万円を狙う。9月25日20:00にLINE登録者限定で鉄板利益商品100選リストと安全攻略マニュアルの2大特典を配布するカウントダウン設計。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "lp",
+      "affiliate"
+    ]
+  },
+  {
     "id": "camera-sedori-lp",
     "name": "カメラせどり完全攻略",
     "url": "https://camera-sedori-lp.vercel.app/",
