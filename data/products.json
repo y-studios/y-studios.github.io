@@ -1,5 +1,21 @@
 [
   {
+    "id": "denki-yoho",
+    "name": "でんき予報（Denki Yoho）",
+    "url": "https://denki-yoho.netlify.app/",
+    "icon": "icons/denki-yoho.png",
+    "tagline": "翌日電力価格予測＆スマート節電Bot",
+    "description": "天気予報を見るように明日の電気代をチェック。翌日48コマの市場価格から最安・高騰タイムを毎夕LINE通知し、EV充電や家電の時間シフトで電気代を賢くカットするLP。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "nextjs",
+      "netlify",
+      "saas",
+      "iot"
+    ]
+  },
+  {
     "id": "spyradar-ai",
     "name": "SpyRadar AI（スパイレーダー）",
     "url": "https://spyradar-ai.netlify.app/",
