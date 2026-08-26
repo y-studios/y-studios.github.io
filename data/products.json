@@ -1,5 +1,20 @@
 [
   {
+    "id": "yabakore",
+    "name": "ヤバコレ",
+    "url": "https://funin-ryoritsu.jp/",
+    "icon": "icons/yabakore.svg",
+    "tagline": "「やめとけ・やばい」を中立に整理するメディア",
+    "description": "『〇〇 やめとけ』『〇〇 やばい』で検索する人向けに、断定を避け中立的な視点で理由を整理するメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "product",
+      "wordpress",
+      "media",
+      "seo"
+    ]
+  },
+  {
     "id": "kaitai-daicho",
     "name": "解体台帳（KAITAI DAICHO）",
     "url": "https://kaitai-daicho.netlify.app/",
