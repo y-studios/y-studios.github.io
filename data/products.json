@@ -1,5 +1,20 @@
 [
   {
+    "id": "matching-app-lp",
+    "name": "マッチングアプリ完全攻略（Match-Launch LP）",
+    "url": "https://matching-app-lp.vercel.app/",
+    "icon": "icons/matching-app-lp.png",
+    "tagline": "9/25特典解禁・9/26完全閉鎖の先行登録LP",
+    "description": "マッチングアプリ攻略ノウハウのLINE先行登録LP。写真&メッセージ攻略PDF2大特典を9/25にLINE限定配布、9/26に登録枠を閉鎖する期間限定訴求。成功事例・特典Bento・カウントダウン実装。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "nextjs",
+      "vercel",
+      "line"
+    ]
+  },
+  {
     "id": "english-conversation-comparison",
     "name": "English Conversation Comparison（英会話比較メディア）",
     "url": "https://english-conversation-comparison.com/",
