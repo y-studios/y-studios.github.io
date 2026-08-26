@@ -1,5 +1,19 @@
 [
   {
+    "id": "bookoff-sedori-lp",
+    "name": "ブックオフせどり完全攻略",
+    "url": "https://bookoff-sedori-lp.vercel.app/",
+    "icon": "icons/bookoff-sedori-lp.png",
+    "tagline": "9/25特典解禁！ブックオフせどり先行登録LP",
+    "description": "初心者がブックオフ1店舗の110円棚から仕入れて月利を目指すための先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント健全性マニュアルの2大特典を配布するカウントダウン設計。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "lp",
+      "affiliate"
+    ]
+  },
+  {
     "id": "tonari-infra",
     "name": "となりのインフラ（Tonari-infra）",
     "url": "https://tonari-infra.vercel.app/",
