@@ -19,8 +19,8 @@
     "name": "シチュサーチ（SituSearch）",
     "url": "https://okanext.net/",
     "icon": "icons/situsearch.svg",
-    "tagline": "自然言語シチュエーション特化 作品＆秒数AIソムリエ",
-    "description": "「あのシチュエーション」を文章で伝えるだけで、該当作品と何分何秒から見るべきかを秒単位でAIが逆引き提案する自然言語検索Web。FANZA Web Service API連携前提の構成で、一般ユーザー投稿機能はなし。",
+    "tagline": "自然言語シチュエーション特化 作品検索AIソムリエ",
+    "description": "「あのシチュエーション」を文章で伝えるだけで、FANZA Web Service APIの実商品からAIソムリエが該当作品を提案する自然言語検索Web。一般ユーザー投稿機能はなし。",
     "registeredAt": "2026-08-25",
     "tags": [
       "web",
