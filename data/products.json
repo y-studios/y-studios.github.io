@@ -1,5 +1,19 @@
 [
   {
+    "id": "english-conversation-comparison",
+    "name": "English Conversation Comparison（英会話比較メディア）",
+    "url": "https://english-conversation-comparison.com/",
+    "icon": "icons/english-conversation-comparison.svg",
+    "tagline": "オンライン英会話をアドアフィ風LP+比較ブログで",
+    "description": "オンライン英会話スクールの比較メディア。TOPはランキングLP、/blog/は比較記事一覧。ラッコサーバーのWordPressで、記事は毎日自動投稿。提携先は選定中。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "wordpress",
+      "affiliate"
+    ]
+  },
+  {
     "id": "aio-agent",
     "name": "AIOエージェント",
     "url": "https://aio-agent-beta.vercel.app/",
