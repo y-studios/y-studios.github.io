@@ -1,5 +1,19 @@
 [
   {
+    "id": "mbti-tool",
+    "name": "MBTI診断ツール",
+    "url": "https://mbti-tool-rose.vercel.app/",
+    "icon": "icons/mbti-tool.png",
+    "tagline": "3分でわかる、あなたの本当の性格・適職・相性",
+    "description": "厳選16問のTypeform風1問1答クイズに直感で答えるだけで、16タイプの性格診断・強み弱み・向いている仕事・恋愛や友達の相性ベスト＆ワーストまで無料で可視化するWebツール。16タイプ図鑑と全16タイプ相性早見表、X共有機能つき。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "diagnosis",
+      "entertainment"
+    ]
+  },
+  {
     "id": "motoneta",
     "name": "モトネタ（MotoNeta.ai）",
     "url": "https://motoneta-six.vercel.app/",
