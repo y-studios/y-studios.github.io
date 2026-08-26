@@ -1,5 +1,19 @@
 [
   {
+    "id": "usedbooks-sedori-lp",
+    "name": "古本せどり完全攻略",
+    "url": "https://usedbooks-sedori-lp.vercel.app/",
+    "icon": "icons/usedbooks-sedori-lp.png",
+    "tagline": "9/25特典解禁！古本せどり先行登録LP",
+    "description": "知識ゼロ・資金1万円から始める古本せどりで、1冊110円の仕入れから月利10万〜30万円を目指す先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント安全防衛マニュアルの2大特典を配布するカウントダウン設計。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "lp",
+      "affiliate"
+    ]
+  },
+  {
     "id": "bookoff-sedori-lp",
     "name": "ブックオフせどり完全攻略",
     "url": "https://bookoff-sedori-lp.vercel.app/",
