@@ -1,5 +1,19 @@
 [
   {
+    "id": "furugi-sedori-lp",
+    "name": "古着せどり完全攻略",
+    "url": "https://furugi-sedori-lp.vercel.app/",
+    "icon": "icons/furugi-sedori-lp.png",
+    "tagline": "9/25特典解禁！古着せどり先行登録LP",
+    "description": "1着500円の仕入れで利益率50%〜70%を狙う古着せどりの先行登録LP。メルカリ×セカスト・トレファク・卸を攻略して月利20万〜50万円を目指す。9月25日20:00にLINE登録者限定で高利益ブランド＆タグ100選リストと撮影・アカウント安全マニュアルの2大特典を配布するカウントダウン設計。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "lp",
+      "affiliate"
+    ]
+  },
+  {
     "id": "online-sedori-lp",
     "name": "電脳せどり完全攻略",
     "url": "https://online-sedori-lp.vercel.app/",
