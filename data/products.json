@@ -1,5 +1,19 @@
 [
   {
+    "id": "tonari-infra",
+    "name": "となりのインフラ（Tonari-infra）",
+    "url": "https://tonari-infra.vercel.app/",
+    "icon": "icons/tonari-infra.png",
+    "tagline": "隣の家の固定費、のぞき見して真似っこできるインフラ公開コミュニティ",
+    "description": "同じ地域・世帯人数・間取りの人が電気・ガス・ネット・スマホ・水・サブスクにいくら払っているかをリアルなインフラ構成カードで公開し合い、同条件平均との差額や最安構成をワンクリックで真似できるオープンコミュニティ。検針票アップロードの自動入力デモ、固定費削減シミュレーター、投稿者への毎月アマギフ抽選謝礼つき。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "web",
+      "community",
+      "lifestyle"
+    ]
+  },
+  {
     "id": "mbti-tool",
     "name": "MBTI診断ツール",
     "url": "https://mbti-tool-rose.vercel.app/",
