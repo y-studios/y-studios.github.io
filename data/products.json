@@ -1,5 +1,20 @@
 [
   {
+    "id": "kaitai-daicho",
+    "name": "解体台帳（KAITAI DAICHO）",
+    "url": "https://kaitai-daicho.netlify.app/",
+    "icon": "icons/kaitai-daicho.svg",
+    "tagline": "解体予定・解体中ビルの可視化データベース",
+    "description": "業界紙・再開発情報サイトの報道をもとに、解体予定・解体中の建物を独自に収集して並べるデータベース。ステータス・エリアで絞り込み可能。毎日自動で新規案件をチェックし追加。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "product",
+      "database",
+      "static",
+      "automation"
+    ]
+  },
+  {
     "id": "kaobare-lab",
     "name": "顔バレラボ",
     "url": "https://niigata-geneki.jp/",
