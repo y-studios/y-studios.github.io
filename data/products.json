@@ -1,5 +1,21 @@
 [
   {
+    "id": "voiceblog",
+    "name": "VoiceBlog（ボイスブログ）",
+    "url": "https://voiceblog.vercel.app/",
+    "icon": "icons/voiceblog.png",
+    "tagline": "音声・動画をSEO記事とXスレッドに変換",
+    "description": "YouTube動画やポッドキャスト音声を投入するだけで、SEO最適化ブログ記事とX用5連スレッドを一括自動生成するクリエイター特化SaaS。デモスタジオで即体験できる。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "nextjs",
+      "vercel",
+      "saas",
+      "ai"
+    ]
+  },
+  {
     "id": "matching-app-lp",
     "name": "マッチングアプリ完全攻略（Match-Launch LP）",
     "url": "https://matching-app-lp.vercel.app/",
