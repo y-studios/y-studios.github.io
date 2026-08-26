@@ -1,5 +1,20 @@
 [
   {
+    "id": "kaobare-lab",
+    "name": "顔バレラボ",
+    "url": "https://niigata-geneki.jp/",
+    "icon": "icons/kaobare-lab.svg",
+    "tagline": "VTuber・YouTuberの「顔バレ」情報メディア",
+    "description": "VTuber・YouTuber・アーティストの素顔非公開の理由や噂を、未確認情報は断定せず整理して届けるメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "wordpress",
+      "media",
+      "seo"
+    ]
+  },
+  {
     "id": "denki-yoho",
     "name": "でんき予報（Denki Yoho）",
     "url": "https://denki-yoho.netlify.app/",
