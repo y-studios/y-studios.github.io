@@ -1,5 +1,21 @@
 [
   {
+    "id": "spyradar-ai",
+    "name": "SpyRadar AI（スパイレーダー）",
+    "url": "https://spyradar-ai.netlify.app/",
+    "icon": "icons/spyradar-ai.png",
+    "tagline": "競合動向・炎上リスク検知SaaS",
+    "description": "競合の新機能リリース速報、同業他社の炎上リスクAI分析、乗り換え検討中の不満ポスト検知をSlackへ即時通知するBtoB監視SaaS。攻守一体の検知レーダーをデモ体験できる。",
+    "registeredAt": "2026-08-26",
+    "tags": [
+      "product",
+      "nextjs",
+      "netlify",
+      "saas",
+      "ai"
+    ]
+  },
+  {
     "id": "voiceblog",
     "name": "VoiceBlog（ボイスブログ）",
     "url": "https://voiceblog.vercel.app/",
