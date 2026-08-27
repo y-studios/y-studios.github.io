@@ -1,5 +1,20 @@
 [
   {
+    "id": "owahara-map",
+    "name": "オワハラマップ（OwaharaMap）",
+    "url": "https://owahara-map.netlify.app/",
+    "icon": "icons/owahara-map.png",
+    "tagline": "就活オワハラ事例・対策データベース",
+    "description": "報道・公開情報と体験談をもとに、全国のオワハラの手口をエリア・業種・手口別に検索できる就活生向け自衛DB。撃退フレーズ・相談窓口・対策コラムも掲載。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "product",
+      "nextjs",
+      "netlify",
+      "database"
+    ]
+  },
+  {
     "id": "yabakore",
     "name": "ヤバコレ",
     "url": "https://funin-ryoritsu.jp/",
