@@ -1,5 +1,20 @@
 [
   {
+    "id": "battery-payback-calc",
+    "name": "BatteryPayback Calc（バッテリーペイバック）",
+    "url": "https://battery-payback-calc.vercel.app/",
+    "icon": "icons/battery-payback-calc.svg",
+    "tagline": "蓄電池・元が取れる年数実測シミュレーター",
+    "description": "家庭用・産業用蓄電池の容量・導入費用・電気代・都道府県別補助金を入力するだけで、劣化率と電気代高騰まで織り込んだ実質回収年数と20年間の累積キャッシュフローを可視化するROI計算スタジオ。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "product",
+      "nextjs",
+      "vercel",
+      "calculator"
+    ]
+  },
+  {
     "id": "owahara-map",
     "name": "オワハラマップ（OwaharaMap）",
     "url": "https://owahara-map.netlify.app/",
