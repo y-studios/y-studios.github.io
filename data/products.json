@@ -1,5 +1,20 @@
 [
   {
+    "id": "loous-net",
+    "name": "Loous.net",
+    "url": "https://loous.net/",
+    "icon": "icons/loous-net.svg",
+    "tagline": "個人開発者がサブドメインでサービスを積み重ねる親ドメイン",
+    "description": "法人格を持たない個人ブランドの親ドメイン。企画書の代わりにコードを書き、思いついたアイデアをサブドメイン（例: techregret.loous.net）として公開していく実験場。TechRegretを皮切りにサービスが増えていく予定。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "web",
+      "hub",
+      "personal-brand",
+      "engineering"
+    ]
+  },
+  {
     "id": "shimin-tennis-portal",
     "name": "区民・市民テニスポータル",
     "url": "https://shimin-tennis-portal.netlify.app/",
