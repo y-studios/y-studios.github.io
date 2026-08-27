@@ -1304,7 +1304,7 @@
   {
     "id": "techregret",
     "name": "TechRegret（テックリグレット）",
-    "url": "https://y-studios.github.io/techregret/",
+    "url": "https://techregret.loous.net/",
     "icon": "icons/techregret.svg",
     "tagline": "技術乗り換えの決定打を集める、後悔ログDB",
     "description": "公式ドキュメントには載っていない、個人開発者・エンジニアが技術スタックを乗り換えた決定打（料金高騰・ビルド遅延・開発体験・仕様変更など）を集約。移行元→移行先の比較マトリクスと後悔ログを検索・投稿できる技術選定の罠回避プラットフォーム。プリセット4件収録、LocalStorageで投稿・共感を保存。",
