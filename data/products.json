@@ -1,5 +1,21 @@
 [
   {
+    "id": "shimin-tennis-portal",
+    "name": "区民・市民テニスポータル",
+    "url": "https://shimin-tennis-portal.netlify.app/",
+    "icon": "icons/shimin-tennis-portal.png",
+    "tagline": "市民大会の公式情報へ最短でアクセス",
+    "description": "全国の自治体・テニス協会の公式大会ページと参加資格の傾向（在住限定・オープン枠）を1ヶ所に整理した公的大会リンク集ポータル。京都府全域と近隣府県から順次拡大中。",
+    "registeredAt": "2026-08-27",
+    "tags": [
+      "product",
+      "nextjs",
+      "netlify",
+      "tennis",
+      "portal"
+    ]
+  },
+  {
     "id": "battery-payback-calc",
     "name": "BatteryPayback Calc（バッテリーペイバック）",
     "url": "https://battery-payback-calc.vercel.app/",
