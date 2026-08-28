@@ -390,7 +390,7 @@
     "icon": "icons/stackcost.png",
     "tagline": "この個人開発、月何円で動いてる？を可視化・共有",
     "description": "個人開発アプリの技術スタックと実際の月間インフラ費用の内訳を登録・検索できるプラットフォーム。Rechartsのコスト内訳円グラフ・技術タグ・黒字ステータス付きBentoカードで一覧、投稿は3件まで無料。",
-    "registeredAt": "2026-08-21",
+    "registeredAt": "2026-08-28",
     "tags": [
       "web",
       "tool",
@@ -1320,10 +1320,10 @@
     "id": "techregret",
     "name": "TechRegret（テックリグレット）",
     "url": "https://techregret.loous.net/",
-    "icon": "icons/techregret.svg",
+    "icon": "icons/techregret.png",
     "tagline": "技術乗り換えの決定打を集める、後悔ログDB",
     "description": "公式ドキュメントには載っていない、個人開発者・エンジニアが技術スタックを乗り換えた決定打（料金高騰・ビルド遅延・開発体験・仕様変更など）を集約。移行元→移行先の比較マトリクスと後悔ログを検索・投稿できる技術選定の罠回避プラットフォーム。プリセット4件収録、LocalStorageで投稿・共感を保存。",
-    "registeredAt": "2026-08-21",
+    "registeredAt": "2026-08-28",
     "tags": [
       "web",
       "tool",
