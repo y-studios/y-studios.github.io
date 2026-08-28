@@ -386,7 +386,7 @@
   {
     "id": "stackcost",
     "name": "StackCost（個人開発スタック×月間コスト公開DB）",
-    "url": "https://stackcost.vercel.app/",
+    "url": "https://stackcost.loous.net/",
     "icon": "icons/stackcost.png",
     "tagline": "この個人開発、月何円で動いてる？を可視化・共有",
     "description": "個人開発アプリの技術スタックと実際の月間インフラ費用の内訳を登録・検索できるプラットフォーム。Rechartsのコスト内訳円グラフ・技術タグ・黒字ステータス付きBentoカードで一覧、投稿は3件まで無料。",
