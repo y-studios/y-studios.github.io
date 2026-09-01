@@ -1,1390 +1,1405 @@
 [
-  {
-    "id": "loous-net",
-    "name": "Loous.net",
-    "url": "https://loous.net/",
-    "icon": "icons/loous-net.svg",
-    "tagline": "個人開発者がサブドメインでサービスを積み重ねる親ドメイン",
-    "description": "法人格を持たない個人ブランドの親ドメイン。企画書の代わりにコードを書き、思いついたアイデアをサブドメイン（例: techregret.loous.net）として公開していく実験場。TechRegretを皮切りにサービスが増えていく予定。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "web",
-      "hub",
-      "personal-brand",
-      "engineering"
-    ]
-  },
-  {
-    "id": "shimin-tennis-portal",
-    "name": "区民・市民テニスポータル",
-    "url": "https://shimin-tennis-portal.netlify.app/",
-    "icon": "icons/shimin-tennis-portal.png",
-    "tagline": "市民大会の公式情報へ最短でアクセス",
-    "description": "全国の自治体・テニス協会の公式大会ページと参加資格の傾向（在住限定・オープン枠）を1ヶ所に整理した公的大会リンク集ポータル。京都府全域と近隣府県から順次拡大中。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "product",
-      "nextjs",
-      "netlify",
-      "tennis",
-      "portal"
-    ]
-  },
-  {
-    "id": "battery-payback-calc",
-    "name": "BatteryPayback Calc（バッテリーペイバック）",
-    "url": "https://battery-payback-calc.vercel.app/",
-    "icon": "icons/battery-payback-calc.svg",
-    "tagline": "蓄電池・元が取れる年数実測シミュレーター",
-    "description": "家庭用・産業用蓄電池の容量・導入費用・電気代・都道府県別補助金を入力するだけで、劣化率と電気代高騰まで織り込んだ実質回収年数と20年間の累積キャッシュフローを可視化するROI計算スタジオ。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "product",
-      "nextjs",
-      "vercel",
-      "calculator"
-    ]
-  },
-  {
-    "id": "owahara-map",
-    "name": "オワハラマップ（OwaharaMap）",
-    "url": "https://owahara-map.netlify.app/",
-    "icon": "icons/owahara-map.png",
-    "tagline": "就活オワハラ事例・対策データベース",
-    "description": "報道・公開情報と体験談をもとに、全国のオワハラの手口をエリア・業種・手口別に検索できる就活生向け自衛DB。撃退フレーズ・相談窓口・対策コラムも掲載。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "product",
-      "nextjs",
-      "netlify",
-      "database"
-    ]
-  },
-  {
-    "id": "yabakore",
-    "name": "ヤバコレ",
-    "url": "https://funin-ryoritsu.jp/",
-    "icon": "icons/yabakore.svg",
-    "tagline": "「やめとけ・やばい」を中立に整理するメディア",
-    "description": "『〇〇 やめとけ』『〇〇 やばい』で検索する人向けに、断定を避け中立的な視点で理由を整理するメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "product",
-      "wordpress",
-      "media",
-      "seo"
-    ]
-  },
-  {
-    "id": "kaitai-daicho",
-    "name": "解体台帳（KAITAI DAICHO）",
-    "url": "https://kaitai-daicho.netlify.app/",
-    "icon": "icons/kaitai-daicho.svg",
-    "tagline": "解体予定・解体中ビルの可視化データベース",
-    "description": "業界紙・再開発情報サイトの報道をもとに、解体予定・解体中の建物を独自に収集して並べるデータベース。ステータス・エリアで絞り込み可能。毎日自動で新規案件をチェックし追加。",
-    "registeredAt": "2026-08-27",
-    "tags": [
-      "product",
-      "database",
-      "static",
-      "automation"
-    ]
-  },
-  {
-    "id": "kaobare-lab",
-    "name": "顔バレラボ",
-    "url": "https://niigata-geneki.jp/",
-    "icon": "icons/kaobare-lab.svg",
-    "tagline": "VTuber・YouTuberの「顔バレ」情報メディア",
-    "description": "VTuber・YouTuber・アーティストの素顔非公開の理由や噂を、未確認情報は断定せず整理して届けるメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "wordpress",
-      "media",
-      "seo"
-    ]
-  },
-  {
-    "id": "denki-yoho",
-    "name": "でんき予報（Denki Yoho）",
-    "url": "https://denki-yoho.netlify.app/",
-    "icon": "icons/denki-yoho.png",
-    "tagline": "翌日電力価格予測＆スマート節電Bot",
-    "description": "天気予報を見るように明日の電気代をチェック。翌日48コマの市場価格から最安・高騰タイムを毎夕LINE通知し、EV充電や家電の時間シフトで電気代を賢くカットするLP。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "nextjs",
-      "netlify",
-      "saas",
-      "iot"
-    ]
-  },
-  {
-    "id": "spyradar-ai",
-    "name": "SpyRadar AI（スパイレーダー）",
-    "url": "https://spyradar-ai.netlify.app/",
-    "icon": "icons/spyradar-ai.png",
-    "tagline": "競合動向・炎上リスク検知SaaS",
-    "description": "競合の新機能リリース速報、同業他社の炎上リスクAI分析、乗り換え検討中の不満ポスト検知をSlackへ即時通知するBtoB監視SaaS。攻守一体の検知レーダーをデモ体験できる。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "nextjs",
-      "netlify",
-      "saas",
-      "ai"
-    ]
-  },
-  {
-    "id": "voiceblog",
-    "name": "VoiceBlog（ボイスブログ）",
-    "url": "https://voiceblog.vercel.app/",
-    "icon": "icons/voiceblog.png",
-    "tagline": "音声・動画をSEO記事とXスレッドに変換",
-    "description": "YouTube動画やポッドキャスト音声を投入するだけで、SEO最適化ブログ記事とX用5連スレッドを一括自動生成するクリエイター特化SaaS。デモスタジオで即体験できる。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "nextjs",
-      "vercel",
-      "saas",
-      "ai"
-    ]
-  },
-  {
-    "id": "matching-app-lp",
-    "name": "マッチングアプリ完全攻略（Match-Launch LP）",
-    "url": "https://matching-app-lp.vercel.app/",
-    "icon": "icons/matching-app-lp.png",
-    "tagline": "9/25特典解禁・9/26完全閉鎖の先行登録LP",
-    "description": "マッチングアプリ攻略ノウハウのLINE先行登録LP。写真&メッセージ攻略PDF2大特典を9/25にLINE限定配布、9/26に登録枠を閉鎖する期間限定訴求。成功事例・特典Bento・カウントダウン実装。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "nextjs",
-      "vercel",
-      "line"
-    ]
-  },
-  {
-    "id": "english-conversation-comparison",
-    "name": "English Conversation Comparison（英会話比較メディア）",
-    "url": "https://english-conversation-comparison.com/",
-    "icon": "icons/english-conversation-comparison.svg",
-    "tagline": "オンライン英会話をアドアフィ風LP+比較ブログで",
-    "description": "オンライン英会話スクールの比較メディア。TOPはランキングLP、/blog/は比較記事一覧。ラッコサーバーのWordPressで、記事は毎日自動投稿。提携先は選定中。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "product",
-      "wordpress",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "aio-agent",
-    "name": "AIOエージェント",
-    "url": "https://aio-agent-beta.vercel.app/",
-    "icon": "icons/aio-agent.png",
-    "tagline": "AI検索時代の最適AIO対策会社を無料マッチング",
-    "description": "ChatGPTやAI Overviewsで自社が引用されない悩みを無料AI露出診断で可視化し、技術力・実績を審査した中立な立場でAIO/GEO対策会社を完全無料でマッチングするエージェントサービス。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "furugi-sedori-lp",
-    "name": "古着せどり完全攻略",
-    "url": "https://furugi-sedori-lp.vercel.app/",
-    "icon": "icons/furugi-sedori-lp.png",
-    "tagline": "9/25特典解禁！古着せどり先行登録LP",
-    "description": "1着500円の仕入れで利益率50%〜70%を狙う古着せどりの先行登録LP。メルカリ×セカスト・トレファク・卸を攻略して月利20万〜50万円を目指す。9月25日20:00にLINE登録者限定で高利益ブランド＆タグ100選リストと撮影・アカウント安全マニュアルの2大特典を配布するカウントダウン設計。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "online-sedori-lp",
-    "name": "電脳せどり完全攻略",
-    "url": "https://online-sedori-lp.vercel.app/",
-    "icon": "icons/online-sedori-lp.png",
-    "tagline": "9/25特典解禁！電脳せどり先行登録LP",
-    "description": "完全在宅・PC1台で完結する電脳せどりの先行登録LP。楽天・ヤフショ・Amazon・フリマから利益商品を抽出して月利20万〜50万円を狙う。9月25日20:00にLINE登録者限定で鉄板利益商品100選リストと安全攻略マニュアルの2大特典を配布するカウントダウン設計。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "camera-sedori-lp",
-    "name": "カメラせどり完全攻略",
-    "url": "https://camera-lens-guide.vercel.app/",
-    "icon": "icons/camera-sedori-lp.png",
-    "tagline": "9/25特典解禁！カメラせどり先行登録LP",
-    "description": "1撃1万〜3万円を狙うカメラせどりの先行登録LP。9月25日20:00にLINE限定で鉄板利益カメラ＆レンズ100選リストと検品マニュアルの2大特典を配布するカウントダウン設計。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "usedbooks-sedori-lp",
-    "name": "古本せどり完全攻略",
-    "url": "https://usedbooks-sedori-lp.vercel.app/",
-    "icon": "icons/usedbooks-sedori-lp.png",
-    "tagline": "9/25特典解禁！古本せどり先行登録LP",
-    "description": "知識ゼロ・資金1万円から始める古本せどりで、1冊110円の仕入れから月利10万〜30万円を目指す先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント安全防衛マニュアルの2大特典を配布するカウントダウン設計。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "bookoff-sedori-lp",
-    "name": "ブックオフせどり完全攻略",
-    "url": "https://bookoff-sedori-lp.vercel.app/",
-    "icon": "icons/bookoff-sedori-lp.png",
-    "tagline": "9/25特典解禁！ブックオフせどり先行登録LP",
-    "description": "初心者がブックオフ1店舗の110円棚から仕入れて月利を目指すための先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント健全性マニュアルの2大特典を配布するカウントダウン設計。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "lp",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "tonari-infra",
-    "name": "となりのインフラ（Tonari-infra）",
-    "url": "https://tonarino-infra.com/",
-    "icon": "icons/tonari-infra.png",
-    "tagline": "隣の家の固定費、のぞき見して真似っこできるインフラ公開コミュニティ",
-    "description": "同じ地域・世帯人数・間取りの人が電気・ガス・ネット・スマホ・水・サブスクにいくら払っているかをリアルなインフラ構成カードで公開し合い、同条件平均との差額や最安構成をワンクリックで真似できるオープンコミュニティ。検針票アップロードの自動入力デモ、固定費削減シミュレーター、投稿者への毎月アマギフ抽選謝礼つき。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "community",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "mbti-tool",
-    "name": "MBTI診断ツール",
-    "url": "https://mbti-tool-rose.vercel.app/",
-    "icon": "icons/mbti-tool.png",
-    "tagline": "3分でわかる、あなたの本当の性格・適職・相性",
-    "description": "厳選16問のTypeform風1問1答クイズに直感で答えるだけで、16タイプの性格診断・強み弱み・向いている仕事・恋愛や友達の相性ベスト＆ワーストまで無料で可視化するWebツール。16タイプ図鑑と全16タイプ相性早見表、X共有機能つき。",
-    "registeredAt": "2026-08-26",
-    "tags": [
-      "web",
-      "diagnosis",
-      "entertainment"
-    ]
-  },
-  {
-    "id": "motoneta",
-    "name": "モトネタ（MotoNeta.ai）",
-    "url": "https://motoneta-six.vercel.app/",
-    "icon": "icons/motoneta.png",
-    "tagline": "SNS動画URL・スクショから公式品番＆該当秒数を一発特定",
-    "description": "XやSNSで流れてきたバズ動画・切り抜きのURLやスクショを貼るだけで、公式品番・タイトル・本編の該当秒数をAIが逆引き特定するスキャン特化Web。ビジュアルチャプターバーとFANZA連携用送客ボタン、特定履歴(LocalStorage)、コミュニティ掲示板を実装。",
-    "registeredAt": "2026-08-25",
-    "tags": [
-      "web",
-      "ai",
-      "search",
-      "entertainment"
-    ]
-  },
-  {
-    "id": "situsearch",
-    "name": "シチュサーチ（SituSearch）",
-    "url": "https://okanext.net/",
-    "icon": "icons/situsearch.svg",
-    "tagline": "自然言語シチュエーション特化 作品検索AIソムリエ",
-    "description": "「あのシチュエーション」を文章で伝えるだけで、FANZA Web Service APIの実商品からAIソムリエが該当作品を提案する自然言語検索Web。一般ユーザー投稿機能はなし。",
-    "registeredAt": "2026-08-25",
-    "tags": [
-      "web",
-      "ai",
-      "search",
-      "entertainment"
-    ]
-  },
-  {
-    "id": "nanpun-db",
-    "name": "何分DB（Nanpun.DB）【サービス終了】",
-    "url": "https://nanpun-db.vercel.app/",
-    "icon": "icons/nanpun-db.png",
-    "tagline": "【サービス終了】動画秒数・チャプター逆引きWiki",
-    "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベースとして開発したが、2026-08-25にサービス終了。独自ドメイン(okanext.net)はシチュサーチに引き継ぎ済み。跡地では終了案内のみ表示。",
-    "registeredAt": "2026-08-25",
-    "tags": [
-      "web",
-      "wiki",
-      "closed"
-    ]
-  },
-  {
-    "id": "earlycore",
-    "name": "EarlyCore（初期フェーズ実務経験者特化スポット相談）",
-    "url": "https://earlycore.vercel.app/",
-    "icon": "icons/earlycore.png",
-    "tagline": "急成長ベンチャーの初期カオス期経験者にピンポイント相談",
-    "description": "大企業の元役員ではなく、社員5〜30名期の初期カオスを泥臭く突破した実務者(人事/マーケ/セールス/情シス/エンジニア)にNDA完備でスポット相談できるBtoB LP。相談時間・料金は担当者により変動。LINE無料相談導線を実装、実写真の登場人物カード付き。",
-    "registeredAt": "2026-08-25",
-    "tags": [
-      "web",
-      "lp",
-      "btob",
-      "consulting"
-    ]
-  },
-  {
-    "id": "internet-media",
-    "name": "インターネットメディア（光回線比較SEOメディア）",
-    "url": "https://internet-media.biz/",
-    "icon": "icons/internet-media.png",
-    "tagline": "光回線・ネット回線の評判をグレー基調でわかりやすく",
-    "description": "光回線・インターネット回線の比較SEOメディア。manablog.org参考の自作テーマでグレー基調に刷新、商材ごとの評判・口コミ記事をクラウドルーティンで毎日自動投稿。ASPアフィリエイト連携済み。",
-    "registeredAt": "2026-08-23",
-    "tags": [
-      "web",
-      "media",
-      "seo",
-      "comparison",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "dr-growth-hack",
-    "name": "DRグロースハック（自演リンクDRトラッカー）",
-    "url": "https://dr-growth-hack.netlify.app/",
-    "icon": "icons/dr-growth-hack.svg",
-    "tagline": "毎日送るURLとDRをそのまま一覧化",
-    "description": "チャットで日々送る被リンクURLとドメインレーティング(DR)を記録していくだけのシンプルなトラッカー。登録数・平均DR・最高DR・直近登録日を上部に表示し、一覧はDR値で色分けバッジ表示。ビルド不要の静的サイトで運用。",
-    "registeredAt": "2026-08-22",
-    "tags": [
-      "web",
-      "tool",
-      "seo"
-    ]
-  },
-  {
-    "id": "stackcost",
-    "name": "StackCost（個人開発スタック×月間コスト公開DB）",
-    "url": "https://stackcost.loous.net/",
-    "icon": "icons/stackcost.png",
-    "tagline": "この個人開発、月何円で動いてる？を可視化・共有",
-    "description": "個人開発アプリの技術スタックと実際の月間インフラ費用の内訳を登録・検索できるプラットフォーム。Rechartsのコスト内訳円グラフ・技術タグ・黒字ステータス付きBentoカードで一覧、投稿は3件まで無料。",
-    "registeredAt": "2026-08-28",
-    "tags": [
-      "web",
-      "tool",
-      "business"
-    ]
-  },
-  {
-    "id": "devsetup",
-    "name": "DevSetup（開発環境・デスク1コマンド共有Web）",
-    "url": "https://devsetup-seven.vercel.app/",
-    "icon": "icons/devsetup.png",
-    "tagline": "強いエンジニアの開発環境を1コマンドで完コピ",
-    "description": "VSCode拡張・ターミナル設定・Homebrewツール・デスク環境をmicroCMS風マイページで公開。チェックしたツール群を一発インストールできるワンライナーシェルスクリプトを1タップでコピーできる開発環境共有プラットフォーム。",
-    "registeredAt": "2026-08-21",
-    "tags": [
-      "web",
-      "tool",
-      "dev"
-    ]
-  },
-  {
-    "id": "adsboard",
-    "name": "AdsBoard（Google広告キャンペーンダッシュボード）",
-    "url": "https://adsboard-79a.pages.dev/",
-    "icon": "icons/adsboard.svg",
-    "tagline": "Google広告のキャンペーン別数値を毎日1画面で確認",
-    "description": "Google Ads APIから毎日、キャンペーン別の費用・クリック・CV・CPAを取得し、昨日/7日平均比較と14日間の推移グラフでまとめる自分専用ダッシュボード。Cloudflare Accessで本人メール限定。",
-    "registeredAt": "2026-08-21",
-    "tags": [
-      "web",
-      "tool",
-      "marketing",
-      "private"
-    ]
-  },
-  {
-    "id": "asatane",
-    "name": "アサタネ（毎朝7時の事業アイデア自動生成ダッシュボード）",
-    "url": "https://asatane.vercel.app/",
-    "icon": "icons/asatane.png",
-    "tagline": "毎朝7時、市場トレンドから15個の事業アイデアを自動生成",
-    "description": "Claude Codeのクラウドルーティンが毎朝WebSearchで市場調査し、個人開発向けの事業アイデアを15件・7要素(ペイン/コア機能/競合/差別化/リピート性/マネタイズ)付きで自動生成。日付ごとにアーカイブされ過去分も見返せる。Basic認証で本人限定。",
-    "registeredAt": "2026-08-21",
-    "tags": [
-      "web",
-      "tool",
-      "ai",
-      "business",
-      "private"
-    ]
-  },
-  {
-    "id": "gmo-auto-trader",
-    "name": "GMOコイン自動売買AI（自分専用暗号資産自動トレード）",
-    "url": "https://gmo-auto-trader.pages.dev/",
-    "icon": "icons/gmo-auto-trader.png",
-    "tagline": "10万円をRSI/MACD/BBで24h自動運用・監視",
-    "description": "GMOコイン公式APIで元手10万円をRSI・MACD・BB×3%損切り/5%利確で3ヶ月自動運用。資産推移・勝率・保有ポジション・AIの売買理由を監視する自分専用ダッシュボード。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "ai",
-      "finance",
-      "crypto",
-      "private"
-    ]
-  },
-  {
-    "id": "sales-ai-agent",
-    "name": "AI営業エージェント（企業リスト×メール/フォーム自動送信）",
-    "url": "https://sales-ai-agent-4ijg.onrender.com",
-    "icon": "icons/sales-ai-agent.svg",
-    "tagline": "企業リストへのメール/フォーム営業をAIが自動化",
-    "description": "企業リストをサービスごとに登録し、メール送信やPlaywright+Claude AIのフォーム自動入力で営業をかける社内専用ツール。外部アクセスはBasic Authで遮断。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "ai",
-      "internal",
-      "sales",
-      "automation"
-    ]
-  },
-  {
-    "id": "market-research-kun",
-    "name": "個人開発前の市場調査くん（個人開発アイデア市場調査AI）",
-    "url": "https://market-research-kun.pages.dev/",
-    "icon": "icons/market-research-kun.png",
-    "tagline": "アイデア1行で競合・収益性・ピボット案をAI分析",
-    "description": "サービス案を1行入れるだけ。Claude AIが国内外の競合・マネタイズ実現性・ポジショニングの空白地帯を実況付きで調査し、成功可能性スコアとピボット案を返す。初回1回無料のチケット制。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "ai",
-      "saas",
-      "indie-hacker",
-      "market-research"
-    ]
-  },
-  {
-    "id": "claudecode-tracker",
-    "name": "Claudecodeの使い手（ClaudeCode Tracker）",
-    "url": "https://y-studios.github.io/claudecode-tracker/",
-    "icon": "icons/claudecode-tracker.png",
-    "tagline": "Claude Codeの5時間枠消費を日次で可視化",
-    "description": "5時間枠・トークン上限を使い倒すヘビーユーザー向け。今日の消費ゲージ、稼働推移グラフ、草ヒートマップ、使い手ランクと実績バッジ、Xシェア。LocalStorage保存の完全無料ツール。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "ai",
-      "dashboard",
-      "claude-code"
-    ]
-  },
-  {
-    "id": "fatigue-detective",
-    "name": "疲労の真犯人（FatigueDetective）",
-    "url": "https://hungryz.app",
-    "icon": "icons/fatigue-detective.png",
-    "tagline": "「寝てもだるい」のなぜに真犯人で答える",
-    "description": "「立ち上がるとめまいがするのはなぜ？」など症状の問いに、睡眠不足・ストレスという一般論ではなくCO2・血糖値・噛み締め・深部体温など測れる原因と具体策で答える出典付き疲労メディア。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "media",
-      "healthcare",
-      "article",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "aspboard",
-    "name": "ASPボード（ASPBoard）",
-    "url": "https://aspboard.vercel.app",
-    "icon": "icons/aspboard.png",
-    "tagline": "ASPの特単・掲載枠交渉をカンバン管理",
-    "description": "Chatworkに埋もれがちなASPとの順位固定・特単・掲載期限をBacklog風カンバンと種別バッジで一元管理。期限アラートと収益分析つき。カードはサンプルです。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "saas",
-      "affiliate",
-      "kanban"
-    ]
-  },
-  {
-    "id": "conveni-ticket-bot",
-    "name": "コンビニ引換券忘れ防止LINE Bot（ひきかえBot）",
-    "url": "https://conveni-ticket-bot.vercel.app",
-    "icon": "icons/conveni-ticket-bot.png",
-    "tagline": "コンビニ引換券の期限をLINE通知",
-    "description": "コンビニでもらう無料引換券のレシート写真をLINEに送ると、商品名と有効期限を読み取って7日前・3日前・前日にお知らせ。掲載中の画面やレシートはLP用の見本です。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "lp",
-      "line",
-      "bot",
-      "coupon"
-    ]
-  },
-  {
-    "id": "launchguard",
-    "name": "ローンチガード（LaunchGuard）",
-    "url": "https://launchguard-dd2.pages.dev",
-    "icon": "icons/launchguard.png",
-    "tagline": "リリース前の法令＆UX総点検",
-    "description": "URLを入れるとAI監査キャラが回遊し、プラポリ・特商法・ステマ規制などの法令表記とOGP・動線の抜けを点検。判定は独自基準で法的助言ではありません。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "legal",
-      "ux",
-      "audit"
-    ]
-  },
-  {
-    "id": "netai-timeline",
-    "name": "熱愛タイムライン（NetaiTimeline）",
-    "url": "https://affislot.com",
-    "icon": "icons/netai-timeline.png",
-    "tagline": "熱愛スクープ速報まとめメディア",
-    "description": "熱愛スクープを3行まとめ・匂わせ検証タイムライン・ファン感情メーター・相関図の順で読める速報メディア。記事は出典を明記した実際の報道・本人発表をもとに構成しています。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "media",
-      "entertainment",
-      "scoop",
-      "timeline"
-    ]
-  },
-  {
-    "id": "shirohako",
-    "name": "シロハコ（ShiroHako）",
-    "url": "https://shirohako.pages.dev",
-    "icon": "icons/shirohako.png",
-    "tagline": "引越しを清潔スペックで選ぶ",
-    "description": "女性スタッフ・新品靴下の履き替え・室内の養生など、引越し会社が公式サイトに書いている清潔まわりの記載だけを集めた比較サイト。架空のプランや口コミ、推定料金は載せていません。",
-    "registeredAt": "2026-08-19",
-    "tags": [
-      "web",
-      "tool",
-      "hikkoshi",
-      "comparison",
-      "clean"
-    ]
-  },
-  {
-    "id": "myspec",
-    "name": "MySpec（マイスペック）",
-    "url": "https://myspec.shindan.biz",
-    "icon": "icons/myspec.png",
-    "tagline": "スペックとアイコンで作る自己紹介カード",
-    "description": "MBTI・骨格・パーソナルカラー・顔タイプ・身長を選び、髪型や表情を組んだアイコンと一緒にトレカ風カードを生成。9:16と1:1のPNGで保存でき、診断はせず選んだ内容だけを載せます。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "sns",
-      "avatar",
-      "generator"
-    ]
-  },
-  {
-    "id": "stepato",
-    "name": "ステパト（StePato）",
-    "url": "https://stepato.vercel.app",
-    "icon": "icons/stepato.png",
-    "tagline": "そのインフルエンサー、起用して大丈夫？",
-    "description": "XのプロフィールURLを入れるだけで、インフルエンサーの過去ポストを巡回し、PR表記の透明度を4つの指標で採点する企業向けの事前監査ツール。PR表記が本文の何文字目にあるか、ハッシュタグ何個中の何番目に埋もれているか、収益リンクに表記が伴っているかを機械的に測り、「起用おすすめ／条件付き／要警戒」の3段階で判定します。疑義ポストは該当箇所をハイライトして一覧化。判定はあくまでリスクの推定値で、法令違反の認定ではないことを画面に明記しています。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "marketing",
-      "compliance",
-      "sns"
-    ]
-  },
-  {
-    "id": "antipay",
-    "name": "アンチペイ（AntiPay）",
-    "url": "https://antipay-iota.vercel.app",
-    "icon": "icons/antipay.png",
-    "tagline": "誹謗中傷の慰謝料、回収できるか30秒で試算",
-    "description": "投稿された媒体・内容・件数・証拠と相手の見当から、慰謝料の目安と弁護士費用を差し引いた最終収支を試算する誹謗中傷シミュレーター。黒字か費用倒れかを判定し、使った係数はすべて画面で開示します。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "simulation",
-      "legal",
-      "sns"
-    ]
-  },
-  {
-    "id": "skiptown",
-    "name": "SkipTown（スキップタウン）",
-    "url": "https://skiptown.vercel.app",
-    "icon": "icons/skiptown.png",
-    "tagline": "通勤ストレスから逆算して、住む街を決める",
-    "description": "勤務先・朝のつらさ・いまの家賃の3つを選ぶと、当駅始発の有無と朝の混み方の目安、SUUMOが公開している駅別の家賃相場を突き合わせて、通勤がラクになる街をスコア順に提案する住み替え診断。結果のボタンからは「その駅」と「あなたの家賃レンジ」で絞り込み済みのSUUMOの検索結果がそのまま開く。首都圏5エリアと梅田の計6オフィス街・29駅に対応。スコアはSkipTown独自の指標で、実測されたストレス削減率ではないことを明記している。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "commute",
-      "housing",
-      "diagnosis"
-    ]
-  },
-  {
-    "id": "kaotsukare",
-    "name": "カオツカレ（KaoTsukare）",
-    "url": "https://kaotsukare.vercel.app",
-    "icon": "icons/kaotsukare.png",
-    "tagline": "インカメラ3秒で、顔の疲れ印象をスキャン",
-    "description": "インカメラを3秒見るだけで、まぶたの開き・目の下の影・頬の明るさ・口角の角度を解析し、いまの顔がどう見えるかを100点満点で可視化する顔疲労印象スキャナー。解析はすべてブラウザ内で完結し、映像も計測値も端末の外に出ません。シャッター音や通知音は一切鳴らさず、暗所では画面枠が白く光る簡易リングライトが働くので、電車内・オフィス・車内でもそのまま使えます。スコアの根拠になった生の実測値も全公開。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "camera",
-      "ai",
-      "health"
-    ]
-  },
-  {
-    "id": "wideroute",
-    "name": "WideRoute（ワイドルート）",
-    "url": "https://wideroute-jp.vercel.app",
-    "icon": "icons/wideroute.png",
-    "tagline": "狭い道を避けて、広い道で行く",
-    "description": "出発地・目的地・車種を入れると、最短ルート沿いの狭い区間をOpenStreetMapの道路データから検出。幹線道路を通る経由地を算出し、そのままGoogleマップで案内を開始できる。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "map",
-      "car",
-      "navigation",
-      "tool"
-    ]
-  },
-  {
-    "id": "kagulog",
-    "name": "KaguLog（カグログ）",
-    "url": "https://kagulog.vercel.app",
-    "icon": "icons/kagulog.png",
-    "tagline": "家具の購入先と値段を、一枚のカタログに",
-    "description": "自宅の家具のブランド・購入価格・購入先URLを記録すると、総額とブランド構成比つきの公開カタログになるWebアプリ。買い替えた家具はアーカイブに残り、部屋の遍歴も辿れる。データは端末内に保存し、共有はリンクに埋め込む方式。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "tool",
-      "interior",
-      "catalog",
-      "share"
-    ]
-  },
-  {
-    "id": "kyonen",
-    "name": "Kyonen（キョネン）",
-    "url": "https://kyonen.vercel.app",
-    "icon": "icons/kyonen.png",
-    "tagline": "去年の今日と、今日の気温をくらべる",
-    "description": "東京・大阪・福岡など主要都市と現在地で、今日の気温を去年・2年前・3年前と比較。時間ごと・日ごとのグラフとXシェア画像も出せる、Open-Meteo実測データ。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "weather",
-      "chart",
-      "tool"
-    ]
-  },
-  {
-    "id": "testdrive-ai",
-    "name": "TestDrive AI（テストドライブ エーアイ）",
-    "url": "https://testdrive-ai.vercel.app",
-    "icon": "icons/testdrive-ai.png",
-    "tagline": "AIが実際に登録して採点する、忖度ゼロのE2E実測レビュー",
-    "description": "AIエージェントがサービスの登録フォームを実際に操作し、表示速度・入力項目数・UIのストレス度を100点満点で採点するレビューメディア。止まった位置と理由もそのまま公開する。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "media",
-      "ai",
-      "review",
-      "affiliate"
-    ]
-  },
-  {
-    "id": "gendermirror",
-    "name": "GenderMirror（ジェンダーミラー）",
-    "url": "https://gendermirror.shindan.biz",
-    "icon": "icons/gendermirror.png",
-    "tagline": "その文章、男女を入れ替えて読み直す",
-    "description": "貼った文章の主客関係とトーンはそのまま、性別だけを反転させるツール。元の文と逆転後をX風カードで並べ、比較画像のPNG保存とXへの投稿ができる。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "ai",
-      "tool",
-      "text",
-      "x"
-    ]
-  },
-  {
-    "id": "buddyworks",
-    "name": "BuddyWorks（バディワークス）",
-    "url": "https://buddyworks-one.vercel.app",
-    "icon": "icons/buddyworks.png",
-    "tagline": "相棒と組んで受ける、フリーランスユニット専門の案件紹介",
-    "description": "すでに組んでいる2名以上のフリーランスユニット向けの案件紹介エージェント。個人では受けにくい大型案件をユニット丸ごとアサインし、契約・請求も代行する。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "lp",
-      "freelance",
-      "agent",
-      "form"
-    ]
-  },
-  {
-    "id": "safetyschool",
-    "name": "SafetySchool（セーフティスクール）",
-    "url": "https://safetyschool-jade.vercel.app",
-    "icon": "icons/safetyschool.png",
-    "tagline": "いじめの記録を、LINEに送るだけで日時つきに残す",
-    "description": "いじめに関する出来事を、LINEのトークに送るだけで受信日時つきに保管するセーフティツール。たまった記録は学校や弁護士に渡せる報告書としてPDF化できる。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "line",
-      "safety",
-      "education",
-      "tool"
-    ]
-  },
-  {
-    "id": "tricktube",
-    "name": "TrickTube（トリックチューブ）",
-    "url": "https://tricktube.vercel.app",
-    "icon": "icons/tricktube.png",
-    "tagline": "神業の決定的瞬間から、直接再生する技図鑑",
-    "description": "橋渡し・確率機・ペラ輪などクレーンゲームの技と台設定でしぼり込める攻略動画DB。投稿者本人がつけたチャプターの位置から再生でき、探し直す必要がない。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "game",
-      "video"
-    ]
-  },
-  {
-    "id": "prizemap",
-    "name": "PrizeMap（プライズマップ）",
-    "url": "https://prizemap-puce.vercel.app",
-    "icon": "icons/prizemap.png",
-    "tagline": "行く前に知る、獲れる店。全国533店舗の獲れやすさ地図",
-    "description": "全国533店舗のアームの強さ・店員アシスト度・橋渡しの幅を利用者のタレコミだけで可視化する攻略マップ。現在地や主要駅から近い順に並べ替えられる。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "map",
-      "game"
-    ]
-  },
-  {
-    "id": "clawagent",
-    "name": "ClawAgent（クローエージェント）",
-    "url": "https://clawagent-tau.vercel.app",
-    "icon": "icons/clawagent.png",
-    "tagline": "欲しい限定プライズを、クレーンゲームの猛者に代理獲得してもらう",
-    "description": "欲しい景品と上限予算を掲載すると、クレーンゲームのプロが立候補して代わりに獲りに行くオンデマンドマーケット。上限金額はエスクロー預かり、全額返金保証。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "matching",
-      "game"
-    ]
-  },
-  {
-    "id": "prizeprice",
-    "name": "PrizePrice（プライズ相場スキャナー）",
-    "url": "https://prizeprice.vercel.app",
-    "icon": "icons/prizeprice.png",
-    "tagline": "クレーンゲームの景品を撮るだけで、相場と買取価格TOP3を判定",
-    "description": "クレーンゲームのガラス越しに撮るだけで、景品と背後のポスターをAIが解析するプライズ特化型スキャナー。フリマ相場と主要買取店の価格TOP3を表示する。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "ai",
-      "tool"
-    ]
-  },
-  {
-    "id": "solosurvival",
-    "name": "SoloSurvival（ソロサバイバル）",
-    "url": "https://solosurvival.vercel.app",
-    "icon": "icons/solosurvival.png",
-    "tagline": "【サービス終了】1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
-    "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチングでしたが、2026年8月22日にサービスを終了しました。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "matching",
-      "airsoft",
-      "closed"
-    ]
-  },
-  {
-    "id": "battingdb",
-    "name": "BattingDB（バッティングDB）",
-    "url": "https://battingdb.vercel.app",
-    "icon": "icons/battingdb.png",
-    "tagline": "球速・看板で探す、みんなで書く全国バッセン図鑑",
-    "description": "160km/hの豪速球や変化球、硬式打席など全国81店舗のバッティングセンターをスペックで絞り込める検索DB。確認できた項目だけ掲載し、残りは誰でも書き足せる。",
-    "registeredAt": "2026-08-16",
-    "tags": [
-      "web",
-      "database",
-      "sports"
-    ]
-  },
-  {
-    "id": "datingroster",
-    "name": "DatingRoster（デイティングロスター）",
-    "url": "https://datingroster.vercel.app",
-    "icon": "icons/datingroster.png",
-    "tagline": "同時並行の会話ログとNG話題を、相手ごとのカルテで管理する恋愛CRM",
-    "description": "マッチングアプリの同時並行専用の管理ツール。相手ごとに会話タグ・NG話題・デート費用をカルテに残し、進捗をカンバンで管理。ステルス表示機能付き。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "crm",
-      "dating"
-    ]
-  },
-  {
-    "id": "oshikura",
-    "name": "オシクラ",
-    "url": "https://oshikura.vercel.app",
-    "icon": "icons/oshikura.png",
-    "tagline": "10人そろえば、推しへのお願いが正式な依頼になる",
-    "description": "ファン同士で軍資金を出し合い、推しに撮影やボイス制作を共同発注するクラウドファンディング。目標人数に達して本人の承諾が取れたときだけ成立する。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "crowdfunding",
-      "creator"
-    ]
-  },
-  {
-    "id": "traindrift",
-    "name": "TrainDrift（トレインドリフト）",
-    "url": "https://traindrift.vercel.app",
-    "icon": "icons/traindrift.png",
-    "tagline": "時速30km以上でしか起動しない、乗車中専用のポイ活共闘RPG",
-    "description": "満員電車のデッドタイムを乗客との共闘に変える乗車中専用RPG。時速30kmを超えると自動起動し、移動距離が攻撃力になる。討伐報酬はポイントに交換できる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "game",
-      "point"
-    ]
-  },
-  {
-    "id": "riflog",
-    "name": "リフログ（RIFLOG）",
-    "url": "https://riflog.vercel.app",
-    "icon": "icons/riflog.png",
-    "tagline": "今日の理不尽を親指3タップで記録するキャリア脱出ログ",
-    "description": "無駄会議や理不尽な指示など、その日のストレスをタップで記録する働き方の記録ツール。奪われた時間と金額を試算し、1週間分から「脱出カルテ」を発行する。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "career",
-      "stress"
-    ]
-  },
-  {
-    "id": "last-canvas",
-    "name": "LAST CANVAS（ラストキャンバス）",
-    "url": "https://last-canvas.vercel.app",
-    "icon": "icons/last-canvas.png",
-    "tagline": "取り壊す前のビルを、巨大なキャンバスに",
-    "description": "解体が決まったビルの外壁・屋内フロア・工事仮囲いを1日単位で借りられるスペースマッチング。取り壊す建物だから原状回復は不要で、塗装もQR掲出も自由。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "matching",
-      "art"
-    ]
-  },
-  {
-    "id": "bidcall",
-    "name": "BIDCALL（ビッドコール）",
-    "url": "https://bidcall.vercel.app/",
-    "icon": "icons/bidcall.png",
-    "tagline": "推しとの10分間を競り落とす1on1ビデオ通話オークション",
-    "description": "1on1ビデオ通話の枠を先着順ではなくオークションで販売するプレミアム通話アプリ。締切時点で最高額の入札者が落札し、事前デポジット制でいたずら入札を排除。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "auction",
-      "creator"
-    ]
-  },
-  {
-    "id": "offroom",
-    "name": "オフルム（OFFROOM）",
-    "url": "https://offroom.vercel.app/",
-    "icon": "icons/offroom.png",
-    "tagline": "退去前の生写真が、そのまま部屋図鑑になる",
-    "description": "SUUMOに載っていない、住人が退去前に撮ったリアルな部屋写真が見られる部屋図鑑。「敷金自衛ミッション」で撮った写真が、次に住む人のための物件DBになる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "realestate",
-      "cgm"
-    ]
-  },
-  {
-    "id": "clip-pass",
-    "name": "YouTuber CLIP PASS",
-    "url": "https://clip-pass.vercel.app",
-    "icon": "icons/clip-pass.png",
-    "tagline": "配信者公認の切り抜きマッチング＆素材ハブ",
-    "description": "YouTube配信者が公式素材(高画質アーカイブ・透過立ち絵・音声)を無料開放し、切り抜きクリエイターを公認制でマッチングするプラットフォーム。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "youtube",
-      "creator"
-    ]
-  },
-  {
-    "id": "drop-pass",
-    "name": "DROP PASS",
-    "url": "https://drop-pass-pearl.vercel.app/",
-    "icon": "icons/drop-pass.png",
-    "tagline": "位置情報×合言葉で解錠するゲリラ限定ドロップアプリ",
-    "description": "位置情報とシークレット合言葉でアンロックする新世代ストリートドロップアプリ。街のスポットや暗号を辿った者だけが、数分で完売する限定アイテムを入手できる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "streetwear",
-      "geolocation"
-    ]
-  },
-  {
-    "id": "micro-gallery",
-    "name": "MICRO GALLERY",
-    "url": "https://micro-gallery-five.vercel.app/",
-    "icon": "icons/micro-gallery.png",
-    "tagline": "カフェ・美容室の空き壁を借りる壁面ギャラリー",
-    "description": "カフェ・美容室・アパレルの空き壁を月単位でレンタルできる店舗壁面特化型のギャラリーシェア。店舗は固定収入に、アーティストは身近な空間で展示できる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "art",
-      "marketplace"
-    ]
-  },
-  {
-    "id": "next-buyer",
-    "name": "NEXT BUYER",
-    "url": "https://next-buyer.vercel.app/",
-    "icon": "icons/next-buyer.png",
-    "tagline": "私服スナップをタップして売る新世代リセール",
-    "description": "私服スナップ特化のCtoCリセール。Instagramの着画をタップするだけで出品でき、「売ってください」の購入オファーがLINEやメールに届く3秒出品。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "fashion",
-      "resale"
-    ]
-  },
-  {
-    "id": "viewpay",
-    "name": "VIEWPAY",
-    "url": "https://viewpay-gamma.vercel.app/",
-    "icon": "icons/viewpay.png",
-    "tagline": "TikTokの再生数がそのまま賞金になるUGCマーケット",
-    "description": "TikTok特化のUGC動画賞金プラットフォーム。D2Cブランドの賞金プールをかけて再生数ランキングを競い、最終順位に応じて賞金を獲得できる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "tiktok",
-      "creator"
-    ]
-  },
-  {
-    "id": "checkdt",
-    "name": "CheckDT",
-    "url": "https://checkdt.vercel.app/",
-    "icon": "icons/checkdt.png",
-    "tagline": "整形ダウンタイムの腫れが正常経過かを即セルフチェック",
-    "description": "美容整形・美容医療のダウンタイム中の腫れや左右差が正常経過かを、施術×術後日数×症状の選択でその場でチェックできるアプリ。回復予測グラフつき。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "beauty",
-      "healthcare"
-    ]
-  },
-  {
-    "id": "mirra",
-    "name": "Mirra",
-    "url": "https://mirra-beauty.vercel.app/",
-    "icon": "icons/mirra.png",
-    "tagline": "自撮り1枚で似合う髪型をAIが即時診断",
-    "description": "自撮り1枚でAIが顔タイプ×骨格×パーソナルカラーを即時診断するビューティーテックアプリ。似合うヘアスタイルの候補やスタイリスト・サロンまで一括提案する。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "ai",
-      "beauty"
-    ]
-  },
-  {
-    "id": "roomie",
-    "name": "Roomie",
-    "url": "https://roomie-jp.vercel.app/",
-    "icon": "icons/roomie.svg",
-    "tagline": "家賃を半分に。20代限定の同性ルームメイト探し",
-    "description": "20代限定・同性同士のルームメイトマッチングサービス。1人暮らしの1Kに対し、2LDKをシェアすれば家賃を抑えて広い部屋に住める比較を提示。LINEから探せる。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "matching",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "akikoma",
-    "name": "AkiKoma",
-    "url": "https://akikoma-omega.vercel.app/",
-    "icon": "icons/akikoma.png",
-    "tagline": "空きコマ・ランチの仲間が見つかる大学生マッチング（サービス終了）",
-    "description": "大学生・大学院生限定のスキマ時間マッチングアプリ。時間割の空きマスをタップすると、同じキャンパスや近隣大学の学生とマッチし、学食やカフェで合流できる。※サービス終了しました。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "matching",
-      "lifestyle",
-      "closed"
-    ]
-  },
-  {
-    "id": "lastre",
-    "name": "Lastre（サービス終了）",
-    "url": "https://lastre.vercel.app/",
-    "icon": "icons/lastre.png",
-    "tagline": "終電を逃した夜を安全に乗り切る深夜レスキュー（サービス終了）",
-    "description": "深夜23:00〜05:30限定で、終電を逃した1km以内の仲間とマッチングするレスキューアプリの構想として事前登録を受け付けていたが、サービスをクローズした。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "matching",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "2on",
-    "name": "2on",
-    "url": "https://2on-six.vercel.app/",
-    "icon": "icons/2on.png",
-    "tagline": "友達と2人1組で他大学ペアと出会う、大学生限定マッチング",
-    "description": "仲のいい友達と2人1組の「ペア」を組んで、他大学・他学部のペアと気軽に出会って飲みに行けるLINEベースのマッチングサービス。現役大学生・大学院生限定。",
-    "registeredAt": "2026-08-15",
-    "tags": [
-      "web",
-      "matching",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "narashi-gohan",
-    "name": "ならしごはん",
-    "url": "https://narashi-gohan.vercel.app/",
-    "icon": "icons/narashi-gohan.svg",
-    "tagline": "会食恐怖症の仲間と練習できるピアマッチング",
-    "description": "「会食恐怖症」の当事者同士が安心して会食の練習をするピアマッチングサービス。「残してもいい」など不安を手放せる3つの約束を掲げ、少人数開催・割り勘なし。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "mental-care",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "monday-reset",
-    "name": "Monday Reset",
-    "url": "https://monday-reset.vercel.app/",
-    "icon": "icons/monday-reset.svg",
-    "tagline": "サザエさん症候群の原因診断&リセットアクション",
-    "description": "日曜の夜になると憂鬱になる「サザエさん症候群」の原因を3問で診断し、「前夜祭」「月曜のご褒美」の2つの作戦で充実アクションを提案する無料アプリ。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "mental-care",
-      "lifestyle"
-    ]
-  },
-  {
-    "id": "correlation-diagram",
-    "name": "相関図鑑",
-    "url": "https://correlation-diagram.com/",
-    "icon": "icons/correlation-diagram.png",
-    "tagline": "アニメ・ドラマ・映画の相関図まとめ",
-    "description": "作品の登場人物の人間関係を、顔アバター付きの相関図で整理して紹介するサイト。アニメ・ドラマ・映画・漫画を横断して、複雑な関係性をひと目で理解できる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "anime",
-      "media"
-    ]
-  },
-  {
-    "id": "yaritai-list-kit",
-    "name": "死ぬまでにやりたいことリスト作成キット",
-    "url": "https://yaritai-list-kit.vercel.app/",
-    "icon": "icons/yaritai-list-kit.png",
-    "tagline": "5つの質問でやりたいことリストを自動生成",
-    "description": "5つの質問に答えるだけで、自分だけの「死ぬまでにやりたいことリスト」を10個お届けするキット。会員登録不要・完全無料で、みんなの作ったリストも眺められる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "lifestyle",
-      "generator"
-    ]
-  },
-  {
-    "id": "kamitsunagi",
-    "name": "かみつなぎ",
-    "url": "https://kamitsunagi.com/",
-    "icon": "icons/kamitsunagi.png",
-    "tagline": "あなたの髪が、誰かの必要なものになる。",
-    "description": "髪を提供したい人と必要とする人をつなぐ、髪の毛のC to Cマッチングプラットフォーム。長さ・太さ・カラー履歴などの詳細情報で出品・購入でき、匿名配送も対応。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "marketplace",
-      "c2c"
-    ]
-  },
-  {
-    "id": "jibun-migaki",
-    "name": "ジブン磨き",
-    "url": "https://mens.alphalinkpartners.com/",
-    "icon": "icons/jibun-migaki.svg",
-    "tagline": "人生は、攻略できる。レベル制の自分磨き",
-    "description": "マインドセット・清潔感・恋愛・収入など6分野を、ゲームのようなレベル制ミッションで進める自己改善プログラム。1本約10分の教材で5段階のステージを攻略する。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "self-improvement",
-      "education"
-    ]
-  },
-  {
-    "id": "pin-pon",
-    "name": "Pinpon",
-    "url": "https://pin-pon.net/",
-    "icon": "icons/pin-pon.svg",
-    "tagline": "卓球の大会・練習会を探してエントリー",
-    "description": "全国の卓球大会・イベントを都道府県・種目・レベル・開催日で絞り込んで検索し、そのままWebエントリーできるポータル。練習会や練習相手の募集も無料で主催できる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "table-tennis",
-      "event"
-    ]
-  },
-  {
-    "id": "spoiler-magna",
-    "name": "ネタバレ漫画サイト",
-    "url": "https://spoiler-magna.com/",
-    "icon": "icons/spoiler-magna.png",
-    "tagline": "漫画の結末・ネタバレを最速でまとめてお届け",
-    "description": "気になる漫画の結末やネタバレをまとめた辞典型サイト。作品ごとにあらすじ・最終回の解説・考察ポイントを整理し、ジャンル別に探せる情報サイト。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "manga",
-      "media"
-    ]
-  },
-  {
-    "id": "saishukai-net",
-    "name": "最終回まとめサイト",
-    "url": "https://xn--zbs588aoyq.net/",
-    "tagline": "アニメ・ドラマ・映画の最終回ネタバレ辞典",
-    "icon": "icons/saishukai-net.png",
-    "description": "気になるアニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典型サイト。作品ごとにあらすじ・結末・考察ポイントを解説し、視聴前に確かめられる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "anime",
-      "media"
-    ]
-  },
-  {
-    "id": "comics-finish",
-    "name": "完結漫画まとめサイト",
-    "url": "https://comics-finish.com/",
-    "icon": "icons/comics-finish.png",
-    "tagline": "完結済み漫画の最終回ネタバレまとめ",
-    "description": "完結済みの漫画に特化したまとめサイト。作品情報・あらすじ・最終回のネタバレを整理し、ヒロアカや呪術廻戦など話題作の完結情報を検索して確かめられる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "manga",
-      "media"
-    ]
-  },
-  {
-    "id": "tennis-gut-antenna",
-    "name": "テニスガット張り替えナビ",
-    "url": "https://tennis-gut-antenna.com/",
-    "icon": "icons/tennis-gut-antenna.svg",
-    "tagline": "全国のテニスガット張り替え店を探せる",
-    "description": "全国のテニスガット張り替え店を都道府県別に探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件で絞り込み、地元の店を効率よく見つけられる。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "tennis",
-      "search"
-    ]
-  },
-  {
-    "id": "badminton-gut-antenna",
-    "name": "バドミントンガットナビ",
-    "url": "https://badminton-gut-antenna.com/",
-    "icon": "icons/badminton-gut-antenna.svg",
-    "tagline": "全国のバドミントンガット張り替え店を探せる",
-    "description": "全国のバドミントンガット張り替え店を47都道府県から探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件検索で、店舗とプレイヤーをつなぐ。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "badminton",
-      "search"
-    ]
-  },
-  {
-    "id": "supervisor-seo",
-    "name": "SEO監修者マッチ",
-    "url": "https://supervisor-seo.com/",
-    "icon": "icons/supervisor-seo.svg",
-    "tagline": "専門家に記事監修を依頼できるサービス",
-    "description": "本人確認済みの医師・弁護士などの専門家データベースから、カテゴリや資格・対応業務で絞り込んで記事の監修・執筆を依頼できるマッチングサービス。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "seo",
-      "matching"
-    ]
-  },
-  {
-    "id": "techregret",
-    "name": "TechRegret（テックリグレット）",
-    "url": "https://techregret.loous.net/",
-    "icon": "icons/techregret.png",
-    "tagline": "技術乗り換えの決定打を集める、後悔ログDB",
-    "description": "公式ドキュメントには載っていない、個人開発者・エンジニアが技術スタックを乗り換えた決定打（料金高騰・ビルド遅延・開発体験・仕様変更など）を集約。移行元→移行先の比較マトリクスと後悔ログを検索・投稿できる技術選定の罠回避プラットフォーム。プリセット4件収録、LocalStorageで投稿・共感を保存。",
-    "registeredAt": "2026-08-28",
-    "tags": [
-      "web",
-      "tool",
-      "database",
-      "engineering",
-      "community"
-    ]
-  },
-  {
-    "id": "y-studio",
-    "name": "Y STUDIO",
-    "url": "https://y-studios.github.io/",
-    "icon": "icons/y-studio.svg",
-    "tagline": "つくったものを並べておく、自分だけの棚",
-    "description": "自分がつくったプロダクトやサービスを一箇所に集めて眺めるための場所。URLを渡すだけで登録され、アイコンも自動で生成される。この場所自体が最初のプロダクト。",
-    "registeredAt": "2026-08-14",
-    "tags": [
-      "web",
-      "portfolio"
-    ]
-  },
-  {
-    "id": "claude-session-board",
-    "name": "Qujiraボード",
-    "url": "https://qujira.alphalinkpartners.com",
-    "icon": "icons/claude-session-board.svg",
-    "tagline": "並走するAIセッションを、稼働中・稼働完了で見張るくじらの板",
-    "description": "Y STUDIOに登録した全サービスをカード化し、Claude Codeのセッションと自動で紐付けて稼働中／稼働完了の2レーンで管理するボード。セッションが動いてから約4秒で反映され、各カードにはセッション名・経過時間・いま進めている内容・残タスク・AIと人間それぞれのテストチェック状態が並ぶ。サービスに紐付かない単発の作業は「単発」ラベル付きの独立カードになる。背景をくじらの群れが漂う。中身は認証で保護しているため、本人以外は閲覧できません。",
-    "registeredAt": "2026-08-17",
-    "tags": [
-      "web",
-      "tool",
-      "private"
-    ]
-  },
-  {
-    "id": "incomeboard",
-    "name": "IncomeBoard",
-    "url": "https://incomeboard.vercel.app",
-    "icon": "icons/incomeboard.svg",
-    "tagline": "固定給と時給をまとめて見る、フリーランスの収入ダッシュボード",
-    "description": "複数クライアントの固定給（毎月1日に反映）と時給（稼働時間シート連携で毎日自動集計）を1画面にまとめ、月次推移をグラフで確認できるダッシュボード。GitHub Actionsで毎日自動同期し、Cloudflare Pagesで運用。",
-    "registeredAt": "2026-08-20",
-    "tags": [
-      "web",
-      "tool",
-      "private"
-    ]
-  },
-  {
-    "id": "release-desk",
-    "name": "Release Desk（Qiita/Zenn下書き公開管理）",
-    "url": "https://release-desk.pages.dev/",
-    "icon": "icons/release-desk.svg",
-    "tagline": "プロダクトのリリース記事、下書きを確認してワンクリックで公開",
-    "description": "Qiita/Zennに書いたリリース告知記事の下書きを一覧で確認し、OKなら公開ボタン一つで本公開まで行える管理画面。Basic認証で本人限定。",
-    "registeredAt": "2026-08-22",
-    "tags": [
-      "web",
-      "tool",
-      "dev"
-    ]
-  }
+ {
+  "id": "cool-card-gallery",
+  "name": "COOL CARD GALLERY",
+  "url": "https://cool-card-gallery.netlify.app/",
+  "icon": "icons/cool-card-gallery.png",
+  "tagline": "券面デザインで選ぶクレカ専門ギャラリー",
+  "description": "還元率ではなく美学で選ぶクレジットカード選定メディア。メタル・漆黒・ナンバーレスの券面を3Dチルト光沢と財布チラ見えシミュレーターで体験できる。",
+  "registeredAt": "2026-09-02",
+  "tags": [
+   "web",
+   "media",
+   "affiliate",
+   "design"
+  ]
+ },
+ {
+  "id": "loous-net",
+  "name": "Loous.net",
+  "url": "https://loous.net/",
+  "icon": "icons/loous-net.svg",
+  "tagline": "個人開発者がサブドメインでサービスを積み重ねる親ドメイン",
+  "description": "法人格を持たない個人ブランドの親ドメイン。企画書の代わりにコードを書き、思いついたアイデアをサブドメイン（例: techregret.loous.net）として公開していく実験場。TechRegretを皮切りにサービスが増えていく予定。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "web",
+   "hub",
+   "personal-brand",
+   "engineering"
+  ]
+ },
+ {
+  "id": "shimin-tennis-portal",
+  "name": "区民・市民テニスポータル",
+  "url": "https://shimin-tennis-portal.netlify.app/",
+  "icon": "icons/shimin-tennis-portal.png",
+  "tagline": "市民大会の公式情報へ最短でアクセス",
+  "description": "全国の自治体・テニス協会の公式大会ページと参加資格の傾向（在住限定・オープン枠）を1ヶ所に整理した公的大会リンク集ポータル。京都府全域と近隣府県から順次拡大中。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "product",
+   "nextjs",
+   "netlify",
+   "tennis",
+   "portal"
+  ]
+ },
+ {
+  "id": "battery-payback-calc",
+  "name": "BatteryPayback Calc（バッテリーペイバック）",
+  "url": "https://battery-payback-calc.vercel.app/",
+  "icon": "icons/battery-payback-calc.svg",
+  "tagline": "蓄電池・元が取れる年数実測シミュレーター",
+  "description": "家庭用・産業用蓄電池の容量・導入費用・電気代・都道府県別補助金を入力するだけで、劣化率と電気代高騰まで織り込んだ実質回収年数と20年間の累積キャッシュフローを可視化するROI計算スタジオ。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "product",
+   "nextjs",
+   "vercel",
+   "calculator"
+  ]
+ },
+ {
+  "id": "owahara-map",
+  "name": "オワハラマップ（OwaharaMap）",
+  "url": "https://owahara-map.netlify.app/",
+  "icon": "icons/owahara-map.png",
+  "tagline": "就活オワハラ事例・対策データベース",
+  "description": "報道・公開情報と体験談をもとに、全国のオワハラの手口をエリア・業種・手口別に検索できる就活生向け自衛DB。撃退フレーズ・相談窓口・対策コラムも掲載。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "product",
+   "nextjs",
+   "netlify",
+   "database"
+  ]
+ },
+ {
+  "id": "yabakore",
+  "name": "ヤバコレ",
+  "url": "https://funin-ryoritsu.jp/",
+  "icon": "icons/yabakore.svg",
+  "tagline": "「やめとけ・やばい」を中立に整理するメディア",
+  "description": "『〇〇 やめとけ』『〇〇 やばい』で検索する人向けに、断定を避け中立的な視点で理由を整理するメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "product",
+   "wordpress",
+   "media",
+   "seo"
+  ]
+ },
+ {
+  "id": "kaitai-daicho",
+  "name": "解体台帳（KAITAI DAICHO）",
+  "url": "https://kaitai-daicho.netlify.app/",
+  "icon": "icons/kaitai-daicho.svg",
+  "tagline": "解体予定・解体中ビルの可視化データベース",
+  "description": "業界紙・再開発情報サイトの報道をもとに、解体予定・解体中の建物を独自に収集して並べるデータベース。ステータス・エリアで絞り込み可能。毎日自動で新規案件をチェックし追加。",
+  "registeredAt": "2026-08-27",
+  "tags": [
+   "product",
+   "database",
+   "static",
+   "automation"
+  ]
+ },
+ {
+  "id": "kaobare-lab",
+  "name": "顔バレラボ",
+  "url": "https://niigata-geneki.jp/",
+  "icon": "icons/kaobare-lab.svg",
+  "tagline": "VTuber・YouTuberの「顔バレ」情報メディア",
+  "description": "VTuber・YouTuber・アーティストの素顔非公開の理由や噂を、未確認情報は断定せず整理して届けるメディア。Ahrefsで発掘したKW台帳をもとに日次自動投稿。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "wordpress",
+   "media",
+   "seo"
+  ]
+ },
+ {
+  "id": "denki-yoho",
+  "name": "でんき予報（Denki Yoho）",
+  "url": "https://denki-yoho.netlify.app/",
+  "icon": "icons/denki-yoho.png",
+  "tagline": "翌日電力価格予測＆スマート節電Bot",
+  "description": "天気予報を見るように明日の電気代をチェック。翌日48コマの市場価格から最安・高騰タイムを毎夕LINE通知し、EV充電や家電の時間シフトで電気代を賢くカットするLP。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "nextjs",
+   "netlify",
+   "saas",
+   "iot"
+  ]
+ },
+ {
+  "id": "spyradar-ai",
+  "name": "SpyRadar AI（スパイレーダー）",
+  "url": "https://spyradar-ai.netlify.app/",
+  "icon": "icons/spyradar-ai.png",
+  "tagline": "競合動向・炎上リスク検知SaaS",
+  "description": "競合の新機能リリース速報、同業他社の炎上リスクAI分析、乗り換え検討中の不満ポスト検知をSlackへ即時通知するBtoB監視SaaS。攻守一体の検知レーダーをデモ体験できる。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "nextjs",
+   "netlify",
+   "saas",
+   "ai"
+  ]
+ },
+ {
+  "id": "voiceblog",
+  "name": "VoiceBlog（ボイスブログ）",
+  "url": "https://voiceblog.vercel.app/",
+  "icon": "icons/voiceblog.png",
+  "tagline": "音声・動画をSEO記事とXスレッドに変換",
+  "description": "YouTube動画やポッドキャスト音声を投入するだけで、SEO最適化ブログ記事とX用5連スレッドを一括自動生成するクリエイター特化SaaS。デモスタジオで即体験できる。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "nextjs",
+   "vercel",
+   "saas",
+   "ai"
+  ]
+ },
+ {
+  "id": "matching-app-lp",
+  "name": "マッチングアプリ完全攻略（Match-Launch LP）",
+  "url": "https://matching-app-lp.vercel.app/",
+  "icon": "icons/matching-app-lp.png",
+  "tagline": "9/25特典解禁・9/26完全閉鎖の先行登録LP",
+  "description": "マッチングアプリ攻略ノウハウのLINE先行登録LP。写真&メッセージ攻略PDF2大特典を9/25にLINE限定配布、9/26に登録枠を閉鎖する期間限定訴求。成功事例・特典Bento・カウントダウン実装。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "nextjs",
+   "vercel",
+   "line"
+  ]
+ },
+ {
+  "id": "english-conversation-comparison",
+  "name": "English Conversation Comparison（英会話比較メディア）",
+  "url": "https://english-conversation-comparison.com/",
+  "icon": "icons/english-conversation-comparison.svg",
+  "tagline": "オンライン英会話をアドアフィ風LP+比較ブログで",
+  "description": "オンライン英会話スクールの比較メディア。TOPはランキングLP、/blog/は比較記事一覧。ラッコサーバーのWordPressで、記事は毎日自動投稿。提携先は選定中。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "product",
+   "wordpress",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "aio-agent",
+  "name": "AIOエージェント",
+  "url": "https://aio-agent-beta.vercel.app/",
+  "icon": "icons/aio-agent.png",
+  "tagline": "AI検索時代の最適AIO対策会社を無料マッチング",
+  "description": "ChatGPTやAI Overviewsで自社が引用されない悩みを無料AI露出診断で可視化し、技術力・実績を審査した中立な立場でAIO/GEO対策会社を完全無料でマッチングするエージェントサービス。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "furugi-sedori-lp",
+  "name": "古着せどり完全攻略",
+  "url": "https://furugi-sedori-lp.vercel.app/",
+  "icon": "icons/furugi-sedori-lp.png",
+  "tagline": "9/25特典解禁！古着せどり先行登録LP",
+  "description": "1着500円の仕入れで利益率50%〜70%を狙う古着せどりの先行登録LP。メルカリ×セカスト・トレファク・卸を攻略して月利20万〜50万円を目指す。9月25日20:00にLINE登録者限定で高利益ブランド＆タグ100選リストと撮影・アカウント安全マニュアルの2大特典を配布するカウントダウン設計。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "online-sedori-lp",
+  "name": "電脳せどり完全攻略",
+  "url": "https://online-sedori-lp.vercel.app/",
+  "icon": "icons/online-sedori-lp.png",
+  "tagline": "9/25特典解禁！電脳せどり先行登録LP",
+  "description": "完全在宅・PC1台で完結する電脳せどりの先行登録LP。楽天・ヤフショ・Amazon・フリマから利益商品を抽出して月利20万〜50万円を狙う。9月25日20:00にLINE登録者限定で鉄板利益商品100選リストと安全攻略マニュアルの2大特典を配布するカウントダウン設計。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "camera-sedori-lp",
+  "name": "カメラせどり完全攻略",
+  "url": "https://camera-lens-guide.vercel.app/",
+  "icon": "icons/camera-sedori-lp.png",
+  "tagline": "9/25特典解禁！カメラせどり先行登録LP",
+  "description": "1撃1万〜3万円を狙うカメラせどりの先行登録LP。9月25日20:00にLINE限定で鉄板利益カメラ＆レンズ100選リストと検品マニュアルの2大特典を配布するカウントダウン設計。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "usedbooks-sedori-lp",
+  "name": "古本せどり完全攻略",
+  "url": "https://usedbooks-sedori-lp.vercel.app/",
+  "icon": "icons/usedbooks-sedori-lp.png",
+  "tagline": "9/25特典解禁！古本せどり先行登録LP",
+  "description": "知識ゼロ・資金1万円から始める古本せどりで、1冊110円の仕入れから月利10万〜30万円を目指す先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント安全防衛マニュアルの2大特典を配布するカウントダウン設計。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "bookoff-sedori-lp",
+  "name": "ブックオフせどり完全攻略",
+  "url": "https://bookoff-sedori-lp.vercel.app/",
+  "icon": "icons/bookoff-sedori-lp.png",
+  "tagline": "9/25特典解禁！ブックオフせどり先行登録LP",
+  "description": "初心者がブックオフ1店舗の110円棚から仕入れて月利を目指すための先行登録LP。9月25日20:00にLINE登録者限定で利益本100選リストとアカウント健全性マニュアルの2大特典を配布するカウントダウン設計。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "lp",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "tonari-infra",
+  "name": "となりのインフラ（Tonari-infra）",
+  "url": "https://tonarino-infra.com/",
+  "icon": "icons/tonari-infra.png",
+  "tagline": "隣の家の固定費、のぞき見して真似っこできるインフラ公開コミュニティ",
+  "description": "同じ地域・世帯人数・間取りの人が電気・ガス・ネット・スマホ・水・サブスクにいくら払っているかをリアルなインフラ構成カードで公開し合い、同条件平均との差額や最安構成をワンクリックで真似できるオープンコミュニティ。検針票アップロードの自動入力デモ、固定費削減シミュレーター、投稿者への毎月アマギフ抽選謝礼つき。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "community",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "mbti-tool",
+  "name": "MBTI診断ツール",
+  "url": "https://mbti-tool-rose.vercel.app/",
+  "icon": "icons/mbti-tool.png",
+  "tagline": "3分でわかる、あなたの本当の性格・適職・相性",
+  "description": "厳選16問のTypeform風1問1答クイズに直感で答えるだけで、16タイプの性格診断・強み弱み・向いている仕事・恋愛や友達の相性ベスト＆ワーストまで無料で可視化するWebツール。16タイプ図鑑と全16タイプ相性早見表、X共有機能つき。",
+  "registeredAt": "2026-08-26",
+  "tags": [
+   "web",
+   "diagnosis",
+   "entertainment"
+  ]
+ },
+ {
+  "id": "motoneta",
+  "name": "モトネタ（MotoNeta.ai）",
+  "url": "https://motoneta-six.vercel.app/",
+  "icon": "icons/motoneta.png",
+  "tagline": "SNS動画URL・スクショから公式品番＆該当秒数を一発特定",
+  "description": "XやSNSで流れてきたバズ動画・切り抜きのURLやスクショを貼るだけで、公式品番・タイトル・本編の該当秒数をAIが逆引き特定するスキャン特化Web。ビジュアルチャプターバーとFANZA連携用送客ボタン、特定履歴(LocalStorage)、コミュニティ掲示板を実装。",
+  "registeredAt": "2026-08-25",
+  "tags": [
+   "web",
+   "ai",
+   "search",
+   "entertainment"
+  ]
+ },
+ {
+  "id": "situsearch",
+  "name": "シチュサーチ（SituSearch）",
+  "url": "https://okanext.net/",
+  "icon": "icons/situsearch.svg",
+  "tagline": "自然言語シチュエーション特化 作品検索AIソムリエ",
+  "description": "「あのシチュエーション」を文章で伝えるだけで、FANZA Web Service APIの実商品からAIソムリエが該当作品を提案する自然言語検索Web。一般ユーザー投稿機能はなし。",
+  "registeredAt": "2026-08-25",
+  "tags": [
+   "web",
+   "ai",
+   "search",
+   "entertainment"
+  ]
+ },
+ {
+  "id": "nanpun-db",
+  "name": "何分DB（Nanpun.DB）【サービス終了】",
+  "url": "https://nanpun-db.vercel.app/",
+  "icon": "icons/nanpun-db.png",
+  "tagline": "【サービス終了】動画秒数・チャプター逆引きWiki",
+  "description": "動画の秒数・チャプターを品番から逆引きできるタイパ特化Wikiデータベースとして開発したが、2026-08-25にサービス終了。独自ドメイン(okanext.net)はシチュサーチに引き継ぎ済み。跡地では終了案内のみ表示。",
+  "registeredAt": "2026-08-25",
+  "tags": [
+   "web",
+   "wiki",
+   "closed"
+  ]
+ },
+ {
+  "id": "earlycore",
+  "name": "EarlyCore（初期フェーズ実務経験者特化スポット相談）",
+  "url": "https://earlycore.vercel.app/",
+  "icon": "icons/earlycore.png",
+  "tagline": "急成長ベンチャーの初期カオス期経験者にピンポイント相談",
+  "description": "大企業の元役員ではなく、社員5〜30名期の初期カオスを泥臭く突破した実務者(人事/マーケ/セールス/情シス/エンジニア)にNDA完備でスポット相談できるBtoB LP。相談時間・料金は担当者により変動。LINE無料相談導線を実装、実写真の登場人物カード付き。",
+  "registeredAt": "2026-08-25",
+  "tags": [
+   "web",
+   "lp",
+   "btob",
+   "consulting"
+  ]
+ },
+ {
+  "id": "internet-media",
+  "name": "インターネットメディア（光回線比較SEOメディア）",
+  "url": "https://internet-media.biz/",
+  "icon": "icons/internet-media.png",
+  "tagline": "光回線・ネット回線の評判をグレー基調でわかりやすく",
+  "description": "光回線・インターネット回線の比較SEOメディア。manablog.org参考の自作テーマでグレー基調に刷新、商材ごとの評判・口コミ記事をクラウドルーティンで毎日自動投稿。ASPアフィリエイト連携済み。",
+  "registeredAt": "2026-08-23",
+  "tags": [
+   "web",
+   "media",
+   "seo",
+   "comparison",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "dr-growth-hack",
+  "name": "DRグロースハック（自演リンクDRトラッカー）",
+  "url": "https://dr-growth-hack.netlify.app/",
+  "icon": "icons/dr-growth-hack.svg",
+  "tagline": "毎日送るURLとDRをそのまま一覧化",
+  "description": "チャットで日々送る被リンクURLとドメインレーティング(DR)を記録していくだけのシンプルなトラッカー。登録数・平均DR・最高DR・直近登録日を上部に表示し、一覧はDR値で色分けバッジ表示。ビルド不要の静的サイトで運用。",
+  "registeredAt": "2026-08-22",
+  "tags": [
+   "web",
+   "tool",
+   "seo"
+  ]
+ },
+ {
+  "id": "stackcost",
+  "name": "StackCost（個人開発スタック×月間コスト公開DB）",
+  "url": "https://stackcost.loous.net/",
+  "icon": "icons/stackcost.png",
+  "tagline": "この個人開発、月何円で動いてる？を可視化・共有",
+  "description": "個人開発アプリの技術スタックと実際の月間インフラ費用の内訳を登録・検索できるプラットフォーム。Rechartsのコスト内訳円グラフ・技術タグ・黒字ステータス付きBentoカードで一覧、投稿は3件まで無料。",
+  "registeredAt": "2026-08-28",
+  "tags": [
+   "web",
+   "tool",
+   "business"
+  ]
+ },
+ {
+  "id": "devsetup",
+  "name": "DevSetup（開発環境・デスク1コマンド共有Web）",
+  "url": "https://devsetup-seven.vercel.app/",
+  "icon": "icons/devsetup.png",
+  "tagline": "強いエンジニアの開発環境を1コマンドで完コピ",
+  "description": "VSCode拡張・ターミナル設定・Homebrewツール・デスク環境をmicroCMS風マイページで公開。チェックしたツール群を一発インストールできるワンライナーシェルスクリプトを1タップでコピーできる開発環境共有プラットフォーム。",
+  "registeredAt": "2026-08-21",
+  "tags": [
+   "web",
+   "tool",
+   "dev"
+  ]
+ },
+ {
+  "id": "adsboard",
+  "name": "AdsBoard（Google広告キャンペーンダッシュボード）",
+  "url": "https://adsboard-79a.pages.dev/",
+  "icon": "icons/adsboard.svg",
+  "tagline": "Google広告のキャンペーン別数値を毎日1画面で確認",
+  "description": "Google Ads APIから毎日、キャンペーン別の費用・クリック・CV・CPAを取得し、昨日/7日平均比較と14日間の推移グラフでまとめる自分専用ダッシュボード。Cloudflare Accessで本人メール限定。",
+  "registeredAt": "2026-08-21",
+  "tags": [
+   "web",
+   "tool",
+   "marketing",
+   "private"
+  ]
+ },
+ {
+  "id": "asatane",
+  "name": "アサタネ（毎朝7時の事業アイデア自動生成ダッシュボード）",
+  "url": "https://asatane.vercel.app/",
+  "icon": "icons/asatane.png",
+  "tagline": "毎朝7時、市場トレンドから15個の事業アイデアを自動生成",
+  "description": "Claude Codeのクラウドルーティンが毎朝WebSearchで市場調査し、個人開発向けの事業アイデアを15件・7要素(ペイン/コア機能/競合/差別化/リピート性/マネタイズ)付きで自動生成。日付ごとにアーカイブされ過去分も見返せる。Basic認証で本人限定。",
+  "registeredAt": "2026-08-21",
+  "tags": [
+   "web",
+   "tool",
+   "ai",
+   "business",
+   "private"
+  ]
+ },
+ {
+  "id": "gmo-auto-trader",
+  "name": "GMOコイン自動売買AI（自分専用暗号資産自動トレード）",
+  "url": "https://gmo-auto-trader.pages.dev/",
+  "icon": "icons/gmo-auto-trader.png",
+  "tagline": "10万円をRSI/MACD/BBで24h自動運用・監視",
+  "description": "GMOコイン公式APIで元手10万円をRSI・MACD・BB×3%損切り/5%利確で3ヶ月自動運用。資産推移・勝率・保有ポジション・AIの売買理由を監視する自分専用ダッシュボード。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "ai",
+   "finance",
+   "crypto",
+   "private"
+  ]
+ },
+ {
+  "id": "sales-ai-agent",
+  "name": "AI営業エージェント（企業リスト×メール/フォーム自動送信）",
+  "url": "https://sales-ai-agent-4ijg.onrender.com",
+  "icon": "icons/sales-ai-agent.svg",
+  "tagline": "企業リストへのメール/フォーム営業をAIが自動化",
+  "description": "企業リストをサービスごとに登録し、メール送信やPlaywright+Claude AIのフォーム自動入力で営業をかける社内専用ツール。外部アクセスはBasic Authで遮断。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "ai",
+   "internal",
+   "sales",
+   "automation"
+  ]
+ },
+ {
+  "id": "market-research-kun",
+  "name": "個人開発前の市場調査くん（個人開発アイデア市場調査AI）",
+  "url": "https://market-research-kun.pages.dev/",
+  "icon": "icons/market-research-kun.png",
+  "tagline": "アイデア1行で競合・収益性・ピボット案をAI分析",
+  "description": "サービス案を1行入れるだけ。Claude AIが国内外の競合・マネタイズ実現性・ポジショニングの空白地帯を実況付きで調査し、成功可能性スコアとピボット案を返す。初回1回無料のチケット制。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "ai",
+   "saas",
+   "indie-hacker",
+   "market-research"
+  ]
+ },
+ {
+  "id": "claudecode-tracker",
+  "name": "Claudecodeの使い手（ClaudeCode Tracker）",
+  "url": "https://y-studios.github.io/claudecode-tracker/",
+  "icon": "icons/claudecode-tracker.png",
+  "tagline": "Claude Codeの5時間枠消費を日次で可視化",
+  "description": "5時間枠・トークン上限を使い倒すヘビーユーザー向け。今日の消費ゲージ、稼働推移グラフ、草ヒートマップ、使い手ランクと実績バッジ、Xシェア。LocalStorage保存の完全無料ツール。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "ai",
+   "dashboard",
+   "claude-code"
+  ]
+ },
+ {
+  "id": "fatigue-detective",
+  "name": "疲労の真犯人（FatigueDetective）",
+  "url": "https://hungryz.app",
+  "icon": "icons/fatigue-detective.png",
+  "tagline": "「寝てもだるい」のなぜに真犯人で答える",
+  "description": "「立ち上がるとめまいがするのはなぜ？」など症状の問いに、睡眠不足・ストレスという一般論ではなくCO2・血糖値・噛み締め・深部体温など測れる原因と具体策で答える出典付き疲労メディア。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "media",
+   "healthcare",
+   "article",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "aspboard",
+  "name": "ASPボード（ASPBoard）",
+  "url": "https://aspboard.vercel.app",
+  "icon": "icons/aspboard.png",
+  "tagline": "ASPの特単・掲載枠交渉をカンバン管理",
+  "description": "Chatworkに埋もれがちなASPとの順位固定・特単・掲載期限をBacklog風カンバンと種別バッジで一元管理。期限アラートと収益分析つき。カードはサンプルです。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "saas",
+   "affiliate",
+   "kanban"
+  ]
+ },
+ {
+  "id": "conveni-ticket-bot",
+  "name": "コンビニ引換券忘れ防止LINE Bot（ひきかえBot）",
+  "url": "https://conveni-ticket-bot.vercel.app",
+  "icon": "icons/conveni-ticket-bot.png",
+  "tagline": "コンビニ引換券の期限をLINE通知",
+  "description": "コンビニでもらう無料引換券のレシート写真をLINEに送ると、商品名と有効期限を読み取って7日前・3日前・前日にお知らせ。掲載中の画面やレシートはLP用の見本です。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "lp",
+   "line",
+   "bot",
+   "coupon"
+  ]
+ },
+ {
+  "id": "launchguard",
+  "name": "ローンチガード（LaunchGuard）",
+  "url": "https://launchguard-dd2.pages.dev",
+  "icon": "icons/launchguard.png",
+  "tagline": "リリース前の法令＆UX総点検",
+  "description": "URLを入れるとAI監査キャラが回遊し、プラポリ・特商法・ステマ規制などの法令表記とOGP・動線の抜けを点検。判定は独自基準で法的助言ではありません。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "legal",
+   "ux",
+   "audit"
+  ]
+ },
+ {
+  "id": "netai-timeline",
+  "name": "熱愛タイムライン（NetaiTimeline）",
+  "url": "https://affislot.com",
+  "icon": "icons/netai-timeline.png",
+  "tagline": "熱愛スクープ速報まとめメディア",
+  "description": "熱愛スクープを3行まとめ・匂わせ検証タイムライン・ファン感情メーター・相関図の順で読める速報メディア。記事は出典を明記した実際の報道・本人発表をもとに構成しています。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "media",
+   "entertainment",
+   "scoop",
+   "timeline"
+  ]
+ },
+ {
+  "id": "shirohako",
+  "name": "シロハコ（ShiroHako）",
+  "url": "https://shirohako.pages.dev",
+  "icon": "icons/shirohako.png",
+  "tagline": "引越しを清潔スペックで選ぶ",
+  "description": "女性スタッフ・新品靴下の履き替え・室内の養生など、引越し会社が公式サイトに書いている清潔まわりの記載だけを集めた比較サイト。架空のプランや口コミ、推定料金は載せていません。",
+  "registeredAt": "2026-08-19",
+  "tags": [
+   "web",
+   "tool",
+   "hikkoshi",
+   "comparison",
+   "clean"
+  ]
+ },
+ {
+  "id": "myspec",
+  "name": "MySpec（マイスペック）",
+  "url": "https://myspec.shindan.biz",
+  "icon": "icons/myspec.png",
+  "tagline": "スペックとアイコンで作る自己紹介カード",
+  "description": "MBTI・骨格・パーソナルカラー・顔タイプ・身長を選び、髪型や表情を組んだアイコンと一緒にトレカ風カードを生成。9:16と1:1のPNGで保存でき、診断はせず選んだ内容だけを載せます。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "sns",
+   "avatar",
+   "generator"
+  ]
+ },
+ {
+  "id": "stepato",
+  "name": "ステパト（StePato）",
+  "url": "https://stepato.vercel.app",
+  "icon": "icons/stepato.png",
+  "tagline": "そのインフルエンサー、起用して大丈夫？",
+  "description": "XのプロフィールURLを入れるだけで、インフルエンサーの過去ポストを巡回し、PR表記の透明度を4つの指標で採点する企業向けの事前監査ツール。PR表記が本文の何文字目にあるか、ハッシュタグ何個中の何番目に埋もれているか、収益リンクに表記が伴っているかを機械的に測り、「起用おすすめ／条件付き／要警戒」の3段階で判定します。疑義ポストは該当箇所をハイライトして一覧化。判定はあくまでリスクの推定値で、法令違反の認定ではないことを画面に明記しています。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "marketing",
+   "compliance",
+   "sns"
+  ]
+ },
+ {
+  "id": "antipay",
+  "name": "アンチペイ（AntiPay）",
+  "url": "https://antipay-iota.vercel.app",
+  "icon": "icons/antipay.png",
+  "tagline": "誹謗中傷の慰謝料、回収できるか30秒で試算",
+  "description": "投稿された媒体・内容・件数・証拠と相手の見当から、慰謝料の目安と弁護士費用を差し引いた最終収支を試算する誹謗中傷シミュレーター。黒字か費用倒れかを判定し、使った係数はすべて画面で開示します。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "simulation",
+   "legal",
+   "sns"
+  ]
+ },
+ {
+  "id": "skiptown",
+  "name": "SkipTown（スキップタウン）",
+  "url": "https://skiptown.vercel.app",
+  "icon": "icons/skiptown.png",
+  "tagline": "通勤ストレスから逆算して、住む街を決める",
+  "description": "勤務先・朝のつらさ・いまの家賃の3つを選ぶと、当駅始発の有無と朝の混み方の目安、SUUMOが公開している駅別の家賃相場を突き合わせて、通勤がラクになる街をスコア順に提案する住み替え診断。結果のボタンからは「その駅」と「あなたの家賃レンジ」で絞り込み済みのSUUMOの検索結果がそのまま開く。首都圏5エリアと梅田の計6オフィス街・29駅に対応。スコアはSkipTown独自の指標で、実測されたストレス削減率ではないことを明記している。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "commute",
+   "housing",
+   "diagnosis"
+  ]
+ },
+ {
+  "id": "kaotsukare",
+  "name": "カオツカレ（KaoTsukare）",
+  "url": "https://kaotsukare.vercel.app",
+  "icon": "icons/kaotsukare.png",
+  "tagline": "インカメラ3秒で、顔の疲れ印象をスキャン",
+  "description": "インカメラを3秒見るだけで、まぶたの開き・目の下の影・頬の明るさ・口角の角度を解析し、いまの顔がどう見えるかを100点満点で可視化する顔疲労印象スキャナー。解析はすべてブラウザ内で完結し、映像も計測値も端末の外に出ません。シャッター音や通知音は一切鳴らさず、暗所では画面枠が白く光る簡易リングライトが働くので、電車内・オフィス・車内でもそのまま使えます。スコアの根拠になった生の実測値も全公開。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "camera",
+   "ai",
+   "health"
+  ]
+ },
+ {
+  "id": "wideroute",
+  "name": "WideRoute（ワイドルート）",
+  "url": "https://wideroute-jp.vercel.app",
+  "icon": "icons/wideroute.png",
+  "tagline": "狭い道を避けて、広い道で行く",
+  "description": "出発地・目的地・車種を入れると、最短ルート沿いの狭い区間をOpenStreetMapの道路データから検出。幹線道路を通る経由地を算出し、そのままGoogleマップで案内を開始できる。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "map",
+   "car",
+   "navigation",
+   "tool"
+  ]
+ },
+ {
+  "id": "kagulog",
+  "name": "KaguLog（カグログ）",
+  "url": "https://kagulog.vercel.app",
+  "icon": "icons/kagulog.png",
+  "tagline": "家具の購入先と値段を、一枚のカタログに",
+  "description": "自宅の家具のブランド・購入価格・購入先URLを記録すると、総額とブランド構成比つきの公開カタログになるWebアプリ。買い替えた家具はアーカイブに残り、部屋の遍歴も辿れる。データは端末内に保存し、共有はリンクに埋め込む方式。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "tool",
+   "interior",
+   "catalog",
+   "share"
+  ]
+ },
+ {
+  "id": "kyonen",
+  "name": "Kyonen（キョネン）",
+  "url": "https://kyonen.vercel.app",
+  "icon": "icons/kyonen.png",
+  "tagline": "去年の今日と、今日の気温をくらべる",
+  "description": "東京・大阪・福岡など主要都市と現在地で、今日の気温を去年・2年前・3年前と比較。時間ごと・日ごとのグラフとXシェア画像も出せる、Open-Meteo実測データ。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "weather",
+   "chart",
+   "tool"
+  ]
+ },
+ {
+  "id": "testdrive-ai",
+  "name": "TestDrive AI（テストドライブ エーアイ）",
+  "url": "https://testdrive-ai.vercel.app",
+  "icon": "icons/testdrive-ai.png",
+  "tagline": "AIが実際に登録して採点する、忖度ゼロのE2E実測レビュー",
+  "description": "AIエージェントがサービスの登録フォームを実際に操作し、表示速度・入力項目数・UIのストレス度を100点満点で採点するレビューメディア。止まった位置と理由もそのまま公開する。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "media",
+   "ai",
+   "review",
+   "affiliate"
+  ]
+ },
+ {
+  "id": "gendermirror",
+  "name": "GenderMirror（ジェンダーミラー）",
+  "url": "https://gendermirror.shindan.biz",
+  "icon": "icons/gendermirror.png",
+  "tagline": "その文章、男女を入れ替えて読み直す",
+  "description": "貼った文章の主客関係とトーンはそのまま、性別だけを反転させるツール。元の文と逆転後をX風カードで並べ、比較画像のPNG保存とXへの投稿ができる。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "ai",
+   "tool",
+   "text",
+   "x"
+  ]
+ },
+ {
+  "id": "buddyworks",
+  "name": "BuddyWorks（バディワークス）",
+  "url": "https://buddyworks-one.vercel.app",
+  "icon": "icons/buddyworks.png",
+  "tagline": "相棒と組んで受ける、フリーランスユニット専門の案件紹介",
+  "description": "すでに組んでいる2名以上のフリーランスユニット向けの案件紹介エージェント。個人では受けにくい大型案件をユニット丸ごとアサインし、契約・請求も代行する。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "lp",
+   "freelance",
+   "agent",
+   "form"
+  ]
+ },
+ {
+  "id": "safetyschool",
+  "name": "SafetySchool（セーフティスクール）",
+  "url": "https://safetyschool-jade.vercel.app",
+  "icon": "icons/safetyschool.png",
+  "tagline": "いじめの記録を、LINEに送るだけで日時つきに残す",
+  "description": "いじめに関する出来事を、LINEのトークに送るだけで受信日時つきに保管するセーフティツール。たまった記録は学校や弁護士に渡せる報告書としてPDF化できる。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "line",
+   "safety",
+   "education",
+   "tool"
+  ]
+ },
+ {
+  "id": "tricktube",
+  "name": "TrickTube（トリックチューブ）",
+  "url": "https://tricktube.vercel.app",
+  "icon": "icons/tricktube.png",
+  "tagline": "神業の決定的瞬間から、直接再生する技図鑑",
+  "description": "橋渡し・確率機・ペラ輪などクレーンゲームの技と台設定でしぼり込める攻略動画DB。投稿者本人がつけたチャプターの位置から再生でき、探し直す必要がない。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "game",
+   "video"
+  ]
+ },
+ {
+  "id": "prizemap",
+  "name": "PrizeMap（プライズマップ）",
+  "url": "https://prizemap-puce.vercel.app",
+  "icon": "icons/prizemap.png",
+  "tagline": "行く前に知る、獲れる店。全国533店舗の獲れやすさ地図",
+  "description": "全国533店舗のアームの強さ・店員アシスト度・橋渡しの幅を利用者のタレコミだけで可視化する攻略マップ。現在地や主要駅から近い順に並べ替えられる。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "map",
+   "game"
+  ]
+ },
+ {
+  "id": "clawagent",
+  "name": "ClawAgent（クローエージェント）",
+  "url": "https://clawagent-tau.vercel.app",
+  "icon": "icons/clawagent.png",
+  "tagline": "欲しい限定プライズを、クレーンゲームの猛者に代理獲得してもらう",
+  "description": "欲しい景品と上限予算を掲載すると、クレーンゲームのプロが立候補して代わりに獲りに行くオンデマンドマーケット。上限金額はエスクロー預かり、全額返金保証。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "matching",
+   "game"
+  ]
+ },
+ {
+  "id": "prizeprice",
+  "name": "PrizePrice（プライズ相場スキャナー）",
+  "url": "https://prizeprice.vercel.app",
+  "icon": "icons/prizeprice.png",
+  "tagline": "クレーンゲームの景品を撮るだけで、相場と買取価格TOP3を判定",
+  "description": "クレーンゲームのガラス越しに撮るだけで、景品と背後のポスターをAIが解析するプライズ特化型スキャナー。フリマ相場と主要買取店の価格TOP3を表示する。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "ai",
+   "tool"
+  ]
+ },
+ {
+  "id": "solosurvival",
+  "name": "SoloSurvival（ソロサバイバル）",
+  "url": "https://solosurvival.vercel.app",
+  "icon": "icons/solosurvival.png",
+  "tagline": "【サービス終了】1人で行っても浮かない、サバゲーのぼっち参戦マッチング",
+  "description": "サバゲーに1人で行く人だけを集めて、その日限りの即席部隊を組むLINE完結型のマッチングでしたが、2026年8月22日にサービスを終了しました。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "matching",
+   "airsoft",
+   "closed"
+  ]
+ },
+ {
+  "id": "battingdb",
+  "name": "BattingDB（バッティングDB）",
+  "url": "https://battingdb.vercel.app",
+  "icon": "icons/battingdb.png",
+  "tagline": "球速・看板で探す、みんなで書く全国バッセン図鑑",
+  "description": "160km/hの豪速球や変化球、硬式打席など全国81店舗のバッティングセンターをスペックで絞り込める検索DB。確認できた項目だけ掲載し、残りは誰でも書き足せる。",
+  "registeredAt": "2026-08-16",
+  "tags": [
+   "web",
+   "database",
+   "sports"
+  ]
+ },
+ {
+  "id": "datingroster",
+  "name": "DatingRoster（デイティングロスター）",
+  "url": "https://datingroster.vercel.app",
+  "icon": "icons/datingroster.png",
+  "tagline": "同時並行の会話ログとNG話題を、相手ごとのカルテで管理する恋愛CRM",
+  "description": "マッチングアプリの同時並行専用の管理ツール。相手ごとに会話タグ・NG話題・デート費用をカルテに残し、進捗をカンバンで管理。ステルス表示機能付き。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "crm",
+   "dating"
+  ]
+ },
+ {
+  "id": "oshikura",
+  "name": "オシクラ",
+  "url": "https://oshikura.vercel.app",
+  "icon": "icons/oshikura.png",
+  "tagline": "10人そろえば、推しへのお願いが正式な依頼になる",
+  "description": "ファン同士で軍資金を出し合い、推しに撮影やボイス制作を共同発注するクラウドファンディング。目標人数に達して本人の承諾が取れたときだけ成立する。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "crowdfunding",
+   "creator"
+  ]
+ },
+ {
+  "id": "traindrift",
+  "name": "TrainDrift（トレインドリフト）",
+  "url": "https://traindrift.vercel.app",
+  "icon": "icons/traindrift.png",
+  "tagline": "時速30km以上でしか起動しない、乗車中専用のポイ活共闘RPG",
+  "description": "満員電車のデッドタイムを乗客との共闘に変える乗車中専用RPG。時速30kmを超えると自動起動し、移動距離が攻撃力になる。討伐報酬はポイントに交換できる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "game",
+   "point"
+  ]
+ },
+ {
+  "id": "riflog",
+  "name": "リフログ（RIFLOG）",
+  "url": "https://riflog.vercel.app",
+  "icon": "icons/riflog.png",
+  "tagline": "今日の理不尽を親指3タップで記録するキャリア脱出ログ",
+  "description": "無駄会議や理不尽な指示など、その日のストレスをタップで記録する働き方の記録ツール。奪われた時間と金額を試算し、1週間分から「脱出カルテ」を発行する。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "career",
+   "stress"
+  ]
+ },
+ {
+  "id": "last-canvas",
+  "name": "LAST CANVAS（ラストキャンバス）",
+  "url": "https://last-canvas.vercel.app",
+  "icon": "icons/last-canvas.png",
+  "tagline": "取り壊す前のビルを、巨大なキャンバスに",
+  "description": "解体が決まったビルの外壁・屋内フロア・工事仮囲いを1日単位で借りられるスペースマッチング。取り壊す建物だから原状回復は不要で、塗装もQR掲出も自由。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "matching",
+   "art"
+  ]
+ },
+ {
+  "id": "bidcall",
+  "name": "BIDCALL（ビッドコール）",
+  "url": "https://bidcall.vercel.app/",
+  "icon": "icons/bidcall.png",
+  "tagline": "推しとの10分間を競り落とす1on1ビデオ通話オークション",
+  "description": "1on1ビデオ通話の枠を先着順ではなくオークションで販売するプレミアム通話アプリ。締切時点で最高額の入札者が落札し、事前デポジット制でいたずら入札を排除。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "auction",
+   "creator"
+  ]
+ },
+ {
+  "id": "offroom",
+  "name": "オフルム（OFFROOM）",
+  "url": "https://offroom.vercel.app/",
+  "icon": "icons/offroom.png",
+  "tagline": "退去前の生写真が、そのまま部屋図鑑になる",
+  "description": "SUUMOに載っていない、住人が退去前に撮ったリアルな部屋写真が見られる部屋図鑑。「敷金自衛ミッション」で撮った写真が、次に住む人のための物件DBになる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "realestate",
+   "cgm"
+  ]
+ },
+ {
+  "id": "clip-pass",
+  "name": "YouTuber CLIP PASS",
+  "url": "https://clip-pass.vercel.app",
+  "icon": "icons/clip-pass.png",
+  "tagline": "配信者公認の切り抜きマッチング＆素材ハブ",
+  "description": "YouTube配信者が公式素材(高画質アーカイブ・透過立ち絵・音声)を無料開放し、切り抜きクリエイターを公認制でマッチングするプラットフォーム。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "youtube",
+   "creator"
+  ]
+ },
+ {
+  "id": "drop-pass",
+  "name": "DROP PASS",
+  "url": "https://drop-pass-pearl.vercel.app/",
+  "icon": "icons/drop-pass.png",
+  "tagline": "位置情報×合言葉で解錠するゲリラ限定ドロップアプリ",
+  "description": "位置情報とシークレット合言葉でアンロックする新世代ストリートドロップアプリ。街のスポットや暗号を辿った者だけが、数分で完売する限定アイテムを入手できる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "streetwear",
+   "geolocation"
+  ]
+ },
+ {
+  "id": "micro-gallery",
+  "name": "MICRO GALLERY",
+  "url": "https://micro-gallery-five.vercel.app/",
+  "icon": "icons/micro-gallery.png",
+  "tagline": "カフェ・美容室の空き壁を借りる壁面ギャラリー",
+  "description": "カフェ・美容室・アパレルの空き壁を月単位でレンタルできる店舗壁面特化型のギャラリーシェア。店舗は固定収入に、アーティストは身近な空間で展示できる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "art",
+   "marketplace"
+  ]
+ },
+ {
+  "id": "next-buyer",
+  "name": "NEXT BUYER",
+  "url": "https://next-buyer.vercel.app/",
+  "icon": "icons/next-buyer.png",
+  "tagline": "私服スナップをタップして売る新世代リセール",
+  "description": "私服スナップ特化のCtoCリセール。Instagramの着画をタップするだけで出品でき、「売ってください」の購入オファーがLINEやメールに届く3秒出品。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "fashion",
+   "resale"
+  ]
+ },
+ {
+  "id": "viewpay",
+  "name": "VIEWPAY",
+  "url": "https://viewpay-gamma.vercel.app/",
+  "icon": "icons/viewpay.png",
+  "tagline": "TikTokの再生数がそのまま賞金になるUGCマーケット",
+  "description": "TikTok特化のUGC動画賞金プラットフォーム。D2Cブランドの賞金プールをかけて再生数ランキングを競い、最終順位に応じて賞金を獲得できる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "tiktok",
+   "creator"
+  ]
+ },
+ {
+  "id": "checkdt",
+  "name": "CheckDT",
+  "url": "https://checkdt.vercel.app/",
+  "icon": "icons/checkdt.png",
+  "tagline": "整形ダウンタイムの腫れが正常経過かを即セルフチェック",
+  "description": "美容整形・美容医療のダウンタイム中の腫れや左右差が正常経過かを、施術×術後日数×症状の選択でその場でチェックできるアプリ。回復予測グラフつき。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "beauty",
+   "healthcare"
+  ]
+ },
+ {
+  "id": "mirra",
+  "name": "Mirra",
+  "url": "https://mirra-beauty.vercel.app/",
+  "icon": "icons/mirra.png",
+  "tagline": "自撮り1枚で似合う髪型をAIが即時診断",
+  "description": "自撮り1枚でAIが顔タイプ×骨格×パーソナルカラーを即時診断するビューティーテックアプリ。似合うヘアスタイルの候補やスタイリスト・サロンまで一括提案する。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "ai",
+   "beauty"
+  ]
+ },
+ {
+  "id": "roomie",
+  "name": "Roomie",
+  "url": "https://roomie-jp.vercel.app/",
+  "icon": "icons/roomie.svg",
+  "tagline": "家賃を半分に。20代限定の同性ルームメイト探し",
+  "description": "20代限定・同性同士のルームメイトマッチングサービス。1人暮らしの1Kに対し、2LDKをシェアすれば家賃を抑えて広い部屋に住める比較を提示。LINEから探せる。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "matching",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "akikoma",
+  "name": "AkiKoma",
+  "url": "https://akikoma-omega.vercel.app/",
+  "icon": "icons/akikoma.png",
+  "tagline": "空きコマ・ランチの仲間が見つかる大学生マッチング（サービス終了）",
+  "description": "大学生・大学院生限定のスキマ時間マッチングアプリ。時間割の空きマスをタップすると、同じキャンパスや近隣大学の学生とマッチし、学食やカフェで合流できる。※サービス終了しました。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "matching",
+   "lifestyle",
+   "closed"
+  ]
+ },
+ {
+  "id": "lastre",
+  "name": "Lastre（サービス終了）",
+  "url": "https://lastre.vercel.app/",
+  "icon": "icons/lastre.png",
+  "tagline": "終電を逃した夜を安全に乗り切る深夜レスキュー（サービス終了）",
+  "description": "深夜23:00〜05:30限定で、終電を逃した1km以内の仲間とマッチングするレスキューアプリの構想として事前登録を受け付けていたが、サービスをクローズした。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "matching",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "2on",
+  "name": "2on",
+  "url": "https://2on-six.vercel.app/",
+  "icon": "icons/2on.png",
+  "tagline": "友達と2人1組で他大学ペアと出会う、大学生限定マッチング",
+  "description": "仲のいい友達と2人1組の「ペア」を組んで、他大学・他学部のペアと気軽に出会って飲みに行けるLINEベースのマッチングサービス。現役大学生・大学院生限定。",
+  "registeredAt": "2026-08-15",
+  "tags": [
+   "web",
+   "matching",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "narashi-gohan",
+  "name": "ならしごはん",
+  "url": "https://narashi-gohan.vercel.app/",
+  "icon": "icons/narashi-gohan.svg",
+  "tagline": "会食恐怖症の仲間と練習できるピアマッチング",
+  "description": "「会食恐怖症」の当事者同士が安心して会食の練習をするピアマッチングサービス。「残してもいい」など不安を手放せる3つの約束を掲げ、少人数開催・割り勘なし。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "mental-care",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "monday-reset",
+  "name": "Monday Reset",
+  "url": "https://monday-reset.vercel.app/",
+  "icon": "icons/monday-reset.svg",
+  "tagline": "サザエさん症候群の原因診断&リセットアクション",
+  "description": "日曜の夜になると憂鬱になる「サザエさん症候群」の原因を3問で診断し、「前夜祭」「月曜のご褒美」の2つの作戦で充実アクションを提案する無料アプリ。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "mental-care",
+   "lifestyle"
+  ]
+ },
+ {
+  "id": "correlation-diagram",
+  "name": "相関図鑑",
+  "url": "https://correlation-diagram.com/",
+  "icon": "icons/correlation-diagram.png",
+  "tagline": "アニメ・ドラマ・映画の相関図まとめ",
+  "description": "作品の登場人物の人間関係を、顔アバター付きの相関図で整理して紹介するサイト。アニメ・ドラマ・映画・漫画を横断して、複雑な関係性をひと目で理解できる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "anime",
+   "media"
+  ]
+ },
+ {
+  "id": "yaritai-list-kit",
+  "name": "死ぬまでにやりたいことリスト作成キット",
+  "url": "https://yaritai-list-kit.vercel.app/",
+  "icon": "icons/yaritai-list-kit.png",
+  "tagline": "5つの質問でやりたいことリストを自動生成",
+  "description": "5つの質問に答えるだけで、自分だけの「死ぬまでにやりたいことリスト」を10個お届けするキット。会員登録不要・完全無料で、みんなの作ったリストも眺められる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "lifestyle",
+   "generator"
+  ]
+ },
+ {
+  "id": "kamitsunagi",
+  "name": "かみつなぎ",
+  "url": "https://kamitsunagi.com/",
+  "icon": "icons/kamitsunagi.png",
+  "tagline": "あなたの髪が、誰かの必要なものになる。",
+  "description": "髪を提供したい人と必要とする人をつなぐ、髪の毛のC to Cマッチングプラットフォーム。長さ・太さ・カラー履歴などの詳細情報で出品・購入でき、匿名配送も対応。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "marketplace",
+   "c2c"
+  ]
+ },
+ {
+  "id": "jibun-migaki",
+  "name": "ジブン磨き",
+  "url": "https://mens.alphalinkpartners.com/",
+  "icon": "icons/jibun-migaki.svg",
+  "tagline": "人生は、攻略できる。レベル制の自分磨き",
+  "description": "マインドセット・清潔感・恋愛・収入など6分野を、ゲームのようなレベル制ミッションで進める自己改善プログラム。1本約10分の教材で5段階のステージを攻略する。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "self-improvement",
+   "education"
+  ]
+ },
+ {
+  "id": "pin-pon",
+  "name": "Pinpon",
+  "url": "https://pin-pon.net/",
+  "icon": "icons/pin-pon.svg",
+  "tagline": "卓球の大会・練習会を探してエントリー",
+  "description": "全国の卓球大会・イベントを都道府県・種目・レベル・開催日で絞り込んで検索し、そのままWebエントリーできるポータル。練習会や練習相手の募集も無料で主催できる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "table-tennis",
+   "event"
+  ]
+ },
+ {
+  "id": "spoiler-magna",
+  "name": "ネタバレ漫画サイト",
+  "url": "https://spoiler-magna.com/",
+  "icon": "icons/spoiler-magna.png",
+  "tagline": "漫画の結末・ネタバレを最速でまとめてお届け",
+  "description": "気になる漫画の結末やネタバレをまとめた辞典型サイト。作品ごとにあらすじ・最終回の解説・考察ポイントを整理し、ジャンル別に探せる情報サイト。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "manga",
+   "media"
+  ]
+ },
+ {
+  "id": "saishukai-net",
+  "name": "最終回まとめサイト",
+  "url": "https://xn--zbs588aoyq.net/",
+  "tagline": "アニメ・ドラマ・映画の最終回ネタバレ辞典",
+  "icon": "icons/saishukai-net.png",
+  "description": "気になるアニメ・ドラマ・映画の最終回ネタバレを最速でまとめる辞典型サイト。作品ごとにあらすじ・結末・考察ポイントを解説し、視聴前に確かめられる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "anime",
+   "media"
+  ]
+ },
+ {
+  "id": "comics-finish",
+  "name": "完結漫画まとめサイト",
+  "url": "https://comics-finish.com/",
+  "icon": "icons/comics-finish.png",
+  "tagline": "完結済み漫画の最終回ネタバレまとめ",
+  "description": "完結済みの漫画に特化したまとめサイト。作品情報・あらすじ・最終回のネタバレを整理し、ヒロアカや呪術廻戦など話題作の完結情報を検索して確かめられる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "manga",
+   "media"
+  ]
+ },
+ {
+  "id": "tennis-gut-antenna",
+  "name": "テニスガット張り替えナビ",
+  "url": "https://tennis-gut-antenna.com/",
+  "icon": "icons/tennis-gut-antenna.svg",
+  "tagline": "全国のテニスガット張り替え店を探せる",
+  "description": "全国のテニスガット張り替え店を都道府県別に探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件で絞り込み、地元の店を効率よく見つけられる。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "tennis",
+   "search"
+  ]
+ },
+ {
+  "id": "badminton-gut-antenna",
+  "name": "バドミントンガットナビ",
+  "url": "https://badminton-gut-antenna.com/",
+  "icon": "icons/badminton-gut-antenna.svg",
+  "tagline": "全国のバドミントンガット張り替え店を探せる",
+  "description": "全国のバドミントンガット張り替え店を47都道府県から探せる検索ナビ。「現在地から探す」「即日対応」「駅近」などの条件検索で、店舗とプレイヤーをつなぐ。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "badminton",
+   "search"
+  ]
+ },
+ {
+  "id": "supervisor-seo",
+  "name": "SEO監修者マッチ",
+  "url": "https://supervisor-seo.com/",
+  "icon": "icons/supervisor-seo.svg",
+  "tagline": "専門家に記事監修を依頼できるサービス",
+  "description": "本人確認済みの医師・弁護士などの専門家データベースから、カテゴリや資格・対応業務で絞り込んで記事の監修・執筆を依頼できるマッチングサービス。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "seo",
+   "matching"
+  ]
+ },
+ {
+  "id": "techregret",
+  "name": "TechRegret（テックリグレット）",
+  "url": "https://techregret.loous.net/",
+  "icon": "icons/techregret.png",
+  "tagline": "技術乗り換えの決定打を集める、後悔ログDB",
+  "description": "公式ドキュメントには載っていない、個人開発者・エンジニアが技術スタックを乗り換えた決定打（料金高騰・ビルド遅延・開発体験・仕様変更など）を集約。移行元→移行先の比較マトリクスと後悔ログを検索・投稿できる技術選定の罠回避プラットフォーム。プリセット4件収録、LocalStorageで投稿・共感を保存。",
+  "registeredAt": "2026-08-28",
+  "tags": [
+   "web",
+   "tool",
+   "database",
+   "engineering",
+   "community"
+  ]
+ },
+ {
+  "id": "y-studio",
+  "name": "Y STUDIO",
+  "url": "https://y-studios.github.io/",
+  "icon": "icons/y-studio.svg",
+  "tagline": "つくったものを並べておく、自分だけの棚",
+  "description": "自分がつくったプロダクトやサービスを一箇所に集めて眺めるための場所。URLを渡すだけで登録され、アイコンも自動で生成される。この場所自体が最初のプロダクト。",
+  "registeredAt": "2026-08-14",
+  "tags": [
+   "web",
+   "portfolio"
+  ]
+ },
+ {
+  "id": "claude-session-board",
+  "name": "Qujiraボード",
+  "url": "https://qujira.alphalinkpartners.com",
+  "icon": "icons/claude-session-board.svg",
+  "tagline": "並走するAIセッションを、稼働中・稼働完了で見張るくじらの板",
+  "description": "Y STUDIOに登録した全サービスをカード化し、Claude Codeのセッションと自動で紐付けて稼働中／稼働完了の2レーンで管理するボード。セッションが動いてから約4秒で反映され、各カードにはセッション名・経過時間・いま進めている内容・残タスク・AIと人間それぞれのテストチェック状態が並ぶ。サービスに紐付かない単発の作業は「単発」ラベル付きの独立カードになる。背景をくじらの群れが漂う。中身は認証で保護しているため、本人以外は閲覧できません。",
+  "registeredAt": "2026-08-17",
+  "tags": [
+   "web",
+   "tool",
+   "private"
+  ]
+ },
+ {
+  "id": "incomeboard",
+  "name": "IncomeBoard",
+  "url": "https://incomeboard.vercel.app",
+  "icon": "icons/incomeboard.svg",
+  "tagline": "固定給と時給をまとめて見る、フリーランスの収入ダッシュボード",
+  "description": "複数クライアントの固定給（毎月1日に反映）と時給（稼働時間シート連携で毎日自動集計）を1画面にまとめ、月次推移をグラフで確認できるダッシュボード。GitHub Actionsで毎日自動同期し、Cloudflare Pagesで運用。",
+  "registeredAt": "2026-08-20",
+  "tags": [
+   "web",
+   "tool",
+   "private"
+  ]
+ },
+ {
+  "id": "release-desk",
+  "name": "Release Desk（Qiita/Zenn下書き公開管理）",
+  "url": "https://release-desk.pages.dev/",
+  "icon": "icons/release-desk.svg",
+  "tagline": "プロダクトのリリース記事、下書きを確認してワンクリックで公開",
+  "description": "Qiita/Zennに書いたリリース告知記事の下書きを一覧で確認し、OKなら公開ボタン一つで本公開まで行える管理画面。Basic認証で本人限定。",
+  "registeredAt": "2026-08-22",
+  "tags": [
+   "web",
+   "tool",
+   "dev"
+  ]
+ }
 ]
