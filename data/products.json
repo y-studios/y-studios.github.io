@@ -1,5 +1,20 @@
 [
  {
+  "id": "bep-credit-studio",
+  "name": "BEP Credit Studio",
+  "url": "https://bep-credit-kings.netlify.app/",
+  "icon": "icons/bep-credit-studio.png",
+  "tagline": "クレカ年会費の損益分岐点を10秒算出",
+  "description": "年会費有料クレカの元が取れる決済額を精密計算。通常決済・コンビニ特約・クレカ積立・100万円修行まで網羅し、一般/ゴールド/プラチナの実質純利益を比較できる。",
+  "registeredAt": "2026-09-02",
+  "tags": [
+   "web",
+   "tool",
+   "affiliate",
+   "finance"
+  ]
+ },
+ {
   "id": "cool-card-gallery",
   "name": "COOL CARD GALLERY",
   "url": "https://cool-card-gallery.netlify.app/",
